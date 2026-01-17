@@ -1,0 +1,812 @@
+[
+  {
+    "commission_id": "COM-64AC9EDB",
+    "transaction_id": "TXN-D853BA6776",
+    "property": {
+      "unit_id": "DAMAC-DAM-D427",
+      "project_name": "DAMAC Lagoons",
+      "sale_price_aed": 14717000
+    },
+    "broker": {
+      "name": "Hill, Perez and Petersen",
+      "trn": "100991463873",
+      "rera_number": "BRN-96095"
+    },
+    "commission": {
+      "rate_percent": 5.0,
+      "gross_amount_aed": 735850.0,
+      "vat_amount_aed": 36792.5,
+      "total_with_vat_aed": 772642.5
+    },
+    "split": {
+      "external_broker_aed": 441510.0,
+      "internal_sales_aed": 294340.0
+    },
+    "payment_status": "pending",
+    "sales_agent": "Teresa Diaz",
+    "approval_date": "2026-01-16"
+  },
+  {
+    "commission_id": "COM-B79C7588",
+    "transaction_id": "TXN-953F27B8BB",
+    "property": {
+      "unit_id": "DAMAC-DAM-801",
+      "project_name": "DAMAC Bay 2",
+      "sale_price_aed": 5135000
+    },
+    "broker": {
+      "name": "Anderson-Heath",
+      "trn": "100596403617",
+      "rera_number": "BRN-83926"
+    },
+    "commission": {
+      "rate_percent": 5.0,
+      "gross_amount_aed": 256750.0,
+      "vat_amount_aed": 12837.5,
+      "total_with_vat_aed": 269587.5
+    },
+    "split": {
+      "external_broker_aed": 154050.0,
+      "internal_sales_aed": 102700.0
+    },
+    "payment_status": "pending",
+    "sales_agent": "Mallory White",
+    "approval_date": "2026-01-16"
+  },
+  {
+    "commission_id": "COM-9DE350BD",
+    "transaction_id": "TXN-314FF21DE4",
+    "property": {
+      "unit_id": "DAMAC-DAM-E87",
+      "project_name": "DAMAC Hills",
+      "sale_price_aed": 10739000
+    },
+    "broker": {
+      "name": "Kirk-Miller",
+      "trn": "100601502897",
+      "rera_number": "BRN-21566"
+    },
+    "commission": {
+      "rate_percent": 5.0,
+      "gross_amount_aed": 536950.0,
+      "vat_amount_aed": 26847.5,
+      "total_with_vat_aed": 563797.5
+    },
+    "split": {
+      "external_broker_aed": 322170.0,
+      "internal_sales_aed": 214780.0
+    },
+    "payment_status": "pending",
+    "sales_agent": "Jodi Kelley",
+    "approval_date": "2026-01-16"
+  },
+  {
+    "commission_id": "COM-DA09054C",
+    "transaction_id": "TXN-76D64DF748",
+    "property": {
+      "unit_id": "DAMAC-DAM-1205",
+      "project_name": "DAMAC Bay 2",
+      "sale_price_aed": 1677000
+    },
+    "broker": {
+      "name": "Meza, Summers and White",
+      "trn": "100665936679",
+      "rera_number": "BRN-63846"
+    },
+    "commission": {
+      "rate_percent": 5.0,
+      "gross_amount_aed": 83850.0,
+      "vat_amount_aed": 4192.5,
+      "total_with_vat_aed": 88042.5
+    },
+    "split": {
+      "external_broker_aed": 50310.0,
+      "internal_sales_aed": 33540.0
+    },
+    "payment_status": "approved",
+    "sales_agent": "Morgan Hall",
+    "approval_date": "2026-01-16"
+  },
+  {
+    "commission_id": "COM-EE58AD10",
+    "transaction_id": "TXN-5971028615",
+    "property": {
+      "unit_id": "DAMAC-DAM-3009",
+      "project_name": "DAMAC Bay",
+      "sale_price_aed": 3347000
+    },
+    "broker": {
+      "name": "Edwards, Moore and Wolf",
+      "trn": "100882568659",
+      "rera_number": "BRN-96536"
+    },
+    "commission": {
+      "rate_percent": 5.0,
+      "gross_amount_aed": 167350.0,
+      "vat_amount_aed": 8367.5,
+      "total_with_vat_aed": 175717.5
+    },
+    "split": {
+      "external_broker_aed": 100410.0,
+      "internal_sales_aed": 66940.0
+    },
+    "payment_status": "pending",
+    "sales_agent": "Sherri Thomas",
+    "approval_date": "2026-01-16"
+  },
+  {
+    "commission_id": "COM-4909A661",
+    "transaction_id": "TXN-461F6531AF",
+    "property": {
+      "unit_id": "DAMAC-SAF-3101",
+      "project_name": "Safa Two",
+      "sale_price_aed": 2257000
+    },
+    "broker": {
+      "name": "Hunt Ltd",
+      "trn": "100188222729",
+      "rera_number": "BRN-94772"
+    },
+    "commission": {
+      "rate_percent": 5.0,
+      "gross_amount_aed": 112850.0,
+      "vat_amount_aed": 5642.5,
+      "total_with_vat_aed": 118492.5
+    },
+    "split": {
+      "external_broker_aed": 67710.0,
+      "internal_sales_aed": 45140.0
+    },
+    "payment_status": "pending",
+    "sales_agent": "Luis Reyes",
+    "approval_date": "2026-01-16"
+  },
+  {
+    "commission_id": "COM-F0442C9A",
+    "transaction_id": "TXN-54327E763D",
+    "property": {
+      "unit_id": "DAMAC-DAM-B421",
+      "project_name": "DAMAC Islands",
+      "sale_price_aed": 19347000
+    },
+    "broker": {
+      "name": "Garcia, Riddle and Watson",
+      "trn": "100759837714",
+      "rera_number": "BRN-34794"
+    },
+    "commission": {
+      "rate_percent": 5.0,
+      "gross_amount_aed": 967350.0,
+      "vat_amount_aed": 48367.5,
+      "total_with_vat_aed": 1015717.5
+    },
+    "split": {
+      "external_broker_aed": 580410.0,
+      "internal_sales_aed": 386940.0
+    },
+    "payment_status": "on_hold",
+    "sales_agent": "Jennifer Rivera",
+    "approval_date": "2026-01-16"
+  },
+  {
+    "commission_id": "COM-C21CA67C",
+    "transaction_id": "TXN-8165B087F6",
+    "property": {
+      "unit_id": "DAMAC-CAV-1405",
+      "project_name": "Cavalli Tower",
+      "sale_price_aed": 2186000
+    },
+    "broker": {
+      "name": "Brown-Shea",
+      "trn": "100102892469",
+      "rera_number": "BRN-88742"
+    },
+    "commission": {
+      "rate_percent": 5.0,
+      "gross_amount_aed": 0,
+      "vat_amount_aed": 0.0,
+      "total_with_vat_aed": 0.0
+    },
+    "split": {
+      "external_broker_aed": 0.0,
+      "internal_sales_aed": 0.0
+    },
+    "payment_status": "paid",
+    "sales_agent": "Michael Dennis",
+    "approval_date": "2026-01-16"
+  },
+  {
+    "commission_id": "COM-9F3E3C5B",
+    "transaction_id": "TXN-D72F8D0252",
+    "property": {
+      "unit_id": "DAMAC-DAM-A479",
+      "project_name": "DAMAC Hills",
+      "sale_price_aed": 25837000
+    },
+    "broker": {
+      "name": "Doyle Ltd",
+      "trn": "100596468898",
+      "rera_number": "BRN-82939"
+    },
+    "commission": {
+      "rate_percent": 5.0,
+      "gross_amount_aed": 1291850.0,
+      "vat_amount_aed": 64592.5,
+      "total_with_vat_aed": 1356442.5
+    },
+    "split": {
+      "external_broker_aed": 775110.0,
+      "internal_sales_aed": 516740.0
+    },
+    "payment_status": "on_hold",
+    "sales_agent": "Kristin Gill",
+    "approval_date": "2026-01-16"
+  },
+  {
+    "commission_id": "COM-C28477D6",
+    "transaction_id": "TXN-2A377EBA18",
+    "property": {
+      "unit_id": "DAMAC-AYK-3902",
+      "project_name": "AYKON City",
+      "sale_price_aed": 6059000
+    },
+    "broker": {
+      "name": "Meyer, Smith and Roberts",
+      "trn": "100234084824",
+      "rera_number": "BRN-64563"
+    },
+    "commission": {
+      "rate_percent": 5.0,
+      "gross_amount_aed": 302950.0,
+      "vat_amount_aed": 15147.5,
+      "total_with_vat_aed": 318097.5
+    },
+    "split": {
+      "external_broker_aed": 181770.0,
+      "internal_sales_aed": 121180.0
+    },
+    "payment_status": "pending",
+    "sales_agent": "Steven Garcia",
+    "approval_date": "2026-01-16"
+  },
+  {
+    "commission_id": "COM-1FA411F5",
+    "transaction_id": "TXN-BF977E5D26",
+    "property": {
+      "unit_id": "DAMAC-DAM-D215",
+      "project_name": "DAMAC Hills 2",
+      "sale_price_aed": 12246000
+    },
+    "broker": {
+      "name": "Bowman, Smith and Estrada",
+      "trn": "100888568926",
+      "rera_number": "BRN-25440"
+    },
+    "commission": {
+      "rate_percent": 5.0,
+      "gross_amount_aed": 0,
+      "vat_amount_aed": 0.0,
+      "total_with_vat_aed": 0.0
+    },
+    "split": {
+      "external_broker_aed": 0.0,
+      "internal_sales_aed": 0.0
+    },
+    "payment_status": "approved",
+    "sales_agent": "Brandon Miller",
+    "approval_date": "2026-01-16"
+  },
+  {
+    "commission_id": "COM-236C4A3E",
+    "transaction_id": "TXN-A720A34102",
+    "property": {
+      "unit_id": "DAMAC-CAV-2607",
+      "project_name": "Cavalli Tower",
+      "sale_price_aed": 1398000
+    },
+    "broker": {
+      "name": "Phillips Group",
+      "trn": "100515274856",
+      "rera_number": "BRN-53392"
+    },
+    "commission": {
+      "rate_percent": 5.0,
+      "gross_amount_aed": 69900.0,
+      "vat_amount_aed": 3495.0,
+      "total_with_vat_aed": 73395.0
+    },
+    "split": {
+      "external_broker_aed": 41940.0,
+      "internal_sales_aed": 27960.0
+    },
+    "payment_status": "pending",
+    "sales_agent": "Christy Ellis",
+    "approval_date": "2026-01-16"
+  },
+  {
+    "commission_id": "COM-6BC8CE4A",
+    "transaction_id": "TXN-D3E3637F11",
+    "property": {
+      "unit_id": "DAMAC-CAV-1410",
+      "project_name": "Cavalli Tower",
+      "sale_price_aed": 3980000
+    },
+    "broker": {
+      "name": "Carroll LLC",
+      "trn": "100640016733",
+      "rera_number": "BRN-14040"
+    },
+    "commission": {
+      "rate_percent": 5.0,
+      "gross_amount_aed": 199000.0,
+      "vat_amount_aed": 9950.0,
+      "total_with_vat_aed": 208950.0
+    },
+    "split": {
+      "external_broker_aed": 119400.0,
+      "internal_sales_aed": 79600.0
+    },
+    "payment_status": "on_hold",
+    "sales_agent": "Lisa Mendez",
+    "approval_date": "2026-01-16"
+  },
+  {
+    "commission_id": "COM-16C39BE8",
+    "transaction_id": "TXN-ABFE7A37EE",
+    "property": {
+      "unit_id": "DAMAC-DAM-A366",
+      "project_name": "DAMAC Islands",
+      "sale_price_aed": 11455000
+    },
+    "broker": {
+      "name": "Mckay, Fernandez and Flynn",
+      "trn": "100924184465",
+      "rera_number": "BRN-66594"
+    },
+    "commission": {
+      "rate_percent": 5.0,
+      "gross_amount_aed": 572750.0,
+      "vat_amount_aed": 28637.5,
+      "total_with_vat_aed": 601387.5
+    },
+    "split": {
+      "external_broker_aed": 343650.0,
+      "internal_sales_aed": 229100.0
+    },
+    "payment_status": "on_hold",
+    "sales_agent": "Scott Gonzalez",
+    "approval_date": "2026-01-16"
+  },
+  {
+    "commission_id": "COM-9ACF8E83",
+    "transaction_id": "TXN-27A6BAE0F5",
+    "property": {
+      "unit_id": "DAMAC-DAM-C465",
+      "project_name": "DAMAC Lagoons",
+      "sale_price_aed": 13941000
+    },
+    "broker": {
+      "name": "Ramos, Miller and Salazar",
+      "trn": "100854470976",
+      "rera_number": "BRN-24541"
+    },
+    "commission": {
+      "rate_percent": 5.0,
+      "gross_amount_aed": 697050.0,
+      "vat_amount_aed": 34852.5,
+      "total_with_vat_aed": 731902.5
+    },
+    "split": {
+      "external_broker_aed": 418230.0,
+      "internal_sales_aed": 278820.0
+    },
+    "payment_status": "pending",
+    "sales_agent": "Veronica Ross",
+    "approval_date": "2026-01-16"
+  },
+  {
+    "commission_id": "COM-F467F2A9",
+    "transaction_id": "TXN-591A893484",
+    "property": {
+      "unit_id": "DAMAC-DAM-606",
+      "project_name": "DAMAC Bay 2",
+      "sale_price_aed": 3548000
+    },
+    "broker": {
+      "name": "Miller, Ramirez and George",
+      "trn": "100912433279",
+      "rera_number": "BRN-50863"
+    },
+    "commission": {
+      "rate_percent": 5.0,
+      "gross_amount_aed": 177400.0,
+      "vat_amount_aed": 8870.0,
+      "total_with_vat_aed": 186270.0
+    },
+    "split": {
+      "external_broker_aed": 106440.0,
+      "internal_sales_aed": 70960.0
+    },
+    "payment_status": "on_hold",
+    "sales_agent": "Susan Cox",
+    "approval_date": "2026-01-16"
+  },
+  {
+    "commission_id": "COM-58DABE0F",
+    "transaction_id": "TXN-F5C4DDB946",
+    "property": {
+      "unit_id": "DAMAC-SAF-5002",
+      "project_name": "Safa One",
+      "sale_price_aed": 4247000
+    },
+    "broker": {
+      "name": "Buck, Lee and Russell",
+      "trn": "100474944507",
+      "rera_number": "BRN-13539"
+    },
+    "commission": {
+      "rate_percent": 5.0,
+      "gross_amount_aed": 212350.0,
+      "vat_amount_aed": 10617.5,
+      "total_with_vat_aed": 222967.5
+    },
+    "split": {
+      "external_broker_aed": 127410.0,
+      "internal_sales_aed": 84940.0
+    },
+    "payment_status": "pending",
+    "sales_agent": "William Vasquez",
+    "approval_date": "2026-01-16"
+  },
+  {
+    "commission_id": "COM-4095FB30",
+    "transaction_id": "TXN-8596D2F798",
+    "property": {
+      "unit_id": "DAMAC-DAM-2507",
+      "project_name": "DAMAC Bay 2",
+      "sale_price_aed": 5387000
+    },
+    "broker": {
+      "name": "Morris PLC",
+      "trn": "100849613219",
+      "rera_number": "BRN-39907"
+    },
+    "commission": {
+      "rate_percent": 5.0,
+      "gross_amount_aed": 269350.0,
+      "vat_amount_aed": 13467.5,
+      "total_with_vat_aed": 282817.5
+    },
+    "split": {
+      "external_broker_aed": 161610.0,
+      "internal_sales_aed": 107740.0
+    },
+    "payment_status": "pending",
+    "sales_agent": "Chris Ali",
+    "approval_date": "2026-01-16"
+  },
+  {
+    "commission_id": "COM-CEB4A647",
+    "transaction_id": "TXN-E2763A7F4F",
+    "property": {
+      "unit_id": "DAMAC-SAF-4004",
+      "project_name": "Safa One",
+      "sale_price_aed": 6414000
+    },
+    "broker": {
+      "name": "Webb, Hernandez and Ward",
+      "trn": "100967854028",
+      "rera_number": "BRN-87247"
+    },
+    "commission": {
+      "rate_percent": 5.0,
+      "gross_amount_aed": 0,
+      "vat_amount_aed": 0.0,
+      "total_with_vat_aed": 0.0
+    },
+    "split": {
+      "external_broker_aed": 0.0,
+      "internal_sales_aed": 0.0
+    },
+    "payment_status": "approved",
+    "sales_agent": "Sandra Wolfe",
+    "approval_date": "2026-01-16"
+  },
+  {
+    "commission_id": "COM-45616E53",
+    "transaction_id": "TXN-8582BE1684",
+    "property": {
+      "unit_id": "DAMAC-DAM-D118",
+      "project_name": "DAMAC Hills 2",
+      "sale_price_aed": 19620000
+    },
+    "broker": {
+      "name": "Mills, Cook and Lutz",
+      "trn": "100349116250",
+      "rera_number": "BRN-42933"
+    },
+    "commission": {
+      "rate_percent": 5.0,
+      "gross_amount_aed": 0,
+      "vat_amount_aed": 0.0,
+      "total_with_vat_aed": 0.0
+    },
+    "split": {
+      "external_broker_aed": 0.0,
+      "internal_sales_aed": 0.0
+    },
+    "payment_status": "approved",
+    "sales_agent": "Mary Baker",
+    "approval_date": "2026-01-16"
+  },
+  {
+    "commission_id": "COM-552FC034",
+    "transaction_id": "TXN-FDE9D36B89",
+    "property": {
+      "unit_id": "DAMAC-DAM-B84",
+      "project_name": "DAMAC Lagoons",
+      "sale_price_aed": 16041000
+    },
+    "broker": {
+      "name": "Clark, Lamb and Cunningham",
+      "trn": "100874356737",
+      "rera_number": "BRN-64285"
+    },
+    "commission": {
+      "rate_percent": 5.0,
+      "gross_amount_aed": 802050.0,
+      "vat_amount_aed": 40102.5,
+      "total_with_vat_aed": 842152.5
+    },
+    "split": {
+      "external_broker_aed": 481230.0,
+      "internal_sales_aed": 320820.0
+    },
+    "payment_status": "approved",
+    "sales_agent": "Jill Davis",
+    "approval_date": "2026-01-16"
+  },
+  {
+    "commission_id": "COM-FE337375",
+    "transaction_id": "TXN-B462DD6E36",
+    "property": {
+      "unit_id": "DAMAC-SAF-3204",
+      "project_name": "Safa One",
+      "sale_price_aed": 1354000
+    },
+    "broker": {
+      "name": "Brown Inc",
+      "trn": "100701914664",
+      "rera_number": "BRN-45278"
+    },
+    "commission": {
+      "rate_percent": 5.0,
+      "gross_amount_aed": 67700.0,
+      "vat_amount_aed": 3385.0,
+      "total_with_vat_aed": 71085.0
+    },
+    "split": {
+      "external_broker_aed": 40620.0,
+      "internal_sales_aed": 27080.0
+    },
+    "payment_status": "approved",
+    "sales_agent": "Hannah Carroll",
+    "approval_date": "2026-01-16"
+  },
+  {
+    "commission_id": "COM-EFE90C48",
+    "transaction_id": "TXN-EED2D6E560",
+    "property": {
+      "unit_id": "DAMAC-DAM-2202",
+      "project_name": "DAMAC Bay 2",
+      "sale_price_aed": 1118000
+    },
+    "broker": {
+      "name": "Roach, King and Archer",
+      "trn": "100401649099",
+      "rera_number": "BRN-99674"
+    },
+    "commission": {
+      "rate_percent": 5.0,
+      "gross_amount_aed": 55900.0,
+      "vat_amount_aed": 2795.0,
+      "total_with_vat_aed": 58695.0
+    },
+    "split": {
+      "external_broker_aed": 33540.0,
+      "internal_sales_aed": 22360.0
+    },
+    "payment_status": "approved",
+    "sales_agent": "Mitchell Walter",
+    "approval_date": "2026-01-16"
+  },
+  {
+    "commission_id": "COM-5606A9F6",
+    "transaction_id": "TXN-9F9E337860",
+    "property": {
+      "unit_id": "DAMAC-ZAD-4511",
+      "project_name": "Zada Tower",
+      "sale_price_aed": 3325000
+    },
+    "broker": {
+      "name": "Dennis-Coleman",
+      "trn": "100638040744",
+      "rera_number": "BRN-15630"
+    },
+    "commission": {
+      "rate_percent": 5.0,
+      "gross_amount_aed": 166250.0,
+      "vat_amount_aed": 8312.5,
+      "total_with_vat_aed": 174562.5
+    },
+    "split": {
+      "external_broker_aed": 99750.0,
+      "internal_sales_aed": 66500.0
+    },
+    "payment_status": "pending",
+    "sales_agent": "Tanner Stokes",
+    "approval_date": "2026-01-16"
+  },
+  {
+    "commission_id": "COM-3DF0B059",
+    "transaction_id": "TXN-DDA2D1F680",
+    "property": {
+      "unit_id": "DAMAC-DAM-D335",
+      "project_name": "DAMAC Lagoons",
+      "sale_price_aed": 16143000
+    },
+    "broker": {
+      "name": "Holmes-Becker",
+      "trn": "100943004984",
+      "rera_number": "BRN-81462"
+    },
+    "commission": {
+      "rate_percent": 5.0,
+      "gross_amount_aed": 807150.0,
+      "vat_amount_aed": 40357.5,
+      "total_with_vat_aed": 847507.5
+    },
+    "split": {
+      "external_broker_aed": 484290.0,
+      "internal_sales_aed": 322860.0
+    },
+    "payment_status": "on_hold",
+    "sales_agent": "Christopher Fisher",
+    "approval_date": "2026-01-16"
+  },
+  {
+    "commission_id": "COM-EBF51A36",
+    "transaction_id": "TXN-C6C57A9440",
+    "property": {
+      "unit_id": "DAMAC-SAF-1811",
+      "project_name": "Safa One",
+      "sale_price_aed": 4304000
+    },
+    "broker": {
+      "name": "Carpenter, Tyler and Stewart",
+      "trn": "100661066914",
+      "rera_number": "BRN-63669"
+    },
+    "commission": {
+      "rate_percent": 5.0,
+      "gross_amount_aed": 0,
+      "vat_amount_aed": 0.0,
+      "total_with_vat_aed": 0.0
+    },
+    "split": {
+      "external_broker_aed": 0.0,
+      "internal_sales_aed": 0.0
+    },
+    "payment_status": "approved",
+    "sales_agent": "Mary Kennedy",
+    "approval_date": "2026-01-16"
+  },
+  {
+    "commission_id": "COM-ED4D43EE",
+    "transaction_id": "TXN-7D9899973A",
+    "property": {
+      "unit_id": "DAMAC-DAM-C425",
+      "project_name": "DAMAC Lagoons",
+      "sale_price_aed": 22152000
+    },
+    "broker": {
+      "name": "Cohen, Watson and Ferguson",
+      "trn": "100833164590",
+      "rera_number": "BRN-37900"
+    },
+    "commission": {
+      "rate_percent": 5.0,
+      "gross_amount_aed": 1107600.0,
+      "vat_amount_aed": 55380.0,
+      "total_with_vat_aed": 1162980.0
+    },
+    "split": {
+      "external_broker_aed": 664560.0,
+      "internal_sales_aed": 443040.0
+    },
+    "payment_status": "paid",
+    "sales_agent": "Kyle Stephenson",
+    "approval_date": "2026-01-16"
+  },
+  {
+    "commission_id": "COM-E08D069B",
+    "transaction_id": "TXN-7B92DC5E45",
+    "property": {
+      "unit_id": "DAMAC-DAM-D421",
+      "project_name": "DAMAC Hills",
+      "sale_price_aed": 17524000
+    },
+    "broker": {
+      "name": "Leonard, Watkins and Young",
+      "trn": "100801761232",
+      "rera_number": "BRN-17577"
+    },
+    "commission": {
+      "rate_percent": 5.0,
+      "gross_amount_aed": 876200.0,
+      "vat_amount_aed": 43810.0,
+      "total_with_vat_aed": 920010.0
+    },
+    "split": {
+      "external_broker_aed": 525720.0,
+      "internal_sales_aed": 350480.0
+    },
+    "payment_status": "paid",
+    "sales_agent": "Morgan Pitts",
+    "approval_date": "2026-01-16"
+  },
+  {
+    "commission_id": "COM-42F6D4CE",
+    "transaction_id": "TXN-5CDCFC0F1C",
+    "property": {
+      "unit_id": "DAMAC-SAF-2109",
+      "project_name": "Safa One",
+      "sale_price_aed": 5714000
+    },
+    "broker": {
+      "name": "Glover, Miller and Avila",
+      "trn": "100259278567",
+      "rera_number": "BRN-81771"
+    },
+    "commission": {
+      "rate_percent": 5.0,
+      "gross_amount_aed": 285700.0,
+      "vat_amount_aed": 14285.0,
+      "total_with_vat_aed": 299985.0
+    },
+    "split": {
+      "external_broker_aed": 171420.0,
+      "internal_sales_aed": 114280.0
+    },
+    "payment_status": "approved",
+    "sales_agent": "Katherine Clark",
+    "approval_date": "2026-01-16"
+  },
+  {
+    "commission_id": "COM-114B21C6",
+    "transaction_id": "TXN-2C8C724A32",
+    "property": {
+      "unit_id": "DAMAC-ZAD-408",
+      "project_name": "Zada Tower",
+      "sale_price_aed": 9424000
+    },
+    "broker": {
+      "name": "Cardenas Ltd",
+      "trn": "100483943734",
+      "rera_number": "BRN-81492"
+    },
+    "commission": {
+      "rate_percent": 5.0,
+      "gross_amount_aed": 471200.0,
+      "vat_amount_aed": 23560.0,
+      "total_with_vat_aed": 494760.0
+    },
+    "split": {
+      "external_broker_aed": 282720.0,
+      "internal_sales_aed": 188480.0
+    },
+    "payment_status": "on_hold",
+    "sales_agent": "Eduardo Allen",
+    "approval_date": "2026-01-16"
+  }
+]

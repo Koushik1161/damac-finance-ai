@@ -1,0 +1,7178 @@
+[
+  {
+    "invoice_id": "INV-7F02A35A",
+    "vendor": {
+      "name": "Drake & Scull",
+      "category": "MEP",
+      "trn": "100632620121",
+      "address": "195 Harris Island\nEast Angelicafurt, MO 12735",
+      "bank_name": "First Abu Dhabi Bank",
+      "iban": "GB95CKNB16261843705601"
+    },
+    "project": {
+      "name": "DAMAC Islands",
+      "location": "Dubai Islands",
+      "cost_center": "CC-DAM-329"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-03-17",
+      "received_date": "2026-01-18"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Contingency - drive collaborative schemas",
+        "quantity": 55,
+        "unit": "units",
+        "unit_price_aed": 46415,
+        "amount_aed": 2552825
+      },
+      {
+        "line_number": 2,
+        "description": "Security Systems - re-contextualize extensible content",
+        "quantity": 53,
+        "unit": "units",
+        "unit_price_aed": 9801,
+        "amount_aed": 519453
+      },
+      {
+        "line_number": 3,
+        "description": "Construction Progress - incentivize customized systems",
+        "quantity": 21,
+        "unit": "lots",
+        "unit_price_aed": 47443,
+        "amount_aed": 996303
+      },
+      {
+        "line_number": 4,
+        "description": "Security Systems - incubate revolutionary niches",
+        "quantity": 23,
+        "unit": "sqm",
+        "unit_price_aed": 18183,
+        "amount_aed": 418209
+      },
+      {
+        "line_number": 5,
+        "description": "Security Systems - brand compelling e-markets",
+        "quantity": 21,
+        "unit": "lots",
+        "unit_price_aed": 4981,
+        "amount_aed": 104601
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 4591391,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 229569.55,
+      "total_aed": 4820960.55,
+      "retention_percent": 5.0,
+      "retention_aed": 229569.55,
+      "net_payable_aed": 4591391.0
+    },
+    "payment_terms": "Net 60",
+    "currency": "AED",
+    "status": "pending_approval",
+    "approval_workflow": {
+      "site_engineer": {
+        "name": "Lindsey Newman",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "project_manager": null,
+      "finance_manager": null
+    },
+    "po_number": "PO-28404",
+    "contract_reference": "CONT-DAM-8577"
+  },
+  {
+    "invoice_id": "INV-15580587",
+    "vendor": {
+      "name": "Emirates Glass",
+      "category": "Materials",
+      "trn": "100317964004",
+      "address": "740 Frazier Path Suite 371\nNorth Patricia, CO 85795",
+      "bank_name": "Mashreq Bank",
+      "iban": "GB75CJEC22660665631632"
+    },
+    "project": {
+      "name": "DAMAC Bay",
+      "location": "Dubai Harbour",
+      "cost_center": "CC-DAM-137"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-02-15",
+      "received_date": "2026-01-21"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "External Works - embrace customized models",
+        "quantity": 1,
+        "unit": "sqm",
+        "unit_price_aed": 21788,
+        "amount_aed": 21788
+      },
+      {
+        "line_number": 2,
+        "description": "Material Supply - scale best-of-breed e-markets",
+        "quantity": 48,
+        "unit": "sets",
+        "unit_price_aed": 22431,
+        "amount_aed": 1076688
+      },
+      {
+        "line_number": 3,
+        "description": "Contingency - iterate efficient systems",
+        "quantity": 76,
+        "unit": "hours",
+        "unit_price_aed": 11628,
+        "amount_aed": 883728
+      },
+      {
+        "line_number": 4,
+        "description": "External Works - mesh e-business action-items",
+        "quantity": 19,
+        "unit": "lots",
+        "unit_price_aed": 22189,
+        "amount_aed": 421591
+      },
+      {
+        "line_number": 5,
+        "description": "MEP Works - revolutionize turn-key markets",
+        "quantity": 25,
+        "unit": "sets",
+        "unit_price_aed": 21012,
+        "amount_aed": 525300
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 2929095,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 146454.75,
+      "total_aed": 3075549.75,
+      "retention_percent": 5.0,
+      "retention_aed": 146454.75,
+      "net_payable_aed": 2929095.0
+    },
+    "payment_terms": "Net 30",
+    "currency": "AED",
+    "status": "partially_paid",
+    "approval_workflow": {
+      "site_engineer": null,
+      "project_manager": null,
+      "finance_manager": null
+    },
+    "po_number": "PO-31118",
+    "contract_reference": "CONT-DAM-5916"
+  },
+  {
+    "invoice_id": "INV-F0E2AAD8",
+    "vendor": {
+      "name": "ALEC Engineering",
+      "category": "Main Contractor",
+      "trn": "100399149855",
+      "address": "452 Knight Drive Apt. 660\nNorth Cynthia, GU 10822",
+      "bank_name": "First Abu Dhabi Bank",
+      "iban": "GB05HJYE71932689418627"
+    },
+    "project": {
+      "name": "DAMAC Hills 2",
+      "location": "Dubailand",
+      "cost_center": "CC-DAM-586"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-03-17",
+      "received_date": "2026-01-18"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Landscaping - incentivize out-of-the-box technologies",
+        "quantity": 24,
+        "unit": "sets",
+        "unit_price_aed": 46354,
+        "amount_aed": 1112496
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 1112496,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 55624.8,
+      "total_aed": 1168120.8,
+      "retention_percent": 5.0,
+      "retention_aed": 55624.8,
+      "net_payable_aed": 1112496.0
+    },
+    "payment_terms": "Net 60",
+    "currency": "AED",
+    "status": "on_hold",
+    "approval_workflow": {
+      "site_engineer": {
+        "name": "Leslie Martinez",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "project_manager": {
+        "name": "Julie Nelson",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "finance_manager": {
+        "name": "Scott Walker",
+        "date": "2026-01-16",
+        "status": "pending"
+      }
+    },
+    "po_number": "PO-93901",
+    "contract_reference": "CONT-DAM-8166"
+  },
+  {
+    "invoice_id": "INV-9A8B717C",
+    "vendor": {
+      "name": "ALEC Engineering",
+      "category": "Main Contractor",
+      "trn": "100421181214",
+      "address": "044 James Harbors Suite 375\nSouth Nicholaston, FM 06782",
+      "bank_name": "Dubai Islamic Bank",
+      "iban": "GB75GVNS41563398063698"
+    },
+    "project": {
+      "name": "DAMAC Hills",
+      "location": "Dubailand",
+      "cost_center": "CC-DAM-924"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-03-17",
+      "received_date": "2026-01-20"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Smart Home Installation - enable e-business e-services",
+        "quantity": 37,
+        "unit": "sets",
+        "unit_price_aed": 14183,
+        "amount_aed": 524771
+      },
+      {
+        "line_number": 2,
+        "description": "Landscaping - re-contextualize distributed users",
+        "quantity": 84,
+        "unit": "sets",
+        "unit_price_aed": 26295,
+        "amount_aed": 2208780
+      },
+      {
+        "line_number": 3,
+        "description": "External Works - brand leading-edge content",
+        "quantity": 76,
+        "unit": "units",
+        "unit_price_aed": 8096,
+        "amount_aed": 615296
+      },
+      {
+        "line_number": 4,
+        "description": "Swimming Pool - cultivate cross-platform methodologies",
+        "quantity": 12,
+        "unit": "sqm",
+        "unit_price_aed": 26874,
+        "amount_aed": 322488
+      },
+      {
+        "line_number": 5,
+        "description": "Security Systems - facilitate frictionless e-services",
+        "quantity": 72,
+        "unit": "sqm",
+        "unit_price_aed": 46243,
+        "amount_aed": 3329496
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 7000831,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 350041.55,
+      "total_aed": 7350872.55,
+      "retention_percent": 5.0,
+      "retention_aed": 350041.55,
+      "net_payable_aed": 7000831.0
+    },
+    "payment_terms": "Net 60",
+    "currency": "AED",
+    "status": "approved",
+    "approval_workflow": {
+      "site_engineer": null,
+      "project_manager": null,
+      "finance_manager": {
+        "name": "Jennifer Cruz",
+        "date": "2026-01-16",
+        "status": "pending"
+      }
+    },
+    "po_number": "PO-21717",
+    "contract_reference": "CONT-DAM-2779"
+  },
+  {
+    "invoice_id": "INV-4DAB6747",
+    "vendor": {
+      "name": "Al Futtaim Carillion",
+      "category": "Fit-out",
+      "trn": "100741811423",
+      "address": "2478 Angela Shores Apt. 388\nDanielshire, NM 69863",
+      "bank_name": "RAKBANK",
+      "iban": "GB09AJSV46784123856910"
+    },
+    "project": {
+      "name": "AYKON City",
+      "location": "Sheikh Zayed Road",
+      "cost_center": "CC-AYK-933"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-03-17",
+      "received_date": "2026-01-20"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Construction Progress - re-contextualize clicks-and-mortar methodologies",
+        "quantity": 81,
+        "unit": "lots",
+        "unit_price_aed": 5186,
+        "amount_aed": 420066
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 420066,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 21003.3,
+      "total_aed": 441069.3,
+      "retention_percent": 5.0,
+      "retention_aed": 21003.3,
+      "net_payable_aed": 420066.0
+    },
+    "payment_terms": "Net 60",
+    "currency": "AED",
+    "status": "pending_approval",
+    "approval_workflow": {
+      "site_engineer": null,
+      "project_manager": null,
+      "finance_manager": {
+        "name": "Brian Phillips",
+        "date": "2026-01-16",
+        "status": "pending"
+      }
+    },
+    "po_number": "PO-78322",
+    "contract_reference": "CONT-AYK-4346"
+  },
+  {
+    "invoice_id": "INV-43416BCE",
+    "vendor": {
+      "name": "ALEC Engineering",
+      "category": "Main Contractor",
+      "trn": "100887897972",
+      "address": "05593 Cochran Glen Apt. 357\nTammyfurt, NC 68497",
+      "bank_name": "Emirates NBD",
+      "iban": "GB25LMGI78798582411933"
+    },
+    "project": {
+      "name": "Cavalli Tower",
+      "location": "Dubai Marina",
+      "cost_center": "CC-CAV-103"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-03-17",
+      "received_date": "2026-01-20"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Security Systems - harness e-business partnerships",
+        "quantity": 18,
+        "unit": "sqm",
+        "unit_price_aed": 5541,
+        "amount_aed": 99738
+      },
+      {
+        "line_number": 2,
+        "description": "Contingency - unleash cross-platform experiences",
+        "quantity": 58,
+        "unit": "sqm",
+        "unit_price_aed": 11570,
+        "amount_aed": 671060
+      },
+      {
+        "line_number": 3,
+        "description": "Landscaping - brand bricks-and-clicks architectures",
+        "quantity": 59,
+        "unit": "hours",
+        "unit_price_aed": 38828,
+        "amount_aed": 2290852
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 3061650,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 153082.5,
+      "total_aed": 3214732.5,
+      "retention_percent": 5.0,
+      "retention_aed": 153082.5,
+      "net_payable_aed": 3061650.0
+    },
+    "payment_terms": "Net 60",
+    "currency": "AED",
+    "status": "approved",
+    "approval_workflow": {
+      "site_engineer": {
+        "name": "Matthew Smith",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "project_manager": {
+        "name": "Mary Andrews",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "finance_manager": {
+        "name": "Frank Johnson",
+        "date": "2026-01-16",
+        "status": "pending"
+      }
+    },
+    "po_number": "PO-72025",
+    "contract_reference": "CONT-CAV-9429"
+  },
+  {
+    "invoice_id": "INV-B3A09BD2",
+    "vendor": {
+      "name": "Al Futtaim Carillion",
+      "category": "Fit-out",
+      "trn": "100816788999",
+      "address": "507 Courtney Corner Apt. 461\nWest Mariaberg, KY 00926",
+      "bank_name": "Mashreq Bank",
+      "iban": "GB63RDOA43790721235015"
+    },
+    "project": {
+      "name": "DAMAC Hills 2",
+      "location": "Dubailand",
+      "cost_center": "CC-DAM-663"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-03-17",
+      "received_date": "2026-01-19"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Construction Progress - reinvent out-of-the-box initiatives",
+        "quantity": 50,
+        "unit": "sqm",
+        "unit_price_aed": 40765,
+        "amount_aed": 2038250
+      },
+      {
+        "line_number": 2,
+        "description": "Security Systems - deliver value-added partnerships",
+        "quantity": 49,
+        "unit": "hours",
+        "unit_price_aed": 32104,
+        "amount_aed": 1573096
+      },
+      {
+        "line_number": 3,
+        "description": "Swimming Pool - orchestrate magnetic experiences",
+        "quantity": 23,
+        "unit": "sqm",
+        "unit_price_aed": 19247,
+        "amount_aed": 442681
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 4054027,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 202701.35,
+      "total_aed": 4256728.35,
+      "retention_percent": 5.0,
+      "retention_aed": 202701.35,
+      "net_payable_aed": 4054027.0
+    },
+    "payment_terms": "Net 60",
+    "currency": "AED",
+    "status": "pending_approval",
+    "approval_workflow": {
+      "site_engineer": null,
+      "project_manager": {
+        "name": "Richard Franklin",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "finance_manager": null
+    },
+    "po_number": "PO-22668",
+    "contract_reference": "CONT-DAM-4121"
+  },
+  {
+    "invoice_id": "INV-DACDB1C4",
+    "vendor": {
+      "name": "Al Habtoor Engineering",
+      "category": "MEP",
+      "trn": "100360444670",
+      "address": "18562 Vargas Forges Apt. 891\nSouth Sarastad, MD 50640",
+      "bank_name": "Emirates NBD",
+      "iban": "GB83JNQR39160883359404"
+    },
+    "project": {
+      "name": "DAMAC Hills 2",
+      "location": "Dubailand",
+      "cost_center": "CC-DAM-472"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-02-15",
+      "received_date": "2026-01-20"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Contingency - drive one-to-one eyeballs",
+        "quantity": 6,
+        "unit": "sets",
+        "unit_price_aed": 24537,
+        "amount_aed": 147222
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 147222,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 7361.1,
+      "total_aed": 154583.1,
+      "retention_percent": 5.0,
+      "retention_aed": 7361.1,
+      "net_payable_aed": 147222.0
+    },
+    "payment_terms": "Net 30",
+    "currency": "AED",
+    "status": "on_hold",
+    "approval_workflow": {
+      "site_engineer": null,
+      "project_manager": null,
+      "finance_manager": {
+        "name": "Mrs. Carol Bowers",
+        "date": "2026-01-16",
+        "status": "pending"
+      }
+    },
+    "po_number": "PO-66219",
+    "contract_reference": "CONT-DAM-7986"
+  },
+  {
+    "invoice_id": "INV-1216E06F",
+    "vendor": {
+      "name": "ALEC Engineering",
+      "category": "Main Contractor",
+      "trn": "100851425801",
+      "address": "94671 Williams Ports\nNew Johnland, MN 42396",
+      "bank_name": "RAKBANK",
+      "iban": "GB45OQDB48683589492727"
+    },
+    "project": {
+      "name": "DAMAC Hills 2",
+      "location": "Dubailand",
+      "cost_center": "CC-DAM-190"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-03-17",
+      "received_date": "2026-01-19"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "External Works - evolve viral users",
+        "quantity": 97,
+        "unit": "sets",
+        "unit_price_aed": 14998,
+        "amount_aed": 1454806
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 1454806,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 72740.3,
+      "total_aed": 1527546.3,
+      "retention_percent": 5.0,
+      "retention_aed": 72740.3,
+      "net_payable_aed": 1454806.0
+    },
+    "payment_terms": "Net 60",
+    "currency": "AED",
+    "status": "approved",
+    "approval_workflow": {
+      "site_engineer": {
+        "name": "Beth Day",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "project_manager": null,
+      "finance_manager": {
+        "name": "Melissa Curtis",
+        "date": "2026-01-16",
+        "status": "pending"
+      }
+    },
+    "po_number": "PO-74500",
+    "contract_reference": "CONT-DAM-2474"
+  },
+  {
+    "invoice_id": "INV-F28F5516",
+    "vendor": {
+      "name": "Arabtec Construction",
+      "category": "Civil Works",
+      "trn": "100871726450",
+      "address": "95670 Michael Drives\nWest Erichaven, SD 24980",
+      "bank_name": "Mashreq Bank",
+      "iban": "GB96GLYG78671565158602"
+    },
+    "project": {
+      "name": "DAMAC Hills",
+      "location": "Dubailand",
+      "cost_center": "CC-DAM-279"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-03-17",
+      "received_date": "2026-01-20"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Fit-out Works - evolve web-enabled platforms",
+        "quantity": 40,
+        "unit": "sets",
+        "unit_price_aed": 27682,
+        "amount_aed": 1107280
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 1107280,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 55364.0,
+      "total_aed": 1162644.0,
+      "retention_percent": 5.0,
+      "retention_aed": 55364.0,
+      "net_payable_aed": 1107280.0
+    },
+    "payment_terms": "Net 60",
+    "currency": "AED",
+    "status": "on_hold",
+    "approval_workflow": {
+      "site_engineer": null,
+      "project_manager": {
+        "name": "Stephen Mccoy",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "finance_manager": null
+    },
+    "po_number": "PO-31050",
+    "contract_reference": "CONT-DAM-8540"
+  },
+  {
+    "invoice_id": "INV-17CFFE37",
+    "vendor": {
+      "name": "ALEC Engineering",
+      "category": "Main Contractor",
+      "trn": "100558981202",
+      "address": "505 Megan Via\nWest Courtneyport, MD 45449",
+      "bank_name": "Mashreq Bank",
+      "iban": "GB68NSXM68197110076619"
+    },
+    "project": {
+      "name": "DAMAC Bay 2",
+      "location": "Dubai Harbour",
+      "cost_center": "CC-DAM-116"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-03-17",
+      "received_date": "2026-01-21"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Material Supply - innovate revolutionary eyeballs",
+        "quantity": 60,
+        "unit": "lots",
+        "unit_price_aed": 45350,
+        "amount_aed": 2721000
+      },
+      {
+        "line_number": 2,
+        "description": "Smart Home Installation - reinvent mission-critical bandwidth",
+        "quantity": 12,
+        "unit": "hours",
+        "unit_price_aed": 34174,
+        "amount_aed": 410088
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 3131088,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 156554.4,
+      "total_aed": 3287642.4,
+      "retention_percent": 5.0,
+      "retention_aed": 156554.4,
+      "net_payable_aed": 3131088.0
+    },
+    "payment_terms": "Net 60",
+    "currency": "AED",
+    "status": "pending_approval",
+    "approval_workflow": {
+      "site_engineer": null,
+      "project_manager": {
+        "name": "Gary Clark",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "finance_manager": {
+        "name": "Howard Ross",
+        "date": "2026-01-16",
+        "status": "pending"
+      }
+    },
+    "po_number": "PO-81355",
+    "contract_reference": "CONT-DAM-9533"
+  },
+  {
+    "invoice_id": "INV-052F4A6C",
+    "vendor": {
+      "name": "Schindler Gulf",
+      "category": "Elevators",
+      "trn": "100971181702",
+      "address": "22676 Taylor Views\nSouth Kelly, MP 69444",
+      "bank_name": "RAKBANK",
+      "iban": "GB14JGCN09736298736129"
+    },
+    "project": {
+      "name": "Cavalli Tower",
+      "location": "Dubai Marina",
+      "cost_center": "CC-CAV-730"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-03-02",
+      "received_date": "2026-01-21"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Smart Home Installation - strategize web-enabled niches",
+        "quantity": 61,
+        "unit": "sqm",
+        "unit_price_aed": 12846,
+        "amount_aed": 783606
+      },
+      {
+        "line_number": 2,
+        "description": "Fit-out Works - morph compelling ROI",
+        "quantity": 71,
+        "unit": "lots",
+        "unit_price_aed": 22103,
+        "amount_aed": 1569313
+      },
+      {
+        "line_number": 3,
+        "description": "Landscaping - syndicate real-time mindshare",
+        "quantity": 27,
+        "unit": "sqm",
+        "unit_price_aed": 44465,
+        "amount_aed": 1200555
+      },
+      {
+        "line_number": 4,
+        "description": "MEP Works - incentivize customized architectures",
+        "quantity": 98,
+        "unit": "lots",
+        "unit_price_aed": 15718,
+        "amount_aed": 1540364
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 5093838,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 254691.9,
+      "total_aed": 5348529.9,
+      "retention_percent": 5.0,
+      "retention_aed": 254691.9,
+      "net_payable_aed": 5093838.0
+    },
+    "payment_terms": "Net 45",
+    "currency": "AED",
+    "status": "disputed",
+    "approval_workflow": {
+      "site_engineer": {
+        "name": "Casey Perez",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "project_manager": null,
+      "finance_manager": {
+        "name": "Adam Garcia",
+        "date": "2026-01-16",
+        "status": "pending"
+      }
+    },
+    "po_number": "PO-60873",
+    "contract_reference": "CONT-CAV-5161"
+  },
+  {
+    "invoice_id": "INV-A6F624FC",
+    "vendor": {
+      "name": "Schindler Gulf",
+      "category": "Elevators",
+      "trn": "100520730562",
+      "address": "847 Williams Lodge\nGonzalezland, VI 81763",
+      "bank_name": "Abu Dhabi Commercial Bank",
+      "iban": "GB77YQEZ27978546940496"
+    },
+    "project": {
+      "name": "DAMAC Hills 2",
+      "location": "Dubailand",
+      "cost_center": "CC-DAM-506"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-03-02",
+      "received_date": "2026-01-17"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Construction Progress - scale strategic markets",
+        "quantity": 25,
+        "unit": "sqm",
+        "unit_price_aed": 4997,
+        "amount_aed": 124925
+      },
+      {
+        "line_number": 2,
+        "description": "Swimming Pool - extend frictionless mindshare",
+        "quantity": 95,
+        "unit": "hours",
+        "unit_price_aed": 20110,
+        "amount_aed": 1910450
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 2035375,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 101768.75,
+      "total_aed": 2137143.75,
+      "retention_percent": 5.0,
+      "retention_aed": 101768.75,
+      "net_payable_aed": 2035375.0
+    },
+    "payment_terms": "Net 45",
+    "currency": "AED",
+    "status": "paid",
+    "approval_workflow": {
+      "site_engineer": {
+        "name": "Dr. Brandy Ray MD",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "project_manager": null,
+      "finance_manager": null
+    },
+    "po_number": "PO-27276",
+    "contract_reference": "CONT-DAM-9611"
+  },
+  {
+    "invoice_id": "INV-70A020F5",
+    "vendor": {
+      "name": "Schindler Gulf",
+      "category": "Elevators",
+      "trn": "100300871773",
+      "address": "4766 Carter Fall\nNew Peter, CA 40615",
+      "bank_name": "First Abu Dhabi Bank",
+      "iban": "GB88XIKI69988036251244"
+    },
+    "project": {
+      "name": "DAMAC Hills 2",
+      "location": "Dubailand",
+      "cost_center": "CC-DAM-873"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-02-15",
+      "received_date": "2026-01-20"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Construction Progress - exploit proactive relationships",
+        "quantity": 60,
+        "unit": "hours",
+        "unit_price_aed": 17118,
+        "amount_aed": 1027080
+      },
+      {
+        "line_number": 2,
+        "description": "MEP Works - drive holistic e-commerce",
+        "quantity": 87,
+        "unit": "sets",
+        "unit_price_aed": 12269,
+        "amount_aed": 1067403
+      },
+      {
+        "line_number": 3,
+        "description": "Contingency - benchmark world-class markets",
+        "quantity": 97,
+        "unit": "lots",
+        "unit_price_aed": 6308,
+        "amount_aed": 611876
+      },
+      {
+        "line_number": 4,
+        "description": "External Works - optimize granular eyeballs",
+        "quantity": 87,
+        "unit": "units",
+        "unit_price_aed": 32915,
+        "amount_aed": 2863605
+      },
+      {
+        "line_number": 5,
+        "description": "External Works - architect transparent supply-chains",
+        "quantity": 48,
+        "unit": "sqm",
+        "unit_price_aed": 42420,
+        "amount_aed": 2036160
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 7606124,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 380306.2,
+      "total_aed": 7986430.2,
+      "retention_percent": 5.0,
+      "retention_aed": 380306.2,
+      "net_payable_aed": 7606124.0
+    },
+    "payment_terms": "Net 30",
+    "currency": "AED",
+    "status": "approved",
+    "approval_workflow": {
+      "site_engineer": null,
+      "project_manager": {
+        "name": "John Burns",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "finance_manager": null
+    },
+    "po_number": "PO-85082",
+    "contract_reference": "CONT-DAM-6716"
+  },
+  {
+    "invoice_id": "INV-B56AF5F8",
+    "vendor": {
+      "name": "Schindler Gulf",
+      "category": "Elevators",
+      "trn": "100829973851",
+      "address": "863 Vasquez Flats Suite 880\nNorth Kristine, HI 68759",
+      "bank_name": "First Abu Dhabi Bank",
+      "iban": "GB83LOOF17398783727729"
+    },
+    "project": {
+      "name": "AYKON City",
+      "location": "Sheikh Zayed Road",
+      "cost_center": "CC-AYK-284"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-02-15",
+      "received_date": "2026-01-17"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Construction Progress - benchmark mission-critical markets",
+        "quantity": 74,
+        "unit": "units",
+        "unit_price_aed": 35201,
+        "amount_aed": 2604874
+      },
+      {
+        "line_number": 2,
+        "description": "Security Systems - scale magnetic e-tailers",
+        "quantity": 54,
+        "unit": "sqm",
+        "unit_price_aed": 48428,
+        "amount_aed": 2615112
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 5219986,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 260999.3,
+      "total_aed": 5480985.3,
+      "retention_percent": 5.0,
+      "retention_aed": 260999.3,
+      "net_payable_aed": 5219986.0
+    },
+    "payment_terms": "Net 30",
+    "currency": "AED",
+    "status": "disputed",
+    "approval_workflow": {
+      "site_engineer": {
+        "name": "Holly Evans",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "project_manager": null,
+      "finance_manager": {
+        "name": "John Miller",
+        "date": "2026-01-16",
+        "status": "pending"
+      }
+    },
+    "po_number": "PO-12421",
+    "contract_reference": "CONT-AYK-5743"
+  },
+  {
+    "invoice_id": "INV-2A08F8CF",
+    "vendor": {
+      "name": "Emirates Glass",
+      "category": "Materials",
+      "trn": "100795358255",
+      "address": "02082 Jennifer Rue Suite 306\nFrederickhaven, WI 11732",
+      "bank_name": "First Abu Dhabi Bank",
+      "iban": "GB40JTHI70399817805678"
+    },
+    "project": {
+      "name": "DAMAC Hills 2",
+      "location": "Dubailand",
+      "cost_center": "CC-DAM-357"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-03-02",
+      "received_date": "2026-01-19"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Construction Progress - strategize clicks-and-mortar info-mediaries",
+        "quantity": 80,
+        "unit": "hours",
+        "unit_price_aed": 18189,
+        "amount_aed": 1455120
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 1455120,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 72756.0,
+      "total_aed": 1527876.0,
+      "retention_percent": 5.0,
+      "retention_aed": 72756.0,
+      "net_payable_aed": 1455120.0
+    },
+    "payment_terms": "Net 45",
+    "currency": "AED",
+    "status": "partially_paid",
+    "approval_workflow": {
+      "site_engineer": {
+        "name": "Joshua Bennett",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "project_manager": null,
+      "finance_manager": {
+        "name": "Stephanie West",
+        "date": "2026-01-16",
+        "status": "pending"
+      }
+    },
+    "po_number": "PO-98968",
+    "contract_reference": "CONT-DAM-4752"
+  },
+  {
+    "invoice_id": "INV-D0C8EC28",
+    "vendor": {
+      "name": "ALEC Engineering",
+      "category": "Main Contractor",
+      "trn": "100865389252",
+      "address": "5223 Natasha Parkways Apt. 061\nDaisyborough, ID 44704",
+      "bank_name": "RAKBANK",
+      "iban": "GB40VVPT54315591953856"
+    },
+    "project": {
+      "name": "DAMAC Hills 2",
+      "location": "Dubailand",
+      "cost_center": "CC-DAM-686"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-03-17",
+      "received_date": "2026-01-17"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Landscaping - syndicate extensible users",
+        "quantity": 6,
+        "unit": "sets",
+        "unit_price_aed": 7324,
+        "amount_aed": 43944
+      },
+      {
+        "line_number": 2,
+        "description": "Fit-out Works - matrix efficient functionalities",
+        "quantity": 97,
+        "unit": "hours",
+        "unit_price_aed": 34146,
+        "amount_aed": 3312162
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 3356106,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 167805.3,
+      "total_aed": 3523911.3,
+      "retention_percent": 5.0,
+      "retention_aed": 167805.3,
+      "net_payable_aed": 3356106.0
+    },
+    "payment_terms": "Net 60",
+    "currency": "AED",
+    "status": "pending_approval",
+    "approval_workflow": {
+      "site_engineer": null,
+      "project_manager": null,
+      "finance_manager": null
+    },
+    "po_number": "PO-23131",
+    "contract_reference": "CONT-DAM-3857"
+  },
+  {
+    "invoice_id": "INV-0B2C9BB4",
+    "vendor": {
+      "name": "ALEC Engineering",
+      "category": "Main Contractor",
+      "trn": "100620557181",
+      "address": "766 Reed Road Apt. 343\nNorth Dominic, ID 57386",
+      "bank_name": "First Abu Dhabi Bank",
+      "iban": "GB61CDNT81261591702937"
+    },
+    "project": {
+      "name": "AYKON City",
+      "location": "Sheikh Zayed Road",
+      "cost_center": "CC-AYK-815"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-03-02",
+      "received_date": "2026-01-21"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Construction Progress - visualize B2C communities",
+        "quantity": 24,
+        "unit": "sqm",
+        "unit_price_aed": 9061,
+        "amount_aed": 217464
+      },
+      {
+        "line_number": 2,
+        "description": "Landscaping - maximize cutting-edge vortals",
+        "quantity": 75,
+        "unit": "units",
+        "unit_price_aed": 29398,
+        "amount_aed": 2204850
+      },
+      {
+        "line_number": 3,
+        "description": "Fit-out Works - productize seamless technologies",
+        "quantity": 83,
+        "unit": "sets",
+        "unit_price_aed": 30405,
+        "amount_aed": 2523615
+      },
+      {
+        "line_number": 4,
+        "description": "External Works - whiteboard granular deliverables",
+        "quantity": 38,
+        "unit": "hours",
+        "unit_price_aed": 37060,
+        "amount_aed": 1408280
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 6354209,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 317710.45,
+      "total_aed": 6671919.45,
+      "retention_percent": 5.0,
+      "retention_aed": 317710.45,
+      "net_payable_aed": 6354209.0
+    },
+    "payment_terms": "Net 45",
+    "currency": "AED",
+    "status": "partially_paid",
+    "approval_workflow": {
+      "site_engineer": null,
+      "project_manager": {
+        "name": "Jessica Petersen",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "finance_manager": {
+        "name": "Micheal Little",
+        "date": "2026-01-16",
+        "status": "pending"
+      }
+    },
+    "po_number": "PO-77053",
+    "contract_reference": "CONT-AYK-1679"
+  },
+  {
+    "invoice_id": "INV-43FC18CF",
+    "vendor": {
+      "name": "Al Futtaim Carillion",
+      "category": "Fit-out",
+      "trn": "100654860467",
+      "address": "USNS Lang\nFPO AE 63492",
+      "bank_name": "Dubai Islamic Bank",
+      "iban": "GB83VIQW92464449517975"
+    },
+    "project": {
+      "name": "DAMAC Hills 2",
+      "location": "Dubailand",
+      "cost_center": "CC-DAM-657"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-03-02",
+      "received_date": "2026-01-21"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Fit-out Works - maximize vertical models",
+        "quantity": 70,
+        "unit": "hours",
+        "unit_price_aed": 5422,
+        "amount_aed": 379540
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 379540,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 18977.0,
+      "total_aed": 398517.0,
+      "retention_percent": 5.0,
+      "retention_aed": 18977.0,
+      "net_payable_aed": 379540.0
+    },
+    "payment_terms": "Net 45",
+    "currency": "AED",
+    "status": "partially_paid",
+    "approval_workflow": {
+      "site_engineer": {
+        "name": "Michael Aguilar",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "project_manager": {
+        "name": "Tina Lynch",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "finance_manager": {
+        "name": "Jared Martin",
+        "date": "2026-01-16",
+        "status": "pending"
+      }
+    },
+    "po_number": "PO-12876",
+    "contract_reference": "CONT-DAM-5021"
+  },
+  {
+    "invoice_id": "INV-7B8214AA",
+    "vendor": {
+      "name": "Carrier Middle East",
+      "category": "HVAC",
+      "trn": "100173853947",
+      "address": "9274 Kelly Trail Suite 131\nSouth Dawnville, AS 83916",
+      "bank_name": "First Abu Dhabi Bank",
+      "iban": "GB19PPBT93913740518974"
+    },
+    "project": {
+      "name": "DAMAC Bay",
+      "location": "Dubai Harbour",
+      "cost_center": "CC-DAM-822"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-03-17",
+      "received_date": "2026-01-17"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Material Supply - deploy bricks-and-clicks vortals",
+        "quantity": 35,
+        "unit": "units",
+        "unit_price_aed": 18140,
+        "amount_aed": 634900
+      },
+      {
+        "line_number": 2,
+        "description": "Swimming Pool - exploit user-centric architectures",
+        "quantity": 90,
+        "unit": "hours",
+        "unit_price_aed": 2564,
+        "amount_aed": 230760
+      },
+      {
+        "line_number": 3,
+        "description": "External Works - incubate cross-media initiatives",
+        "quantity": 97,
+        "unit": "hours",
+        "unit_price_aed": 34330,
+        "amount_aed": 3330010
+      },
+      {
+        "line_number": 4,
+        "description": "Contingency - incentivize bleeding-edge supply-chains",
+        "quantity": 65,
+        "unit": "units",
+        "unit_price_aed": 15632,
+        "amount_aed": 1016080
+      },
+      {
+        "line_number": 5,
+        "description": "External Works - enhance next-generation solutions",
+        "quantity": 64,
+        "unit": "sqm",
+        "unit_price_aed": 44731,
+        "amount_aed": 2862784
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 8074534,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 403726.7,
+      "total_aed": 8478260.7,
+      "retention_percent": 5.0,
+      "retention_aed": 403726.7,
+      "net_payable_aed": 8074534.0
+    },
+    "payment_terms": "Net 60",
+    "currency": "AED",
+    "status": "paid",
+    "approval_workflow": {
+      "site_engineer": {
+        "name": "Anthony Alexander",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "project_manager": {
+        "name": "Brian Short",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "finance_manager": null
+    },
+    "po_number": "PO-71297",
+    "contract_reference": "CONT-DAM-9572"
+  },
+  {
+    "invoice_id": "INV-AFC5680C",
+    "vendor": {
+      "name": "Carrier Middle East",
+      "category": "HVAC",
+      "trn": "100751618707",
+      "address": "4492 Elizabeth Underpass Suite 804\nPort Tanyaview, VT 47028",
+      "bank_name": "RAKBANK",
+      "iban": "GB63PCVO20941798695357"
+    },
+    "project": {
+      "name": "DAMAC Islands",
+      "location": "Dubai Islands",
+      "cost_center": "CC-DAM-309"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-03-17",
+      "received_date": "2026-01-19"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Fit-out Works - engage cross-media networks",
+        "quantity": 48,
+        "unit": "sqm",
+        "unit_price_aed": 46233,
+        "amount_aed": 2219184
+      },
+      {
+        "line_number": 2,
+        "description": "Security Systems - maximize intuitive applications",
+        "quantity": 79,
+        "unit": "lots",
+        "unit_price_aed": 24911,
+        "amount_aed": 1967969
+      },
+      {
+        "line_number": 3,
+        "description": "Security Systems - transition distributed info-mediaries",
+        "quantity": 61,
+        "unit": "lots",
+        "unit_price_aed": 46030,
+        "amount_aed": 2807830
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 6994983,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 349749.15,
+      "total_aed": 7344732.15,
+      "retention_percent": 5.0,
+      "retention_aed": 349749.15,
+      "net_payable_aed": 6994983.0
+    },
+    "payment_terms": "Net 60",
+    "currency": "AED",
+    "status": "pending_approval",
+    "approval_workflow": {
+      "site_engineer": {
+        "name": "Stephen Baker",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "project_manager": null,
+      "finance_manager": null
+    },
+    "po_number": "PO-91217",
+    "contract_reference": "CONT-DAM-1087"
+  },
+  {
+    "invoice_id": "INV-E40655F4",
+    "vendor": {
+      "name": "Schindler Gulf",
+      "category": "Elevators",
+      "trn": "100327095321",
+      "address": "187 Khan Motorway\nAnnettechester, RI 75175",
+      "bank_name": "Emirates NBD",
+      "iban": "GB71OVXA55292971975735"
+    },
+    "project": {
+      "name": "Zada Tower",
+      "location": "Business Bay",
+      "cost_center": "CC-ZAD-941"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-03-02",
+      "received_date": "2026-01-19"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Fit-out Works - architect efficient e-business",
+        "quantity": 95,
+        "unit": "sqm",
+        "unit_price_aed": 7139,
+        "amount_aed": 678205
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 678205,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 33910.25,
+      "total_aed": 712115.25,
+      "retention_percent": 5.0,
+      "retention_aed": 33910.25,
+      "net_payable_aed": 678205.0
+    },
+    "payment_terms": "Net 45",
+    "currency": "AED",
+    "status": "partially_paid",
+    "approval_workflow": {
+      "site_engineer": {
+        "name": "Ms. Ashley Jackson",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "project_manager": {
+        "name": "Samantha Schultz",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "finance_manager": null
+    },
+    "po_number": "PO-62202",
+    "contract_reference": "CONT-ZAD-1575"
+  },
+  {
+    "invoice_id": "INV-A42480E2",
+    "vendor": {
+      "name": "Emirates Glass",
+      "category": "Materials",
+      "trn": "100661618006",
+      "address": "Unit 9475 Box 8622\nDPO AA 50760",
+      "bank_name": "Abu Dhabi Commercial Bank",
+      "iban": "GB52AKIO99807695547162"
+    },
+    "project": {
+      "name": "AYKON City",
+      "location": "Sheikh Zayed Road",
+      "cost_center": "CC-AYK-328"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-03-02",
+      "received_date": "2026-01-19"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Landscaping - productize strategic infrastructures",
+        "quantity": 63,
+        "unit": "sqm",
+        "unit_price_aed": 49070,
+        "amount_aed": 3091410
+      },
+      {
+        "line_number": 2,
+        "description": "Landscaping - incentivize one-to-one e-commerce",
+        "quantity": 73,
+        "unit": "sqm",
+        "unit_price_aed": 4780,
+        "amount_aed": 348940
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 3440350,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 172017.5,
+      "total_aed": 3612367.5,
+      "retention_percent": 5.0,
+      "retention_aed": 172017.5,
+      "net_payable_aed": 3440350.0
+    },
+    "payment_terms": "Net 45",
+    "currency": "AED",
+    "status": "pending_approval",
+    "approval_workflow": {
+      "site_engineer": null,
+      "project_manager": {
+        "name": "Samantha Schultz",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "finance_manager": {
+        "name": "Pamela Rodriguez",
+        "date": "2026-01-16",
+        "status": "pending"
+      }
+    },
+    "po_number": "PO-17848",
+    "contract_reference": "CONT-AYK-2633"
+  },
+  {
+    "invoice_id": "INV-A99D9B06",
+    "vendor": {
+      "name": "Al Habtoor Engineering",
+      "category": "MEP",
+      "trn": "100930786467",
+      "address": "12576 White Rapid Suite 998\nJamiefort, OK 84432",
+      "bank_name": "Commercial Bank of Dubai",
+      "iban": "GB37SERW32106556210626"
+    },
+    "project": {
+      "name": "AYKON City",
+      "location": "Sheikh Zayed Road",
+      "cost_center": "CC-AYK-750"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-02-15",
+      "received_date": "2026-01-21"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Swimming Pool - integrate bricks-and-clicks systems",
+        "quantity": 100,
+        "unit": "sets",
+        "unit_price_aed": 46635,
+        "amount_aed": 4663500
+      },
+      {
+        "line_number": 2,
+        "description": "External Works - redefine bricks-and-clicks web-readiness",
+        "quantity": 58,
+        "unit": "sets",
+        "unit_price_aed": 5415,
+        "amount_aed": 314070
+      },
+      {
+        "line_number": 3,
+        "description": "Landscaping - target e-business interfaces",
+        "quantity": 60,
+        "unit": "units",
+        "unit_price_aed": 10237,
+        "amount_aed": 614220
+      },
+      {
+        "line_number": 4,
+        "description": "Landscaping - integrate virtual relationships",
+        "quantity": 52,
+        "unit": "sqm",
+        "unit_price_aed": 27437,
+        "amount_aed": 1426724
+      },
+      {
+        "line_number": 5,
+        "description": "Fit-out Works - deploy viral e-commerce",
+        "quantity": 25,
+        "unit": "sets",
+        "unit_price_aed": 21997,
+        "amount_aed": 549925
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 7568439,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 378421.95,
+      "total_aed": 7946860.95,
+      "retention_percent": 5.0,
+      "retention_aed": 378421.95,
+      "net_payable_aed": 7568439.0
+    },
+    "payment_terms": "Net 30",
+    "currency": "AED",
+    "status": "approved",
+    "approval_workflow": {
+      "site_engineer": null,
+      "project_manager": {
+        "name": "Jeff Black",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "finance_manager": {
+        "name": "Richard Francis",
+        "date": "2026-01-16",
+        "status": "pending"
+      }
+    },
+    "po_number": "PO-11760",
+    "contract_reference": "CONT-AYK-8709"
+  },
+  {
+    "invoice_id": "INV-03A1A8D9",
+    "vendor": {
+      "name": "ALEC Engineering",
+      "category": "Main Contractor",
+      "trn": "100310451309",
+      "address": "76760 Sullivan Ramp\nSkinnerport, WI 16223",
+      "bank_name": "First Abu Dhabi Bank",
+      "iban": "GB21SENH66706829663606"
+    },
+    "project": {
+      "name": "DAMAC Hills 2",
+      "location": "Dubailand",
+      "cost_center": "CC-DAM-531"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-02-15",
+      "received_date": "2026-01-20"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "External Works - maximize bricks-and-clicks supply-chains",
+        "quantity": 17,
+        "unit": "sets",
+        "unit_price_aed": 28487,
+        "amount_aed": 484279
+      },
+      {
+        "line_number": 2,
+        "description": "MEP Works - mesh cutting-edge ROI",
+        "quantity": 36,
+        "unit": "sets",
+        "unit_price_aed": 19614,
+        "amount_aed": 706104
+      },
+      {
+        "line_number": 3,
+        "description": "Security Systems - evolve cross-media models",
+        "quantity": 68,
+        "unit": "sets",
+        "unit_price_aed": 19188,
+        "amount_aed": 1304784
+      },
+      {
+        "line_number": 4,
+        "description": "Fit-out Works - exploit clicks-and-mortar networks",
+        "quantity": 30,
+        "unit": "sqm",
+        "unit_price_aed": 33295,
+        "amount_aed": 998850
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 3494017,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 174700.85,
+      "total_aed": 3668717.85,
+      "retention_percent": 5.0,
+      "retention_aed": 174700.85,
+      "net_payable_aed": 3494017.0
+    },
+    "payment_terms": "Net 30",
+    "currency": "AED",
+    "status": "pending_approval",
+    "approval_workflow": {
+      "site_engineer": null,
+      "project_manager": null,
+      "finance_manager": null
+    },
+    "po_number": "PO-92232",
+    "contract_reference": "CONT-DAM-4379"
+  },
+  {
+    "invoice_id": "INV-2F28A2D8",
+    "vendor": {
+      "name": "Emirates Glass",
+      "category": "Materials",
+      "trn": "100327963375",
+      "address": "677 Jessica Pine Suite 366\nLopezbury, CA 26299",
+      "bank_name": "Emirates NBD",
+      "iban": "GB31APEC42912365488754"
+    },
+    "project": {
+      "name": "AYKON City",
+      "location": "Sheikh Zayed Road",
+      "cost_center": "CC-AYK-274"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-02-15",
+      "received_date": "2026-01-20"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Fit-out Works - synthesize value-added convergence",
+        "quantity": 50,
+        "unit": "sets",
+        "unit_price_aed": 39185,
+        "amount_aed": 1959250
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 1959250,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 97962.5,
+      "total_aed": 2057212.5,
+      "retention_percent": 5.0,
+      "retention_aed": 97962.5,
+      "net_payable_aed": 1959250.0
+    },
+    "payment_terms": "Net 30",
+    "currency": "AED",
+    "status": "approved",
+    "approval_workflow": {
+      "site_engineer": null,
+      "project_manager": null,
+      "finance_manager": {
+        "name": "Amber Chapman",
+        "date": "2026-01-16",
+        "status": "pending"
+      }
+    },
+    "po_number": "PO-75091",
+    "contract_reference": "CONT-AYK-3670"
+  },
+  {
+    "invoice_id": "INV-46FF9CB3",
+    "vendor": {
+      "name": "Carrier Middle East",
+      "category": "HVAC",
+      "trn": "100801329992",
+      "address": "6670 John Track\nSarahburgh, NM 49123",
+      "bank_name": "First Abu Dhabi Bank",
+      "iban": "GB88YEGD86145253133925"
+    },
+    "project": {
+      "name": "Safa One",
+      "location": "Business Bay",
+      "cost_center": "CC-SAF-217"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-03-02",
+      "received_date": "2026-01-20"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Material Supply - monetize bricks-and-clicks e-services",
+        "quantity": 18,
+        "unit": "hours",
+        "unit_price_aed": 37523,
+        "amount_aed": 675414
+      },
+      {
+        "line_number": 2,
+        "description": "MEP Works - disintermediate rich e-markets",
+        "quantity": 34,
+        "unit": "lots",
+        "unit_price_aed": 28765,
+        "amount_aed": 978010
+      },
+      {
+        "line_number": 3,
+        "description": "Fit-out Works - engineer impactful architectures",
+        "quantity": 74,
+        "unit": "sets",
+        "unit_price_aed": 23641,
+        "amount_aed": 1749434
+      },
+      {
+        "line_number": 4,
+        "description": "Security Systems - e-enable granular interfaces",
+        "quantity": 27,
+        "unit": "lots",
+        "unit_price_aed": 13532,
+        "amount_aed": 365364
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 3768222,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 188411.1,
+      "total_aed": 3956633.1,
+      "retention_percent": 5.0,
+      "retention_aed": 188411.1,
+      "net_payable_aed": 3768222.0
+    },
+    "payment_terms": "Net 45",
+    "currency": "AED",
+    "status": "pending_approval",
+    "approval_workflow": {
+      "site_engineer": {
+        "name": "Vincent Ibarra",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "project_manager": null,
+      "finance_manager": {
+        "name": "Andrew Dixon",
+        "date": "2026-01-16",
+        "status": "pending"
+      }
+    },
+    "po_number": "PO-33403",
+    "contract_reference": "CONT-SAF-1785"
+  },
+  {
+    "invoice_id": "INV-D03C7AFD",
+    "vendor": {
+      "name": "Schindler Gulf",
+      "category": "Elevators",
+      "trn": "100155000288",
+      "address": "43667 Jennifer Brook\nPetersonview, NV 38634",
+      "bank_name": "Commercial Bank of Dubai",
+      "iban": "GB59MWIN25824998412337"
+    },
+    "project": {
+      "name": "Zada Tower",
+      "location": "Business Bay",
+      "cost_center": "CC-ZAD-948"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-03-17",
+      "received_date": "2026-01-20"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Fit-out Works - empower cross-platform ROI",
+        "quantity": 15,
+        "unit": "lots",
+        "unit_price_aed": 22770,
+        "amount_aed": 341550
+      },
+      {
+        "line_number": 2,
+        "description": "Swimming Pool - implement plug-and-play technologies",
+        "quantity": 29,
+        "unit": "units",
+        "unit_price_aed": 18792,
+        "amount_aed": 544968
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 886518,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 44325.9,
+      "total_aed": 930843.9,
+      "retention_percent": 5.0,
+      "retention_aed": 44325.9,
+      "net_payable_aed": 886518.0
+    },
+    "payment_terms": "Net 60",
+    "currency": "AED",
+    "status": "paid",
+    "approval_workflow": {
+      "site_engineer": {
+        "name": "Tabitha Jones",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "project_manager": null,
+      "finance_manager": null
+    },
+    "po_number": "PO-40575",
+    "contract_reference": "CONT-ZAD-8345"
+  },
+  {
+    "invoice_id": "INV-E793A3EF",
+    "vendor": {
+      "name": "Depa Interiors",
+      "category": "Interiors",
+      "trn": "100137146656",
+      "address": "58056 Sharon Views Suite 912\nNew Rachaelfurt, MP 47638",
+      "bank_name": "First Abu Dhabi Bank",
+      "iban": "GB33MTFG14126863908611"
+    },
+    "project": {
+      "name": "DAMAC Hills 2",
+      "location": "Dubailand",
+      "cost_center": "CC-DAM-362"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-02-15",
+      "received_date": "2026-01-18"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Material Supply - disintermediate visionary niches",
+        "quantity": 22,
+        "unit": "hours",
+        "unit_price_aed": 41897,
+        "amount_aed": 921734
+      },
+      {
+        "line_number": 2,
+        "description": "Construction Progress - monetize user-centric bandwidth",
+        "quantity": 4,
+        "unit": "hours",
+        "unit_price_aed": 8828,
+        "amount_aed": 35312
+      },
+      {
+        "line_number": 3,
+        "description": "Smart Home Installation - matrix cutting-edge markets",
+        "quantity": 51,
+        "unit": "lots",
+        "unit_price_aed": 35889,
+        "amount_aed": 1830339
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 2787385,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 139369.25,
+      "total_aed": 2926754.25,
+      "retention_percent": 5.0,
+      "retention_aed": 139369.25,
+      "net_payable_aed": 2787385.0
+    },
+    "payment_terms": "Net 30",
+    "currency": "AED",
+    "status": "paid",
+    "approval_workflow": {
+      "site_engineer": null,
+      "project_manager": null,
+      "finance_manager": null
+    },
+    "po_number": "PO-62546",
+    "contract_reference": "CONT-DAM-1719"
+  },
+  {
+    "invoice_id": "INV-FBA9E6A6",
+    "vendor": {
+      "name": "Carrier Middle East",
+      "category": "HVAC",
+      "trn": "100567937592",
+      "address": "3324 Wright Via Apt. 962\nKimberlyberg, NH 93518",
+      "bank_name": "Dubai Islamic Bank",
+      "iban": "GB40MQHS02968965485039"
+    },
+    "project": {
+      "name": "DAMAC Bay 2",
+      "location": "Dubai Harbour",
+      "cost_center": "CC-DAM-507"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-03-17",
+      "received_date": "2026-01-18"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Swimming Pool - enhance 24/7 methodologies",
+        "quantity": 71,
+        "unit": "sqm",
+        "unit_price_aed": 41304,
+        "amount_aed": 2932584
+      },
+      {
+        "line_number": 2,
+        "description": "Material Supply - generate plug-and-play portals",
+        "quantity": 5,
+        "unit": "sqm",
+        "unit_price_aed": 5258,
+        "amount_aed": 26290
+      },
+      {
+        "line_number": 3,
+        "description": "MEP Works - deploy interactive deliverables",
+        "quantity": 72,
+        "unit": "units",
+        "unit_price_aed": 7643,
+        "amount_aed": 550296
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 3509170,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 175458.5,
+      "total_aed": 3684628.5,
+      "retention_percent": 5.0,
+      "retention_aed": 175458.5,
+      "net_payable_aed": 3509170.0
+    },
+    "payment_terms": "Net 60",
+    "currency": "AED",
+    "status": "approved",
+    "approval_workflow": {
+      "site_engineer": {
+        "name": "Lori Weber",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "project_manager": {
+        "name": "Alejandra Alexander",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "finance_manager": {
+        "name": "Rachel Roth",
+        "date": "2026-01-16",
+        "status": "pending"
+      }
+    },
+    "po_number": "PO-78806",
+    "contract_reference": "CONT-DAM-7335"
+  },
+  {
+    "invoice_id": "INV-9DA2B034",
+    "vendor": {
+      "name": "Schindler Gulf",
+      "category": "Elevators",
+      "trn": "100316260492",
+      "address": "19495 Donald Ferry Suite 508\nSouth Jamesborough, MN 51169",
+      "bank_name": "First Abu Dhabi Bank",
+      "iban": "GB92BWCQ69641082600399"
+    },
+    "project": {
+      "name": "Cavalli Tower",
+      "location": "Dubai Marina",
+      "cost_center": "CC-CAV-495"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-03-17",
+      "received_date": "2026-01-17"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Smart Home Installation - streamline e-business architectures",
+        "quantity": 67,
+        "unit": "units",
+        "unit_price_aed": 3007,
+        "amount_aed": 201469
+      },
+      {
+        "line_number": 2,
+        "description": "Landscaping - iterate B2B experiences",
+        "quantity": 81,
+        "unit": "sqm",
+        "unit_price_aed": 27963,
+        "amount_aed": 2265003
+      },
+      {
+        "line_number": 3,
+        "description": "Contingency - target revolutionary systems",
+        "quantity": 35,
+        "unit": "sets",
+        "unit_price_aed": 29630,
+        "amount_aed": 1037050
+      },
+      {
+        "line_number": 4,
+        "description": "MEP Works - aggregate 24/7 metrics",
+        "quantity": 44,
+        "unit": "units",
+        "unit_price_aed": 23495,
+        "amount_aed": 1033780
+      },
+      {
+        "line_number": 5,
+        "description": "Fit-out Works - innovate magnetic users",
+        "quantity": 61,
+        "unit": "sqm",
+        "unit_price_aed": 40862,
+        "amount_aed": 2492582
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 7029884,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 351494.2,
+      "total_aed": 7381378.2,
+      "retention_percent": 5.0,
+      "retention_aed": 351494.2,
+      "net_payable_aed": 7029884.0
+    },
+    "payment_terms": "Net 60",
+    "currency": "AED",
+    "status": "on_hold",
+    "approval_workflow": {
+      "site_engineer": {
+        "name": "Thomas Hooper",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "project_manager": null,
+      "finance_manager": null
+    },
+    "po_number": "PO-56486",
+    "contract_reference": "CONT-CAV-9735"
+  },
+  {
+    "invoice_id": "INV-79C9E694",
+    "vendor": {
+      "name": "Carrier Middle East",
+      "category": "HVAC",
+      "trn": "100362303434",
+      "address": "745 Laura Walks\nBrentfurt, ID 98343",
+      "bank_name": "Abu Dhabi Commercial Bank",
+      "iban": "GB87JXDJ58934620954002"
+    },
+    "project": {
+      "name": "Cavalli Tower",
+      "location": "Dubai Marina",
+      "cost_center": "CC-CAV-409"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-03-17",
+      "received_date": "2026-01-18"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Fit-out Works - utilize scalable solutions",
+        "quantity": 4,
+        "unit": "sets",
+        "unit_price_aed": 8949,
+        "amount_aed": 35796
+      },
+      {
+        "line_number": 2,
+        "description": "Construction Progress - unleash cross-media e-services",
+        "quantity": 53,
+        "unit": "units",
+        "unit_price_aed": 11326,
+        "amount_aed": 600278
+      },
+      {
+        "line_number": 3,
+        "description": "Contingency - drive dot-com networks",
+        "quantity": 83,
+        "unit": "sets",
+        "unit_price_aed": 32389,
+        "amount_aed": 2688287
+      },
+      {
+        "line_number": 4,
+        "description": "Fit-out Works - seize cross-platform content",
+        "quantity": 82,
+        "unit": "hours",
+        "unit_price_aed": 34407,
+        "amount_aed": 2821374
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 6145735,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 307286.75,
+      "total_aed": 6453021.75,
+      "retention_percent": 5.0,
+      "retention_aed": 307286.75,
+      "net_payable_aed": 6145735.0
+    },
+    "payment_terms": "Net 60",
+    "currency": "AED",
+    "status": "disputed",
+    "approval_workflow": {
+      "site_engineer": {
+        "name": "Lisa Perez",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "project_manager": null,
+      "finance_manager": null
+    },
+    "po_number": "PO-59398",
+    "contract_reference": "CONT-CAV-5904"
+  },
+  {
+    "invoice_id": "INV-63D0B3D8",
+    "vendor": {
+      "name": "Carrier Middle East",
+      "category": "HVAC",
+      "trn": "100224168051",
+      "address": "766 Heather Trace\nLake Angelaborough, WI 56590",
+      "bank_name": "Mashreq Bank",
+      "iban": "GB38VBCA18406275130135"
+    },
+    "project": {
+      "name": "DAMAC Lagoons",
+      "location": "Dubailand",
+      "cost_center": "CC-DAM-672"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-03-17",
+      "received_date": "2026-01-19"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Fit-out Works - streamline synergistic markets",
+        "quantity": 76,
+        "unit": "units",
+        "unit_price_aed": 18196,
+        "amount_aed": 1382896
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 1382896,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 69144.8,
+      "total_aed": 1452040.8,
+      "retention_percent": 5.0,
+      "retention_aed": 69144.8,
+      "net_payable_aed": 1382896.0
+    },
+    "payment_terms": "Net 60",
+    "currency": "AED",
+    "status": "disputed",
+    "approval_workflow": {
+      "site_engineer": {
+        "name": "Susan Barber",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "project_manager": null,
+      "finance_manager": null
+    },
+    "po_number": "PO-19305",
+    "contract_reference": "CONT-DAM-9928"
+  },
+  {
+    "invoice_id": "INV-B6AA4CE2",
+    "vendor": {
+      "name": "Emirates Glass",
+      "category": "Materials",
+      "trn": "100288043457",
+      "address": "7600 Jared Parks\nMartinmouth, MP 72087",
+      "bank_name": "Abu Dhabi Commercial Bank",
+      "iban": "GB84JODK90796702799900"
+    },
+    "project": {
+      "name": "DAMAC Hills",
+      "location": "Dubailand",
+      "cost_center": "CC-DAM-907"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-03-02",
+      "received_date": "2026-01-17"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Security Systems - expedite ubiquitous markets",
+        "quantity": 45,
+        "unit": "sets",
+        "unit_price_aed": 33902,
+        "amount_aed": 1525590
+      },
+      {
+        "line_number": 2,
+        "description": "Contingency - streamline collaborative info-mediaries",
+        "quantity": 2,
+        "unit": "units",
+        "unit_price_aed": 30634,
+        "amount_aed": 61268
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 1586858,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 79342.9,
+      "total_aed": 1666200.9,
+      "retention_percent": 5.0,
+      "retention_aed": 79342.9,
+      "net_payable_aed": 1586858.0
+    },
+    "payment_terms": "Net 45",
+    "currency": "AED",
+    "status": "partially_paid",
+    "approval_workflow": {
+      "site_engineer": {
+        "name": "John Kennedy",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "project_manager": {
+        "name": "Mike Watson",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "finance_manager": {
+        "name": "Alex Stafford",
+        "date": "2026-01-16",
+        "status": "pending"
+      }
+    },
+    "po_number": "PO-86893",
+    "contract_reference": "CONT-DAM-5978"
+  },
+  {
+    "invoice_id": "INV-7DDA8A4C",
+    "vendor": {
+      "name": "ALEC Engineering",
+      "category": "Main Contractor",
+      "trn": "100932783695",
+      "address": "79574 May Circle\nKarenton, TX 46564",
+      "bank_name": "Commercial Bank of Dubai",
+      "iban": "GB26HAZQ63015108600835"
+    },
+    "project": {
+      "name": "DAMAC Bay 2",
+      "location": "Dubai Harbour",
+      "cost_center": "CC-DAM-434"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-03-17",
+      "received_date": "2026-01-20"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "MEP Works - generate revolutionary paradigms",
+        "quantity": 75,
+        "unit": "lots",
+        "unit_price_aed": 30010,
+        "amount_aed": 2250750
+      },
+      {
+        "line_number": 2,
+        "description": "MEP Works - seize robust info-mediaries",
+        "quantity": 87,
+        "unit": "lots",
+        "unit_price_aed": 14793,
+        "amount_aed": 1286991
+      },
+      {
+        "line_number": 3,
+        "description": "Fit-out Works - implement value-added niches",
+        "quantity": 62,
+        "unit": "units",
+        "unit_price_aed": 30967,
+        "amount_aed": 1919954
+      },
+      {
+        "line_number": 4,
+        "description": "Contingency - integrate wireless content",
+        "quantity": 87,
+        "unit": "lots",
+        "unit_price_aed": 4185,
+        "amount_aed": 364095
+      },
+      {
+        "line_number": 5,
+        "description": "Fit-out Works - architect real-time technologies",
+        "quantity": 81,
+        "unit": "sets",
+        "unit_price_aed": 7497,
+        "amount_aed": 607257
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 6429047,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 321452.35,
+      "total_aed": 6750499.35,
+      "retention_percent": 5.0,
+      "retention_aed": 321452.35,
+      "net_payable_aed": 6429047.0
+    },
+    "payment_terms": "Net 60",
+    "currency": "AED",
+    "status": "pending_approval",
+    "approval_workflow": {
+      "site_engineer": {
+        "name": "Danny Gray",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "project_manager": {
+        "name": "Marcus Joseph",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "finance_manager": null
+    },
+    "po_number": "PO-48743",
+    "contract_reference": "CONT-DAM-2949"
+  },
+  {
+    "invoice_id": "INV-E6DDC4BD",
+    "vendor": {
+      "name": "Emirates Glass",
+      "category": "Materials",
+      "trn": "100162905830",
+      "address": "64409 Donna Summit\nSouth Jamesmouth, IL 17464",
+      "bank_name": "Mashreq Bank",
+      "iban": "GB40EEBS26914757617863"
+    },
+    "project": {
+      "name": "AYKON City",
+      "location": "Sheikh Zayed Road",
+      "cost_center": "CC-AYK-615"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-03-02",
+      "received_date": "2026-01-18"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Material Supply - whiteboard intuitive web services",
+        "quantity": 65,
+        "unit": "lots",
+        "unit_price_aed": 39088,
+        "amount_aed": 2540720
+      },
+      {
+        "line_number": 2,
+        "description": "Security Systems - generate wireless supply-chains",
+        "quantity": 27,
+        "unit": "units",
+        "unit_price_aed": 9892,
+        "amount_aed": 267084
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 2807804,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 140390.2,
+      "total_aed": 2948194.2,
+      "retention_percent": 5.0,
+      "retention_aed": 140390.2,
+      "net_payable_aed": 2807804.0
+    },
+    "payment_terms": "Net 45",
+    "currency": "AED",
+    "status": "on_hold",
+    "approval_workflow": {
+      "site_engineer": {
+        "name": "Shelby Pearson",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "project_manager": null,
+      "finance_manager": null
+    },
+    "po_number": "PO-27747",
+    "contract_reference": "CONT-AYK-3443"
+  },
+  {
+    "invoice_id": "INV-405FEA73",
+    "vendor": {
+      "name": "Gulf Marble Factory",
+      "category": "Materials",
+      "trn": "100303832867",
+      "address": "53046 Michael Circle\nAaronshire, NM 47672",
+      "bank_name": "RAKBANK",
+      "iban": "GB15HKRN74018507512355"
+    },
+    "project": {
+      "name": "DAMAC Bay 2",
+      "location": "Dubai Harbour",
+      "cost_center": "CC-DAM-924"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-03-02",
+      "received_date": "2026-01-17"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Material Supply - productize bleeding-edge relationships",
+        "quantity": 14,
+        "unit": "sqm",
+        "unit_price_aed": 26103,
+        "amount_aed": 365442
+      },
+      {
+        "line_number": 2,
+        "description": "Fit-out Works - deploy best-of-breed schemas",
+        "quantity": 65,
+        "unit": "lots",
+        "unit_price_aed": 24350,
+        "amount_aed": 1582750
+      },
+      {
+        "line_number": 3,
+        "description": "Landscaping - e-enable cutting-edge content",
+        "quantity": 60,
+        "unit": "lots",
+        "unit_price_aed": 13653,
+        "amount_aed": 819180
+      },
+      {
+        "line_number": 4,
+        "description": "Construction Progress - monetize efficient portals",
+        "quantity": 28,
+        "unit": "sets",
+        "unit_price_aed": 49867,
+        "amount_aed": 1396276
+      },
+      {
+        "line_number": 5,
+        "description": "External Works - target bricks-and-clicks deliverables",
+        "quantity": 33,
+        "unit": "hours",
+        "unit_price_aed": 27504,
+        "amount_aed": 907632
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 5071280,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 253564.0,
+      "total_aed": 5324844.0,
+      "retention_percent": 5.0,
+      "retention_aed": 253564.0,
+      "net_payable_aed": 5071280.0
+    },
+    "payment_terms": "Net 45",
+    "currency": "AED",
+    "status": "partially_paid",
+    "approval_workflow": {
+      "site_engineer": {
+        "name": "Mary Williams",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "project_manager": {
+        "name": "Shawn Morton",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "finance_manager": {
+        "name": "Lindsey Johnson",
+        "date": "2026-01-16",
+        "status": "pending"
+      }
+    },
+    "po_number": "PO-53464",
+    "contract_reference": "CONT-DAM-5502"
+  },
+  {
+    "invoice_id": "INV-E5ABA713",
+    "vendor": {
+      "name": "Drake & Scull",
+      "category": "MEP",
+      "trn": "100327188288",
+      "address": "622 Frank Gardens\nZacharyland, ND 65713",
+      "bank_name": "Dubai Islamic Bank",
+      "iban": "GB94WLCM88719733132642"
+    },
+    "project": {
+      "name": "DAMAC Hills 2",
+      "location": "Dubailand",
+      "cost_center": "CC-DAM-780"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-03-02",
+      "received_date": "2026-01-21"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Landscaping - integrate viral schemas",
+        "quantity": 63,
+        "unit": "sets",
+        "unit_price_aed": 23199,
+        "amount_aed": 1461537
+      },
+      {
+        "line_number": 2,
+        "description": "MEP Works - synthesize strategic eyeballs",
+        "quantity": 79,
+        "unit": "lots",
+        "unit_price_aed": 23408,
+        "amount_aed": 1849232
+      },
+      {
+        "line_number": 3,
+        "description": "Security Systems - visualize interactive schemas",
+        "quantity": 21,
+        "unit": "sqm",
+        "unit_price_aed": 2923,
+        "amount_aed": 61383
+      },
+      {
+        "line_number": 4,
+        "description": "Material Supply - re-intermediate one-to-one schemas",
+        "quantity": 10,
+        "unit": "units",
+        "unit_price_aed": 3866,
+        "amount_aed": 38660
+      },
+      {
+        "line_number": 5,
+        "description": "Contingency - synthesize impactful web services",
+        "quantity": 70,
+        "unit": "lots",
+        "unit_price_aed": 3931,
+        "amount_aed": 275170
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 3685982,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 184299.1,
+      "total_aed": 3870281.1,
+      "retention_percent": 5.0,
+      "retention_aed": 184299.1,
+      "net_payable_aed": 3685982.0
+    },
+    "payment_terms": "Net 45",
+    "currency": "AED",
+    "status": "on_hold",
+    "approval_workflow": {
+      "site_engineer": null,
+      "project_manager": {
+        "name": "James Howell",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "finance_manager": null
+    },
+    "po_number": "PO-89851",
+    "contract_reference": "CONT-DAM-5137"
+  },
+  {
+    "invoice_id": "INV-BDB661A6",
+    "vendor": {
+      "name": "Al Habtoor Engineering",
+      "category": "MEP",
+      "trn": "100901485458",
+      "address": "Unit 9064 Box 2778\nDPO AE 19687",
+      "bank_name": "Dubai Islamic Bank",
+      "iban": "GB19JJUU45093224906792"
+    },
+    "project": {
+      "name": "DAMAC Hills",
+      "location": "Dubailand",
+      "cost_center": "CC-DAM-829"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-03-02",
+      "received_date": "2026-01-19"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Swimming Pool - reinvent leading-edge schemas",
+        "quantity": 26,
+        "unit": "units",
+        "unit_price_aed": 36536,
+        "amount_aed": 949936
+      },
+      {
+        "line_number": 2,
+        "description": "External Works - drive holistic bandwidth",
+        "quantity": 54,
+        "unit": "sets",
+        "unit_price_aed": 44818,
+        "amount_aed": 2420172
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 3370108,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 168505.4,
+      "total_aed": 3538613.4,
+      "retention_percent": 5.0,
+      "retention_aed": 168505.4,
+      "net_payable_aed": 3370108.0
+    },
+    "payment_terms": "Net 45",
+    "currency": "AED",
+    "status": "on_hold",
+    "approval_workflow": {
+      "site_engineer": null,
+      "project_manager": {
+        "name": "Ryan Hall",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "finance_manager": {
+        "name": "Cody Davidson",
+        "date": "2026-01-16",
+        "status": "pending"
+      }
+    },
+    "po_number": "PO-14581",
+    "contract_reference": "CONT-DAM-4193"
+  },
+  {
+    "invoice_id": "INV-77EFA902",
+    "vendor": {
+      "name": "Depa Interiors",
+      "category": "Interiors",
+      "trn": "100974314243",
+      "address": "7279 Kevin Gardens Apt. 214\nJonesport, AK 86074",
+      "bank_name": "Dubai Islamic Bank",
+      "iban": "GB78UCDT73307330377527"
+    },
+    "project": {
+      "name": "Trump DAMAC Golf",
+      "location": "DAMAC Hills",
+      "cost_center": "CC-TRU-145"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-03-17",
+      "received_date": "2026-01-17"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "MEP Works - leverage back-end web-readiness",
+        "quantity": 26,
+        "unit": "lots",
+        "unit_price_aed": 22608,
+        "amount_aed": 587808
+      },
+      {
+        "line_number": 2,
+        "description": "Fit-out Works - streamline strategic ROI",
+        "quantity": 14,
+        "unit": "sets",
+        "unit_price_aed": 20398,
+        "amount_aed": 285572
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 873380,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 43669.0,
+      "total_aed": 917049.0,
+      "retention_percent": 5.0,
+      "retention_aed": 43669.0,
+      "net_payable_aed": 873380.0
+    },
+    "payment_terms": "Net 60",
+    "currency": "AED",
+    "status": "approved",
+    "approval_workflow": {
+      "site_engineer": null,
+      "project_manager": null,
+      "finance_manager": {
+        "name": "Michelle Oconnor",
+        "date": "2026-01-16",
+        "status": "pending"
+      }
+    },
+    "po_number": "PO-89612",
+    "contract_reference": "CONT-TRU-5258"
+  },
+  {
+    "invoice_id": "INV-E4414919",
+    "vendor": {
+      "name": "Depa Interiors",
+      "category": "Interiors",
+      "trn": "100254518574",
+      "address": "PSC 5261, Box 7167\nAPO AE 12616",
+      "bank_name": "Commercial Bank of Dubai",
+      "iban": "GB08FDJT29414412561621"
+    },
+    "project": {
+      "name": "DAMAC Hills",
+      "location": "Dubailand",
+      "cost_center": "CC-DAM-312"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-02-15",
+      "received_date": "2026-01-21"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Smart Home Installation - re-contextualize rich e-tailers",
+        "quantity": 71,
+        "unit": "hours",
+        "unit_price_aed": 43775,
+        "amount_aed": 3108025
+      },
+      {
+        "line_number": 2,
+        "description": "Construction Progress - facilitate dynamic infrastructures",
+        "quantity": 45,
+        "unit": "hours",
+        "unit_price_aed": 24776,
+        "amount_aed": 1114920
+      },
+      {
+        "line_number": 3,
+        "description": "Smart Home Installation - innovate customized channels",
+        "quantity": 71,
+        "unit": "sets",
+        "unit_price_aed": 24427,
+        "amount_aed": 1734317
+      },
+      {
+        "line_number": 4,
+        "description": "External Works - whiteboard user-centric ROI",
+        "quantity": 95,
+        "unit": "hours",
+        "unit_price_aed": 30897,
+        "amount_aed": 2935215
+      },
+      {
+        "line_number": 5,
+        "description": "Swimming Pool - target out-of-the-box functionalities",
+        "quantity": 15,
+        "unit": "sqm",
+        "unit_price_aed": 29358,
+        "amount_aed": 440370
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 9332847,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 466642.35,
+      "total_aed": 9799489.35,
+      "retention_percent": 5.0,
+      "retention_aed": 466642.35,
+      "net_payable_aed": 9332847.0
+    },
+    "payment_terms": "Net 30",
+    "currency": "AED",
+    "status": "approved",
+    "approval_workflow": {
+      "site_engineer": null,
+      "project_manager": null,
+      "finance_manager": {
+        "name": "Destiny Wilson",
+        "date": "2026-01-16",
+        "status": "pending"
+      }
+    },
+    "po_number": "PO-81491",
+    "contract_reference": "CONT-DAM-6223"
+  },
+  {
+    "invoice_id": "INV-ACF3D6CD",
+    "vendor": {
+      "name": "Al Habtoor Engineering",
+      "category": "MEP",
+      "trn": "100513960830",
+      "address": "612 Samuel Club\nHughesmouth, AS 00698",
+      "bank_name": "Abu Dhabi Commercial Bank",
+      "iban": "GB03BPAT87308807415150"
+    },
+    "project": {
+      "name": "Zada Tower",
+      "location": "Business Bay",
+      "cost_center": "CC-ZAD-679"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-02-15",
+      "received_date": "2026-01-17"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Construction Progress - target synergistic info-mediaries",
+        "quantity": 94,
+        "unit": "sqm",
+        "unit_price_aed": 34652,
+        "amount_aed": 3257288
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 3257288,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 162864.4,
+      "total_aed": 3420152.4,
+      "retention_percent": 5.0,
+      "retention_aed": 162864.4,
+      "net_payable_aed": 3257288.0
+    },
+    "payment_terms": "Net 30",
+    "currency": "AED",
+    "status": "approved",
+    "approval_workflow": {
+      "site_engineer": null,
+      "project_manager": {
+        "name": "Kenneth Colon",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "finance_manager": {
+        "name": "Renee Walker",
+        "date": "2026-01-16",
+        "status": "pending"
+      }
+    },
+    "po_number": "PO-20219",
+    "contract_reference": "CONT-ZAD-2396"
+  },
+  {
+    "invoice_id": "INV-448939A0",
+    "vendor": {
+      "name": "ALEC Engineering",
+      "category": "Main Contractor",
+      "trn": "100942829760",
+      "address": "40626 Phillips Station Suite 310\nJamesstad, LA 32036",
+      "bank_name": "Dubai Islamic Bank",
+      "iban": "GB64RNOF87548738626829"
+    },
+    "project": {
+      "name": "DAMAC Hills",
+      "location": "Dubailand",
+      "cost_center": "CC-DAM-994"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-03-17",
+      "received_date": "2026-01-17"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Swimming Pool - exploit strategic systems",
+        "quantity": 68,
+        "unit": "sets",
+        "unit_price_aed": 44696,
+        "amount_aed": 3039328
+      },
+      {
+        "line_number": 2,
+        "description": "Security Systems - embrace innovative bandwidth",
+        "quantity": 49,
+        "unit": "lots",
+        "unit_price_aed": 18209,
+        "amount_aed": 892241
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 3931569,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 196578.45,
+      "total_aed": 4128147.45,
+      "retention_percent": 5.0,
+      "retention_aed": 196578.45,
+      "net_payable_aed": 3931569.0
+    },
+    "payment_terms": "Net 60",
+    "currency": "AED",
+    "status": "approved",
+    "approval_workflow": {
+      "site_engineer": null,
+      "project_manager": {
+        "name": "Nicholas Greene",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "finance_manager": null
+    },
+    "po_number": "PO-90042",
+    "contract_reference": "CONT-DAM-5265"
+  },
+  {
+    "invoice_id": "INV-3D443543",
+    "vendor": {
+      "name": "Depa Interiors",
+      "category": "Interiors",
+      "trn": "100339627552",
+      "address": "496 Stephen Port\nMatthewville, CO 65689",
+      "bank_name": "Commercial Bank of Dubai",
+      "iban": "GB67FCZE80876086579416"
+    },
+    "project": {
+      "name": "Zada Tower",
+      "location": "Business Bay",
+      "cost_center": "CC-ZAD-599"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-03-02",
+      "received_date": "2026-01-21"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "External Works - optimize holistic ROI",
+        "quantity": 85,
+        "unit": "hours",
+        "unit_price_aed": 17389,
+        "amount_aed": 1478065
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 1478065,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 73903.25,
+      "total_aed": 1551968.25,
+      "retention_percent": 5.0,
+      "retention_aed": 73903.25,
+      "net_payable_aed": 1478065.0
+    },
+    "payment_terms": "Net 45",
+    "currency": "AED",
+    "status": "on_hold",
+    "approval_workflow": {
+      "site_engineer": {
+        "name": "Deanna Yates",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "project_manager": null,
+      "finance_manager": null
+    },
+    "po_number": "PO-67627",
+    "contract_reference": "CONT-ZAD-9393"
+  },
+  {
+    "invoice_id": "INV-8D2E24AF",
+    "vendor": {
+      "name": "Schindler Gulf",
+      "category": "Elevators",
+      "trn": "100362566874",
+      "address": "30230 King Park Suite 322\nPort Gary, NJ 76633",
+      "bank_name": "Mashreq Bank",
+      "iban": "GB76LJBR90509246602558"
+    },
+    "project": {
+      "name": "DAMAC Hills",
+      "location": "Dubailand",
+      "cost_center": "CC-DAM-230"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-03-17",
+      "received_date": "2026-01-20"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Swimming Pool - transition turn-key networks",
+        "quantity": 28,
+        "unit": "hours",
+        "unit_price_aed": 10868,
+        "amount_aed": 304304
+      },
+      {
+        "line_number": 2,
+        "description": "Swimming Pool - expedite extensible bandwidth",
+        "quantity": 33,
+        "unit": "hours",
+        "unit_price_aed": 44773,
+        "amount_aed": 1477509
+      },
+      {
+        "line_number": 3,
+        "description": "External Works - extend robust paradigms",
+        "quantity": 39,
+        "unit": "lots",
+        "unit_price_aed": 31745,
+        "amount_aed": 1238055
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 3019868,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 150993.4,
+      "total_aed": 3170861.4,
+      "retention_percent": 5.0,
+      "retention_aed": 150993.4,
+      "net_payable_aed": 3019868.0
+    },
+    "payment_terms": "Net 60",
+    "currency": "AED",
+    "status": "pending_approval",
+    "approval_workflow": {
+      "site_engineer": {
+        "name": "Paul Hayes",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "project_manager": {
+        "name": "Crystal Golden",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "finance_manager": {
+        "name": "Scott Neal",
+        "date": "2026-01-16",
+        "status": "pending"
+      }
+    },
+    "po_number": "PO-69331",
+    "contract_reference": "CONT-DAM-1049"
+  },
+  {
+    "invoice_id": "INV-C30F1E8F",
+    "vendor": {
+      "name": "Arabtec Construction",
+      "category": "Civil Works",
+      "trn": "100843133080",
+      "address": "37661 Donald Hill Apt. 811\nNorth Theresa, UT 30337",
+      "bank_name": "Mashreq Bank",
+      "iban": "GB89YHLT96256248348824"
+    },
+    "project": {
+      "name": "Zada Tower",
+      "location": "Business Bay",
+      "cost_center": "CC-ZAD-612"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-03-02",
+      "received_date": "2026-01-21"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Swimming Pool - mesh turn-key portals",
+        "quantity": 42,
+        "unit": "sqm",
+        "unit_price_aed": 21040,
+        "amount_aed": 883680
+      },
+      {
+        "line_number": 2,
+        "description": "Fit-out Works - drive vertical partnerships",
+        "quantity": 79,
+        "unit": "units",
+        "unit_price_aed": 48956,
+        "amount_aed": 3867524
+      },
+      {
+        "line_number": 3,
+        "description": "Fit-out Works - generate impactful methodologies",
+        "quantity": 6,
+        "unit": "lots",
+        "unit_price_aed": 37870,
+        "amount_aed": 227220
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 4978424,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 248921.2,
+      "total_aed": 5227345.2,
+      "retention_percent": 5.0,
+      "retention_aed": 248921.2,
+      "net_payable_aed": 4978424.0
+    },
+    "payment_terms": "Net 45",
+    "currency": "AED",
+    "status": "paid",
+    "approval_workflow": {
+      "site_engineer": null,
+      "project_manager": null,
+      "finance_manager": {
+        "name": "Billy Delacruz",
+        "date": "2026-01-16",
+        "status": "pending"
+      }
+    },
+    "po_number": "PO-49240",
+    "contract_reference": "CONT-ZAD-8698"
+  },
+  {
+    "invoice_id": "INV-E7FB5C6C",
+    "vendor": {
+      "name": "ALEC Engineering",
+      "category": "Main Contractor",
+      "trn": "100613591164",
+      "address": "454 Walker Stravenue Suite 873\nBobbyton, FM 88976",
+      "bank_name": "First Abu Dhabi Bank",
+      "iban": "GB32IQYO89354980102860"
+    },
+    "project": {
+      "name": "Safa One",
+      "location": "Business Bay",
+      "cost_center": "CC-SAF-721"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-03-17",
+      "received_date": "2026-01-17"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Fit-out Works - orchestrate 24/7 deliverables",
+        "quantity": 76,
+        "unit": "units",
+        "unit_price_aed": 49598,
+        "amount_aed": 3769448
+      },
+      {
+        "line_number": 2,
+        "description": "Contingency - disintermediate revolutionary ROI",
+        "quantity": 12,
+        "unit": "lots",
+        "unit_price_aed": 24940,
+        "amount_aed": 299280
+      },
+      {
+        "line_number": 3,
+        "description": "Contingency - envisioneer front-end vortals",
+        "quantity": 85,
+        "unit": "units",
+        "unit_price_aed": 35657,
+        "amount_aed": 3030845
+      },
+      {
+        "line_number": 4,
+        "description": "Contingency - deliver revolutionary applications",
+        "quantity": 38,
+        "unit": "hours",
+        "unit_price_aed": 19844,
+        "amount_aed": 754072
+      },
+      {
+        "line_number": 5,
+        "description": "Material Supply - generate 24/7 relationships",
+        "quantity": 43,
+        "unit": "lots",
+        "unit_price_aed": 46011,
+        "amount_aed": 1978473
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 9832118,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 491605.9,
+      "total_aed": 10323723.9,
+      "retention_percent": 5.0,
+      "retention_aed": 491605.9,
+      "net_payable_aed": 9832118.0
+    },
+    "payment_terms": "Net 60",
+    "currency": "AED",
+    "status": "approved",
+    "approval_workflow": {
+      "site_engineer": null,
+      "project_manager": {
+        "name": "Rachel Bates",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "finance_manager": {
+        "name": "Eric Wright",
+        "date": "2026-01-16",
+        "status": "pending"
+      }
+    },
+    "po_number": "PO-41178",
+    "contract_reference": "CONT-SAF-9225"
+  },
+  {
+    "invoice_id": "INV-FE392B79",
+    "vendor": {
+      "name": "Al Futtaim Carillion",
+      "category": "Fit-out",
+      "trn": "100622310001",
+      "address": "401 Todd Roads\nNorth Roberta, FL 73049",
+      "bank_name": "RAKBANK",
+      "iban": "GB59WGPV91154419729750"
+    },
+    "project": {
+      "name": "DAMAC Islands",
+      "location": "Dubai Islands",
+      "cost_center": "CC-DAM-396"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-03-02",
+      "received_date": "2026-01-17"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Contingency - harness wireless systems",
+        "quantity": 14,
+        "unit": "sets",
+        "unit_price_aed": 23851,
+        "amount_aed": 333914
+      },
+      {
+        "line_number": 2,
+        "description": "Contingency - integrate out-of-the-box e-tailers",
+        "quantity": 87,
+        "unit": "units",
+        "unit_price_aed": 44948,
+        "amount_aed": 3910476
+      },
+      {
+        "line_number": 3,
+        "description": "Swimming Pool - enhance best-of-breed platforms",
+        "quantity": 89,
+        "unit": "sets",
+        "unit_price_aed": 9218,
+        "amount_aed": 820402
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 5064792,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 253239.6,
+      "total_aed": 5318031.6,
+      "retention_percent": 5.0,
+      "retention_aed": 253239.6,
+      "net_payable_aed": 5064792.0
+    },
+    "payment_terms": "Net 45",
+    "currency": "AED",
+    "status": "on_hold",
+    "approval_workflow": {
+      "site_engineer": {
+        "name": "William Aguilar",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "project_manager": null,
+      "finance_manager": {
+        "name": "Lauren Hester",
+        "date": "2026-01-16",
+        "status": "pending"
+      }
+    },
+    "po_number": "PO-82978",
+    "contract_reference": "CONT-DAM-6598"
+  },
+  {
+    "invoice_id": "INV-42DB82E1",
+    "vendor": {
+      "name": "Depa Interiors",
+      "category": "Interiors",
+      "trn": "100378554869",
+      "address": "938 Makayla Lodge\nNew Allisonhaven, SD 63563",
+      "bank_name": "Emirates NBD",
+      "iban": "GB96IJGB86372606481305"
+    },
+    "project": {
+      "name": "DAMAC Hills 2",
+      "location": "Dubailand",
+      "cost_center": "CC-DAM-421"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-02-15",
+      "received_date": "2026-01-17"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Contingency - monetize B2C relationships",
+        "quantity": 70,
+        "unit": "sets",
+        "unit_price_aed": 45921,
+        "amount_aed": 3214470
+      },
+      {
+        "line_number": 2,
+        "description": "Security Systems - leverage dot-com partnerships",
+        "quantity": 64,
+        "unit": "hours",
+        "unit_price_aed": 49647,
+        "amount_aed": 3177408
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 6391878,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 319593.9,
+      "total_aed": 6711471.9,
+      "retention_percent": 5.0,
+      "retention_aed": 319593.9,
+      "net_payable_aed": 6391878.0
+    },
+    "payment_terms": "Net 30",
+    "currency": "AED",
+    "status": "approved",
+    "approval_workflow": {
+      "site_engineer": {
+        "name": "Ricky Hall",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "project_manager": {
+        "name": "Michael Roberts",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "finance_manager": {
+        "name": "Tina Miller",
+        "date": "2026-01-16",
+        "status": "pending"
+      }
+    },
+    "po_number": "PO-24673",
+    "contract_reference": "CONT-DAM-9462"
+  },
+  {
+    "invoice_id": "INV-E19BCA29",
+    "vendor": {
+      "name": "Arabtec Construction",
+      "category": "Civil Works",
+      "trn": "100781299364",
+      "address": "7986 Kayla Islands\nJordanburgh, SC 21644",
+      "bank_name": "Commercial Bank of Dubai",
+      "iban": "GB26UWVA93768076310304"
+    },
+    "project": {
+      "name": "DAMAC Hills",
+      "location": "Dubailand",
+      "cost_center": "CC-DAM-449"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-02-15",
+      "received_date": "2026-01-19"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Contingency - incentivize visionary markets",
+        "quantity": 10,
+        "unit": "units",
+        "unit_price_aed": 26791,
+        "amount_aed": 267910
+      },
+      {
+        "line_number": 2,
+        "description": "Fit-out Works - harness holistic infrastructures",
+        "quantity": 69,
+        "unit": "sets",
+        "unit_price_aed": 26264,
+        "amount_aed": 1812216
+      },
+      {
+        "line_number": 3,
+        "description": "Contingency - synthesize 24/7 e-tailers",
+        "quantity": 23,
+        "unit": "lots",
+        "unit_price_aed": 23145,
+        "amount_aed": 532335
+      },
+      {
+        "line_number": 4,
+        "description": "Contingency - whiteboard ubiquitous functionalities",
+        "quantity": 17,
+        "unit": "lots",
+        "unit_price_aed": 30739,
+        "amount_aed": 522563
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 3135024,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 156751.2,
+      "total_aed": 3291775.2,
+      "retention_percent": 5.0,
+      "retention_aed": 156751.2,
+      "net_payable_aed": 3135024.0
+    },
+    "payment_terms": "Net 30",
+    "currency": "AED",
+    "status": "on_hold",
+    "approval_workflow": {
+      "site_engineer": null,
+      "project_manager": {
+        "name": "Michael Murphy",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "finance_manager": {
+        "name": "Jacob Perez",
+        "date": "2026-01-16",
+        "status": "pending"
+      }
+    },
+    "po_number": "PO-17354",
+    "contract_reference": "CONT-DAM-2151"
+  },
+  {
+    "invoice_id": "INV-3757D042",
+    "vendor": {
+      "name": "Carrier Middle East",
+      "category": "HVAC",
+      "trn": "100893373143",
+      "address": "66240 Keller Overpass Suite 659\nLake Austinbury, IA 26344",
+      "bank_name": "Dubai Islamic Bank",
+      "iban": "GB32VDGC00267867075994"
+    },
+    "project": {
+      "name": "Trump DAMAC Golf",
+      "location": "DAMAC Hills",
+      "cost_center": "CC-TRU-774"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-03-17",
+      "received_date": "2026-01-17"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "External Works - grow scalable models",
+        "quantity": 18,
+        "unit": "lots",
+        "unit_price_aed": 25282,
+        "amount_aed": 455076
+      },
+      {
+        "line_number": 2,
+        "description": "Fit-out Works - iterate value-added niches",
+        "quantity": 85,
+        "unit": "hours",
+        "unit_price_aed": 34718,
+        "amount_aed": 2951030
+      },
+      {
+        "line_number": 3,
+        "description": "MEP Works - transition one-to-one bandwidth",
+        "quantity": 95,
+        "unit": "hours",
+        "unit_price_aed": 45735,
+        "amount_aed": 4344825
+      },
+      {
+        "line_number": 4,
+        "description": "External Works - utilize B2B deliverables",
+        "quantity": 2,
+        "unit": "sqm",
+        "unit_price_aed": 47128,
+        "amount_aed": 94256
+      },
+      {
+        "line_number": 5,
+        "description": "Swimming Pool - leverage user-centric partnerships",
+        "quantity": 43,
+        "unit": "hours",
+        "unit_price_aed": 3509,
+        "amount_aed": 150887
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 7996074,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 399803.7,
+      "total_aed": 8395877.7,
+      "retention_percent": 5.0,
+      "retention_aed": 399803.7,
+      "net_payable_aed": 7996074.0
+    },
+    "payment_terms": "Net 60",
+    "currency": "AED",
+    "status": "approved",
+    "approval_workflow": {
+      "site_engineer": {
+        "name": "Seth Smith",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "project_manager": null,
+      "finance_manager": {
+        "name": "Erik Cook",
+        "date": "2026-01-16",
+        "status": "pending"
+      }
+    },
+    "po_number": "PO-95115",
+    "contract_reference": "CONT-TRU-9667"
+  },
+  {
+    "invoice_id": "INV-8DED60A1",
+    "vendor": {
+      "name": "Al Futtaim Carillion",
+      "category": "Fit-out",
+      "trn": "100275387288",
+      "address": "829 Alan Lane Apt. 515\nGregoryborough, IN 82864",
+      "bank_name": "Abu Dhabi Commercial Bank",
+      "iban": "GB79LZEP04899804032513"
+    },
+    "project": {
+      "name": "DAMAC Hills",
+      "location": "Dubailand",
+      "cost_center": "CC-DAM-617"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-03-17",
+      "received_date": "2026-01-19"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Security Systems - drive frictionless users",
+        "quantity": 23,
+        "unit": "sqm",
+        "unit_price_aed": 41588,
+        "amount_aed": 956524
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 956524,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 47826.2,
+      "total_aed": 1004350.2,
+      "retention_percent": 5.0,
+      "retention_aed": 47826.2,
+      "net_payable_aed": 956524.0
+    },
+    "payment_terms": "Net 60",
+    "currency": "AED",
+    "status": "on_hold",
+    "approval_workflow": {
+      "site_engineer": {
+        "name": "Rachel Mitchell",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "project_manager": null,
+      "finance_manager": {
+        "name": "Charles Webster",
+        "date": "2026-01-16",
+        "status": "pending"
+      }
+    },
+    "po_number": "PO-68802",
+    "contract_reference": "CONT-DAM-3765"
+  },
+  {
+    "invoice_id": "INV-F9ED84A6",
+    "vendor": {
+      "name": "Arabtec Construction",
+      "category": "Civil Works",
+      "trn": "100682011788",
+      "address": "22350 Meghan Trafficway Apt. 295\nJenniferside, FL 83180",
+      "bank_name": "Emirates NBD",
+      "iban": "GB83BGQA65305877282015"
+    },
+    "project": {
+      "name": "DAMAC Lagoons",
+      "location": "Dubailand",
+      "cost_center": "CC-DAM-874"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-03-17",
+      "received_date": "2026-01-21"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Swimming Pool - enhance cross-media infrastructures",
+        "quantity": 4,
+        "unit": "sqm",
+        "unit_price_aed": 45199,
+        "amount_aed": 180796
+      },
+      {
+        "line_number": 2,
+        "description": "Contingency - benchmark bleeding-edge bandwidth",
+        "quantity": 44,
+        "unit": "sqm",
+        "unit_price_aed": 12044,
+        "amount_aed": 529936
+      },
+      {
+        "line_number": 3,
+        "description": "Landscaping - grow dot-com e-services",
+        "quantity": 14,
+        "unit": "units",
+        "unit_price_aed": 2067,
+        "amount_aed": 28938
+      },
+      {
+        "line_number": 4,
+        "description": "Security Systems - generate revolutionary users",
+        "quantity": 46,
+        "unit": "lots",
+        "unit_price_aed": 39267,
+        "amount_aed": 1806282
+      },
+      {
+        "line_number": 5,
+        "description": "External Works - incubate vertical architectures",
+        "quantity": 55,
+        "unit": "units",
+        "unit_price_aed": 12831,
+        "amount_aed": 705705
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 3251657,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 162582.85,
+      "total_aed": 3414239.85,
+      "retention_percent": 5.0,
+      "retention_aed": 162582.85,
+      "net_payable_aed": 3251657.0
+    },
+    "payment_terms": "Net 60",
+    "currency": "AED",
+    "status": "approved",
+    "approval_workflow": {
+      "site_engineer": {
+        "name": "Deborah Martinez",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "project_manager": null,
+      "finance_manager": null
+    },
+    "po_number": "PO-42105",
+    "contract_reference": "CONT-DAM-2768"
+  },
+  {
+    "invoice_id": "INV-2CA04E00",
+    "vendor": {
+      "name": "Gulf Marble Factory",
+      "category": "Materials",
+      "trn": "100439735606",
+      "address": "0385 Julia Port\nNew Karentown, MI 28686",
+      "bank_name": "RAKBANK",
+      "iban": "GB10OFEH27378906901307"
+    },
+    "project": {
+      "name": "Trump DAMAC Golf",
+      "location": "DAMAC Hills",
+      "cost_center": "CC-TRU-975"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-03-02",
+      "received_date": "2026-01-17"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Smart Home Installation - evolve clicks-and-mortar technologies",
+        "quantity": 78,
+        "unit": "hours",
+        "unit_price_aed": 12373,
+        "amount_aed": 965094
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 965094,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 48254.7,
+      "total_aed": 1013348.7,
+      "retention_percent": 5.0,
+      "retention_aed": 48254.7,
+      "net_payable_aed": 965094.0
+    },
+    "payment_terms": "Net 45",
+    "currency": "AED",
+    "status": "pending_approval",
+    "approval_workflow": {
+      "site_engineer": {
+        "name": "Robert Thomas PhD",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "project_manager": null,
+      "finance_manager": {
+        "name": "Michelle Martinez",
+        "date": "2026-01-16",
+        "status": "pending"
+      }
+    },
+    "po_number": "PO-84522",
+    "contract_reference": "CONT-TRU-2381"
+  },
+  {
+    "invoice_id": "INV-7A6E986C",
+    "vendor": {
+      "name": "Gulf Marble Factory",
+      "category": "Materials",
+      "trn": "100534735097",
+      "address": "USS Jones\nFPO AA 09490",
+      "bank_name": "Emirates NBD",
+      "iban": "GB33XAEV15697858798451"
+    },
+    "project": {
+      "name": "Safa Two",
+      "location": "Business Bay",
+      "cost_center": "CC-SAF-510"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-02-15",
+      "received_date": "2026-01-21"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Security Systems - strategize best-of-breed functionalities",
+        "quantity": 96,
+        "unit": "hours",
+        "unit_price_aed": 42757,
+        "amount_aed": 4104672
+      },
+      {
+        "line_number": 2,
+        "description": "Fit-out Works - grow strategic supply-chains",
+        "quantity": 12,
+        "unit": "sqm",
+        "unit_price_aed": 14032,
+        "amount_aed": 168384
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 4273056,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 213652.8,
+      "total_aed": 4486708.8,
+      "retention_percent": 5.0,
+      "retention_aed": 213652.8,
+      "net_payable_aed": 4273056.0
+    },
+    "payment_terms": "Net 30",
+    "currency": "AED",
+    "status": "on_hold",
+    "approval_workflow": {
+      "site_engineer": null,
+      "project_manager": null,
+      "finance_manager": null
+    },
+    "po_number": "PO-87702",
+    "contract_reference": "CONT-SAF-3728"
+  },
+  {
+    "invoice_id": "INV-F7158AC4",
+    "vendor": {
+      "name": "Al Futtaim Carillion",
+      "category": "Fit-out",
+      "trn": "100110513117",
+      "address": "263 Krause Divide\nBishopbury, OR 79594",
+      "bank_name": "Dubai Islamic Bank",
+      "iban": "GB50YDFB09157472414277"
+    },
+    "project": {
+      "name": "Safa Two",
+      "location": "Business Bay",
+      "cost_center": "CC-SAF-264"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-03-02",
+      "received_date": "2026-01-21"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Security Systems - cultivate wireless technologies",
+        "quantity": 12,
+        "unit": "sqm",
+        "unit_price_aed": 34585,
+        "amount_aed": 415020
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 415020,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 20751.0,
+      "total_aed": 435771.0,
+      "retention_percent": 5.0,
+      "retention_aed": 20751.0,
+      "net_payable_aed": 415020.0
+    },
+    "payment_terms": "Net 45",
+    "currency": "AED",
+    "status": "pending_approval",
+    "approval_workflow": {
+      "site_engineer": null,
+      "project_manager": null,
+      "finance_manager": {
+        "name": "April Wood",
+        "date": "2026-01-16",
+        "status": "pending"
+      }
+    },
+    "po_number": "PO-23466",
+    "contract_reference": "CONT-SAF-6538"
+  },
+  {
+    "invoice_id": "INV-DD76971B",
+    "vendor": {
+      "name": "Emirates Glass",
+      "category": "Materials",
+      "trn": "100794734541",
+      "address": "96595 Garcia Parkway Suite 849\nSouth Marc, OK 50656",
+      "bank_name": "RAKBANK",
+      "iban": "GB15FSWW94389835527332"
+    },
+    "project": {
+      "name": "DAMAC Hills",
+      "location": "Dubailand",
+      "cost_center": "CC-DAM-710"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-03-02",
+      "received_date": "2026-01-20"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "External Works - enhance leading-edge partnerships",
+        "quantity": 85,
+        "unit": "sqm",
+        "unit_price_aed": 49685,
+        "amount_aed": 4223225
+      },
+      {
+        "line_number": 2,
+        "description": "External Works - architect one-to-one mindshare",
+        "quantity": 10,
+        "unit": "lots",
+        "unit_price_aed": 35157,
+        "amount_aed": 351570
+      },
+      {
+        "line_number": 3,
+        "description": "External Works - implement magnetic architectures",
+        "quantity": 49,
+        "unit": "lots",
+        "unit_price_aed": 18984,
+        "amount_aed": 930216
+      },
+      {
+        "line_number": 4,
+        "description": "External Works - syndicate impactful schemas",
+        "quantity": 35,
+        "unit": "units",
+        "unit_price_aed": 44246,
+        "amount_aed": 1548610
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 7053621,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 352681.05,
+      "total_aed": 7406302.05,
+      "retention_percent": 5.0,
+      "retention_aed": 352681.05,
+      "net_payable_aed": 7053621.0
+    },
+    "payment_terms": "Net 45",
+    "currency": "AED",
+    "status": "paid",
+    "approval_workflow": {
+      "site_engineer": null,
+      "project_manager": {
+        "name": "Donald Sandoval",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "finance_manager": {
+        "name": "Charles Morton",
+        "date": "2026-01-16",
+        "status": "pending"
+      }
+    },
+    "po_number": "PO-43741",
+    "contract_reference": "CONT-DAM-2646"
+  },
+  {
+    "invoice_id": "INV-F067856C",
+    "vendor": {
+      "name": "Arabtec Construction",
+      "category": "Civil Works",
+      "trn": "100470420626",
+      "address": "Unit 1744 Box 4101\nDPO AP 51709",
+      "bank_name": "Mashreq Bank",
+      "iban": "GB40CMCG51047615475236"
+    },
+    "project": {
+      "name": "DAMAC Lagoons",
+      "location": "Dubailand",
+      "cost_center": "CC-DAM-561"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-03-17",
+      "received_date": "2026-01-17"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Security Systems - syndicate 24/7 architectures",
+        "quantity": 83,
+        "unit": "hours",
+        "unit_price_aed": 4303,
+        "amount_aed": 357149
+      },
+      {
+        "line_number": 2,
+        "description": "Landscaping - leverage scalable users",
+        "quantity": 37,
+        "unit": "lots",
+        "unit_price_aed": 23099,
+        "amount_aed": 854663
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 1211812,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 60590.6,
+      "total_aed": 1272402.6,
+      "retention_percent": 5.0,
+      "retention_aed": 60590.6,
+      "net_payable_aed": 1211812.0
+    },
+    "payment_terms": "Net 60",
+    "currency": "AED",
+    "status": "on_hold",
+    "approval_workflow": {
+      "site_engineer": {
+        "name": "Jennifer Moran",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "project_manager": null,
+      "finance_manager": null
+    },
+    "po_number": "PO-35547",
+    "contract_reference": "CONT-DAM-3924"
+  },
+  {
+    "invoice_id": "INV-CE73E2EF",
+    "vendor": {
+      "name": "Emirates Glass",
+      "category": "Materials",
+      "trn": "100250056377",
+      "address": "69754 Glass Underpass\nKerryville, RI 61556",
+      "bank_name": "RAKBANK",
+      "iban": "GB63DNNS92145086872862"
+    },
+    "project": {
+      "name": "DAMAC Bay",
+      "location": "Dubai Harbour",
+      "cost_center": "CC-DAM-461"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-02-15",
+      "received_date": "2026-01-18"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Security Systems - aggregate 24/7 users",
+        "quantity": 68,
+        "unit": "lots",
+        "unit_price_aed": 12570,
+        "amount_aed": 854760
+      },
+      {
+        "line_number": 2,
+        "description": "Contingency - re-intermediate frictionless deliverables",
+        "quantity": 5,
+        "unit": "sqm",
+        "unit_price_aed": 30476,
+        "amount_aed": 152380
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 1007140,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 50357.0,
+      "total_aed": 1057497.0,
+      "retention_percent": 5.0,
+      "retention_aed": 50357.0,
+      "net_payable_aed": 1007140.0
+    },
+    "payment_terms": "Net 30",
+    "currency": "AED",
+    "status": "approved",
+    "approval_workflow": {
+      "site_engineer": null,
+      "project_manager": null,
+      "finance_manager": {
+        "name": "Renee Hahn",
+        "date": "2026-01-16",
+        "status": "pending"
+      }
+    },
+    "po_number": "PO-74133",
+    "contract_reference": "CONT-DAM-8845"
+  },
+  {
+    "invoice_id": "INV-E05A86A5",
+    "vendor": {
+      "name": "Arabtec Construction",
+      "category": "Civil Works",
+      "trn": "100107812919",
+      "address": "539 Melissa Inlet Apt. 296\nNorth Michael, HI 03209",
+      "bank_name": "RAKBANK",
+      "iban": "GB92PRDK09058301477598"
+    },
+    "project": {
+      "name": "Trump DAMAC Golf",
+      "location": "DAMAC Hills",
+      "cost_center": "CC-TRU-656"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-02-15",
+      "received_date": "2026-01-18"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Construction Progress - reinvent revolutionary architectures",
+        "quantity": 89,
+        "unit": "lots",
+        "unit_price_aed": 27193,
+        "amount_aed": 2420177
+      },
+      {
+        "line_number": 2,
+        "description": "MEP Works - e-enable intuitive e-commerce",
+        "quantity": 4,
+        "unit": "sets",
+        "unit_price_aed": 33484,
+        "amount_aed": 133936
+      },
+      {
+        "line_number": 3,
+        "description": "Smart Home Installation - empower strategic synergies",
+        "quantity": 25,
+        "unit": "sqm",
+        "unit_price_aed": 20839,
+        "amount_aed": 520975
+      },
+      {
+        "line_number": 4,
+        "description": "Landscaping - productize open-source systems",
+        "quantity": 57,
+        "unit": "hours",
+        "unit_price_aed": 35802,
+        "amount_aed": 2040714
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 5115802,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 255790.1,
+      "total_aed": 5371592.1,
+      "retention_percent": 5.0,
+      "retention_aed": 255790.1,
+      "net_payable_aed": 5115802.0
+    },
+    "payment_terms": "Net 30",
+    "currency": "AED",
+    "status": "pending_approval",
+    "approval_workflow": {
+      "site_engineer": null,
+      "project_manager": null,
+      "finance_manager": {
+        "name": "Rebecca Mason",
+        "date": "2026-01-16",
+        "status": "pending"
+      }
+    },
+    "po_number": "PO-93537",
+    "contract_reference": "CONT-TRU-5898"
+  },
+  {
+    "invoice_id": "INV-AD714024",
+    "vendor": {
+      "name": "Depa Interiors",
+      "category": "Interiors",
+      "trn": "100438640401",
+      "address": "3709 Peck Tunnel\nBondland, WY 12141",
+      "bank_name": "Dubai Islamic Bank",
+      "iban": "GB42BRUF43908978782835"
+    },
+    "project": {
+      "name": "DAMAC Hills",
+      "location": "Dubailand",
+      "cost_center": "CC-DAM-806"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-03-02",
+      "received_date": "2026-01-21"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Fit-out Works - expedite cross-platform action-items",
+        "quantity": 27,
+        "unit": "lots",
+        "unit_price_aed": 49463,
+        "amount_aed": 1335501
+      },
+      {
+        "line_number": 2,
+        "description": "Smart Home Installation - empower global info-mediaries",
+        "quantity": 44,
+        "unit": "sets",
+        "unit_price_aed": 7034,
+        "amount_aed": 309496
+      },
+      {
+        "line_number": 3,
+        "description": "Swimming Pool - extend intuitive interfaces",
+        "quantity": 45,
+        "unit": "sets",
+        "unit_price_aed": 32363,
+        "amount_aed": 1456335
+      },
+      {
+        "line_number": 4,
+        "description": "Swimming Pool - target open-source content",
+        "quantity": 63,
+        "unit": "units",
+        "unit_price_aed": 14341,
+        "amount_aed": 903483
+      },
+      {
+        "line_number": 5,
+        "description": "Construction Progress - re-contextualize world-class initiatives",
+        "quantity": 17,
+        "unit": "hours",
+        "unit_price_aed": 43792,
+        "amount_aed": 744464
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 4749279,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 237463.95,
+      "total_aed": 4986742.95,
+      "retention_percent": 5.0,
+      "retention_aed": 237463.95,
+      "net_payable_aed": 4749279.0
+    },
+    "payment_terms": "Net 45",
+    "currency": "AED",
+    "status": "on_hold",
+    "approval_workflow": {
+      "site_engineer": null,
+      "project_manager": null,
+      "finance_manager": {
+        "name": "Emily Caldwell",
+        "date": "2026-01-16",
+        "status": "pending"
+      }
+    },
+    "po_number": "PO-80980",
+    "contract_reference": "CONT-DAM-2978"
+  },
+  {
+    "invoice_id": "INV-1A8A165E",
+    "vendor": {
+      "name": "Depa Interiors",
+      "category": "Interiors",
+      "trn": "100963617946",
+      "address": "16069 Sawyer Station\nLake Amymouth, CO 02316",
+      "bank_name": "Mashreq Bank",
+      "iban": "GB47YZNU51778221641492"
+    },
+    "project": {
+      "name": "Trump DAMAC Golf",
+      "location": "DAMAC Hills",
+      "cost_center": "CC-TRU-210"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-03-17",
+      "received_date": "2026-01-20"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Swimming Pool - engage holistic models",
+        "quantity": 69,
+        "unit": "sqm",
+        "unit_price_aed": 3482,
+        "amount_aed": 240258
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 240258,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 12012.9,
+      "total_aed": 252270.9,
+      "retention_percent": 5.0,
+      "retention_aed": 12012.9,
+      "net_payable_aed": 240258.0
+    },
+    "payment_terms": "Net 60",
+    "currency": "AED",
+    "status": "partially_paid",
+    "approval_workflow": {
+      "site_engineer": null,
+      "project_manager": null,
+      "finance_manager": {
+        "name": "Maurice Scott",
+        "date": "2026-01-16",
+        "status": "pending"
+      }
+    },
+    "po_number": "PO-85561",
+    "contract_reference": "CONT-TRU-7563"
+  },
+  {
+    "invoice_id": "INV-919C9773",
+    "vendor": {
+      "name": "Schindler Gulf",
+      "category": "Elevators",
+      "trn": "100389436152",
+      "address": "1411 Evan Corner\nWest Jeffrey, PW 83152",
+      "bank_name": "Mashreq Bank",
+      "iban": "GB15CMRQ08860799141223"
+    },
+    "project": {
+      "name": "Safa Two",
+      "location": "Business Bay",
+      "cost_center": "CC-SAF-567"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-03-02",
+      "received_date": "2026-01-17"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Security Systems - grow rich channels",
+        "quantity": 74,
+        "unit": "sqm",
+        "unit_price_aed": 30987,
+        "amount_aed": 2293038
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 2293038,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 114651.9,
+      "total_aed": 2407689.9,
+      "retention_percent": 5.0,
+      "retention_aed": 114651.9,
+      "net_payable_aed": 2293038.0
+    },
+    "payment_terms": "Net 45",
+    "currency": "AED",
+    "status": "paid",
+    "approval_workflow": {
+      "site_engineer": {
+        "name": "Angela Randall",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "project_manager": null,
+      "finance_manager": null
+    },
+    "po_number": "PO-87890",
+    "contract_reference": "CONT-SAF-1552"
+  },
+  {
+    "invoice_id": "INV-2B918931",
+    "vendor": {
+      "name": "ALEC Engineering",
+      "category": "Main Contractor",
+      "trn": "100781331121",
+      "address": "703 Hull Forge Apt. 540\nSouth Kellie, DE 86556",
+      "bank_name": "Abu Dhabi Commercial Bank",
+      "iban": "GB91VEYU09379944104654"
+    },
+    "project": {
+      "name": "Trump DAMAC Golf",
+      "location": "DAMAC Hills",
+      "cost_center": "CC-TRU-931"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-03-02",
+      "received_date": "2026-01-18"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "External Works - iterate bricks-and-clicks e-business",
+        "quantity": 28,
+        "unit": "sets",
+        "unit_price_aed": 35240,
+        "amount_aed": 986720
+      },
+      {
+        "line_number": 2,
+        "description": "External Works - aggregate efficient networks",
+        "quantity": 15,
+        "unit": "sets",
+        "unit_price_aed": 28449,
+        "amount_aed": 426735
+      },
+      {
+        "line_number": 3,
+        "description": "Smart Home Installation - productize innovative experiences",
+        "quantity": 31,
+        "unit": "lots",
+        "unit_price_aed": 4783,
+        "amount_aed": 148273
+      },
+      {
+        "line_number": 4,
+        "description": "Material Supply - enhance out-of-the-box architectures",
+        "quantity": 33,
+        "unit": "sqm",
+        "unit_price_aed": 26903,
+        "amount_aed": 887799
+      },
+      {
+        "line_number": 5,
+        "description": "Contingency - expedite user-centric architectures",
+        "quantity": 81,
+        "unit": "hours",
+        "unit_price_aed": 8937,
+        "amount_aed": 723897
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 3173424,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 158671.2,
+      "total_aed": 3332095.2,
+      "retention_percent": 5.0,
+      "retention_aed": 158671.2,
+      "net_payable_aed": 3173424.0
+    },
+    "payment_terms": "Net 45",
+    "currency": "AED",
+    "status": "partially_paid",
+    "approval_workflow": {
+      "site_engineer": {
+        "name": "Melissa Rocha",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "project_manager": {
+        "name": "Laura Miller",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "finance_manager": {
+        "name": "Kathryn Green",
+        "date": "2026-01-16",
+        "status": "pending"
+      }
+    },
+    "po_number": "PO-40544",
+    "contract_reference": "CONT-TRU-7771"
+  },
+  {
+    "invoice_id": "INV-35F783F5",
+    "vendor": {
+      "name": "Emirates Glass",
+      "category": "Materials",
+      "trn": "100967087390",
+      "address": "64408 Chad Parkway\nEast Jane, OR 32703",
+      "bank_name": "Emirates NBD",
+      "iban": "GB11WKGL81925149333652"
+    },
+    "project": {
+      "name": "Cavalli Tower",
+      "location": "Dubai Marina",
+      "cost_center": "CC-CAV-717"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-03-02",
+      "received_date": "2026-01-21"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Fit-out Works - transform user-centric portals",
+        "quantity": 24,
+        "unit": "units",
+        "unit_price_aed": 12119,
+        "amount_aed": 290856
+      },
+      {
+        "line_number": 2,
+        "description": "Fit-out Works - visualize end-to-end platforms",
+        "quantity": 85,
+        "unit": "sqm",
+        "unit_price_aed": 15987,
+        "amount_aed": 1358895
+      },
+      {
+        "line_number": 3,
+        "description": "Contingency - generate enterprise e-tailers",
+        "quantity": 52,
+        "unit": "sets",
+        "unit_price_aed": 7571,
+        "amount_aed": 393692
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 2043443,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 102172.15,
+      "total_aed": 2145615.15,
+      "retention_percent": 5.0,
+      "retention_aed": 102172.15,
+      "net_payable_aed": 2043443.0
+    },
+    "payment_terms": "Net 45",
+    "currency": "AED",
+    "status": "pending_approval",
+    "approval_workflow": {
+      "site_engineer": {
+        "name": "Jackie Bowers",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "project_manager": null,
+      "finance_manager": null
+    },
+    "po_number": "PO-44679",
+    "contract_reference": "CONT-CAV-4651"
+  },
+  {
+    "invoice_id": "INV-408B0CEB",
+    "vendor": {
+      "name": "Depa Interiors",
+      "category": "Interiors",
+      "trn": "100735418983",
+      "address": "Unit 9438 Box 8245\nDPO AE 09142",
+      "bank_name": "Commercial Bank of Dubai",
+      "iban": "GB54ZVXS90219348785421"
+    },
+    "project": {
+      "name": "DAMAC Hills 2",
+      "location": "Dubailand",
+      "cost_center": "CC-DAM-602"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-03-17",
+      "received_date": "2026-01-20"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Contingency - extend cutting-edge supply-chains",
+        "quantity": 56,
+        "unit": "sets",
+        "unit_price_aed": 29966,
+        "amount_aed": 1678096
+      },
+      {
+        "line_number": 2,
+        "description": "Material Supply - reinvent 24/7 relationships",
+        "quantity": 27,
+        "unit": "sqm",
+        "unit_price_aed": 12525,
+        "amount_aed": 338175
+      },
+      {
+        "line_number": 3,
+        "description": "Construction Progress - deploy transparent ROI",
+        "quantity": 9,
+        "unit": "lots",
+        "unit_price_aed": 26337,
+        "amount_aed": 237033
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 2253304,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 112665.2,
+      "total_aed": 2365969.2,
+      "retention_percent": 5.0,
+      "retention_aed": 112665.2,
+      "net_payable_aed": 2253304.0
+    },
+    "payment_terms": "Net 60",
+    "currency": "AED",
+    "status": "disputed",
+    "approval_workflow": {
+      "site_engineer": null,
+      "project_manager": {
+        "name": "Lisa Maynard",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "finance_manager": null
+    },
+    "po_number": "PO-79985",
+    "contract_reference": "CONT-DAM-4587"
+  },
+  {
+    "invoice_id": "INV-A9AD5340",
+    "vendor": {
+      "name": "Al Habtoor Engineering",
+      "category": "MEP",
+      "trn": "100442584104",
+      "address": "33850 Joseph Stream Apt. 045\nBakerbury, NJ 43171",
+      "bank_name": "Dubai Islamic Bank",
+      "iban": "GB93FSBL81022153162140"
+    },
+    "project": {
+      "name": "Zada Tower",
+      "location": "Business Bay",
+      "cost_center": "CC-ZAD-907"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-03-02",
+      "received_date": "2026-01-17"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Construction Progress - brand holistic models",
+        "quantity": 94,
+        "unit": "units",
+        "unit_price_aed": 30513,
+        "amount_aed": 2868222
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 2868222,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 143411.1,
+      "total_aed": 3011633.1,
+      "retention_percent": 5.0,
+      "retention_aed": 143411.1,
+      "net_payable_aed": 2868222.0
+    },
+    "payment_terms": "Net 45",
+    "currency": "AED",
+    "status": "pending_approval",
+    "approval_workflow": {
+      "site_engineer": {
+        "name": "Gregory Hancock",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "project_manager": {
+        "name": "Kristi Bell",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "finance_manager": {
+        "name": "Melissa Smith",
+        "date": "2026-01-16",
+        "status": "pending"
+      }
+    },
+    "po_number": "PO-25963",
+    "contract_reference": "CONT-ZAD-7680"
+  },
+  {
+    "invoice_id": "INV-AC3A932B",
+    "vendor": {
+      "name": "Emirates Glass",
+      "category": "Materials",
+      "trn": "100242849609",
+      "address": "892 Graham Circle Suite 449\nJoseside, MN 42366",
+      "bank_name": "First Abu Dhabi Bank",
+      "iban": "GB38ETWS98855251454476"
+    },
+    "project": {
+      "name": "Zada Tower",
+      "location": "Business Bay",
+      "cost_center": "CC-ZAD-454"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-02-15",
+      "received_date": "2026-01-21"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Fit-out Works - synergize sticky channels",
+        "quantity": 60,
+        "unit": "sets",
+        "unit_price_aed": 10581,
+        "amount_aed": 634860
+      },
+      {
+        "line_number": 2,
+        "description": "Swimming Pool - brand visionary markets",
+        "quantity": 63,
+        "unit": "sqm",
+        "unit_price_aed": 18538,
+        "amount_aed": 1167894
+      },
+      {
+        "line_number": 3,
+        "description": "Contingency - scale impactful communities",
+        "quantity": 78,
+        "unit": "sqm",
+        "unit_price_aed": 31695,
+        "amount_aed": 2472210
+      },
+      {
+        "line_number": 4,
+        "description": "External Works - repurpose virtual solutions",
+        "quantity": 81,
+        "unit": "lots",
+        "unit_price_aed": 2007,
+        "amount_aed": 162567
+      },
+      {
+        "line_number": 5,
+        "description": "Fit-out Works - whiteboard transparent methodologies",
+        "quantity": 63,
+        "unit": "units",
+        "unit_price_aed": 37283,
+        "amount_aed": 2348829
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 6786360,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 339318.0,
+      "total_aed": 7125678.0,
+      "retention_percent": 5.0,
+      "retention_aed": 339318.0,
+      "net_payable_aed": 6786360.0
+    },
+    "payment_terms": "Net 30",
+    "currency": "AED",
+    "status": "pending_approval",
+    "approval_workflow": {
+      "site_engineer": {
+        "name": "Austin Freeman",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "project_manager": {
+        "name": "Janet Washington",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "finance_manager": {
+        "name": "James Davis",
+        "date": "2026-01-16",
+        "status": "pending"
+      }
+    },
+    "po_number": "PO-19356",
+    "contract_reference": "CONT-ZAD-3499"
+  },
+  {
+    "invoice_id": "INV-571C3BC7",
+    "vendor": {
+      "name": "Al Futtaim Carillion",
+      "category": "Fit-out",
+      "trn": "100126413387",
+      "address": "870 Jessica Stravenue\nLake Dana, NJ 50772",
+      "bank_name": "First Abu Dhabi Bank",
+      "iban": "GB44BSFD04117431042241"
+    },
+    "project": {
+      "name": "DAMAC Hills 2",
+      "location": "Dubailand",
+      "cost_center": "CC-DAM-626"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-02-15",
+      "received_date": "2026-01-17"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Contingency - deliver cutting-edge web-readiness",
+        "quantity": 69,
+        "unit": "lots",
+        "unit_price_aed": 48744,
+        "amount_aed": 3363336
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 3363336,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 168166.8,
+      "total_aed": 3531502.8,
+      "retention_percent": 5.0,
+      "retention_aed": 168166.8,
+      "net_payable_aed": 3363336.0
+    },
+    "payment_terms": "Net 30",
+    "currency": "AED",
+    "status": "pending_approval",
+    "approval_workflow": {
+      "site_engineer": null,
+      "project_manager": null,
+      "finance_manager": {
+        "name": "Todd Macdonald",
+        "date": "2026-01-16",
+        "status": "pending"
+      }
+    },
+    "po_number": "PO-54738",
+    "contract_reference": "CONT-DAM-1510"
+  },
+  {
+    "invoice_id": "INV-644E50CF",
+    "vendor": {
+      "name": "Gulf Marble Factory",
+      "category": "Materials",
+      "trn": "100876316885",
+      "address": "8908 Sarah Alley Suite 367\nLake Loganbury, PW 32407",
+      "bank_name": "Emirates NBD",
+      "iban": "GB87KMSS34938440627297"
+    },
+    "project": {
+      "name": "DAMAC Hills",
+      "location": "Dubailand",
+      "cost_center": "CC-DAM-214"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-03-17",
+      "received_date": "2026-01-19"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Fit-out Works - enhance granular action-items",
+        "quantity": 59,
+        "unit": "sqm",
+        "unit_price_aed": 21663,
+        "amount_aed": 1278117
+      },
+      {
+        "line_number": 2,
+        "description": "Landscaping - optimize next-generation niches",
+        "quantity": 93,
+        "unit": "sets",
+        "unit_price_aed": 39020,
+        "amount_aed": 3628860
+      },
+      {
+        "line_number": 3,
+        "description": "Contingency - enable synergistic e-commerce",
+        "quantity": 13,
+        "unit": "sqm",
+        "unit_price_aed": 4677,
+        "amount_aed": 60801
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 4967778,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 248388.9,
+      "total_aed": 5216166.9,
+      "retention_percent": 5.0,
+      "retention_aed": 248388.9,
+      "net_payable_aed": 4967778.0
+    },
+    "payment_terms": "Net 60",
+    "currency": "AED",
+    "status": "pending_approval",
+    "approval_workflow": {
+      "site_engineer": {
+        "name": "Colleen Smith",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "project_manager": {
+        "name": "Tommy Smith",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "finance_manager": null
+    },
+    "po_number": "PO-20497",
+    "contract_reference": "CONT-DAM-7784"
+  },
+  {
+    "invoice_id": "INV-6496E613",
+    "vendor": {
+      "name": "Drake & Scull",
+      "category": "MEP",
+      "trn": "100746302205",
+      "address": "449 Baker Fork\nWest Kelsey, ND 05988",
+      "bank_name": "RAKBANK",
+      "iban": "GB71ZWHN62433848239033"
+    },
+    "project": {
+      "name": "Cavalli Tower",
+      "location": "Dubai Marina",
+      "cost_center": "CC-CAV-691"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-02-15",
+      "received_date": "2026-01-17"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Contingency - envisioneer rich functionalities",
+        "quantity": 81,
+        "unit": "units",
+        "unit_price_aed": 27210,
+        "amount_aed": 2204010
+      },
+      {
+        "line_number": 2,
+        "description": "Material Supply - reinvent back-end solutions",
+        "quantity": 93,
+        "unit": "sqm",
+        "unit_price_aed": 47595,
+        "amount_aed": 4426335
+      },
+      {
+        "line_number": 3,
+        "description": "Security Systems - iterate plug-and-play niches",
+        "quantity": 51,
+        "unit": "lots",
+        "unit_price_aed": 46184,
+        "amount_aed": 2355384
+      },
+      {
+        "line_number": 4,
+        "description": "MEP Works - cultivate best-of-breed e-tailers",
+        "quantity": 44,
+        "unit": "sqm",
+        "unit_price_aed": 34632,
+        "amount_aed": 1523808
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 10509537,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 525476.85,
+      "total_aed": 11035013.85,
+      "retention_percent": 5.0,
+      "retention_aed": 525476.85,
+      "net_payable_aed": 10509537.0
+    },
+    "payment_terms": "Net 30",
+    "currency": "AED",
+    "status": "paid",
+    "approval_workflow": {
+      "site_engineer": {
+        "name": "Christopher Buckley",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "project_manager": null,
+      "finance_manager": null
+    },
+    "po_number": "PO-53636",
+    "contract_reference": "CONT-CAV-8684"
+  },
+  {
+    "invoice_id": "INV-6E8A97A4",
+    "vendor": {
+      "name": "ALEC Engineering",
+      "category": "Main Contractor",
+      "trn": "100929953834",
+      "address": "569 Robinson Via\nFrankhaven, NE 08448",
+      "bank_name": "First Abu Dhabi Bank",
+      "iban": "GB55AYGA86091831829077"
+    },
+    "project": {
+      "name": "Safa Two",
+      "location": "Business Bay",
+      "cost_center": "CC-SAF-192"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-02-15",
+      "received_date": "2026-01-20"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Material Supply - implement customized technologies",
+        "quantity": 78,
+        "unit": "hours",
+        "unit_price_aed": 7030,
+        "amount_aed": 548340
+      },
+      {
+        "line_number": 2,
+        "description": "Landscaping - unleash back-end relationships",
+        "quantity": 77,
+        "unit": "lots",
+        "unit_price_aed": 34708,
+        "amount_aed": 2672516
+      },
+      {
+        "line_number": 3,
+        "description": "Contingency - whiteboard cross-platform applications",
+        "quantity": 67,
+        "unit": "lots",
+        "unit_price_aed": 49487,
+        "amount_aed": 3315629
+      },
+      {
+        "line_number": 4,
+        "description": "Smart Home Installation - iterate granular experiences",
+        "quantity": 61,
+        "unit": "units",
+        "unit_price_aed": 48791,
+        "amount_aed": 2976251
+      },
+      {
+        "line_number": 5,
+        "description": "Swimming Pool - synergize bricks-and-clicks bandwidth",
+        "quantity": 44,
+        "unit": "sets",
+        "unit_price_aed": 27356,
+        "amount_aed": 1203664
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 10716400,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 535820.0,
+      "total_aed": 11252220.0,
+      "retention_percent": 5.0,
+      "retention_aed": 535820.0,
+      "net_payable_aed": 10716400.0
+    },
+    "payment_terms": "Net 30",
+    "currency": "AED",
+    "status": "pending_approval",
+    "approval_workflow": {
+      "site_engineer": null,
+      "project_manager": null,
+      "finance_manager": {
+        "name": "David Brown",
+        "date": "2026-01-16",
+        "status": "pending"
+      }
+    },
+    "po_number": "PO-92158",
+    "contract_reference": "CONT-SAF-1784"
+  },
+  {
+    "invoice_id": "INV-75F398B2",
+    "vendor": {
+      "name": "Arabtec Construction",
+      "category": "Civil Works",
+      "trn": "100178753449",
+      "address": "334 Richard Hill Suite 904\nNew Elaine, SC 56190",
+      "bank_name": "First Abu Dhabi Bank",
+      "iban": "GB41JRWB13588758612012"
+    },
+    "project": {
+      "name": "DAMAC Lagoons",
+      "location": "Dubailand",
+      "cost_center": "CC-DAM-669"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-02-15",
+      "received_date": "2026-01-19"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Construction Progress - incubate world-class content",
+        "quantity": 78,
+        "unit": "units",
+        "unit_price_aed": 17786,
+        "amount_aed": 1387308
+      },
+      {
+        "line_number": 2,
+        "description": "Smart Home Installation - extend vertical content",
+        "quantity": 25,
+        "unit": "hours",
+        "unit_price_aed": 24840,
+        "amount_aed": 621000
+      },
+      {
+        "line_number": 3,
+        "description": "MEP Works - scale plug-and-play networks",
+        "quantity": 58,
+        "unit": "hours",
+        "unit_price_aed": 1503,
+        "amount_aed": 87174
+      },
+      {
+        "line_number": 4,
+        "description": "Fit-out Works - incubate vertical e-commerce",
+        "quantity": 55,
+        "unit": "sqm",
+        "unit_price_aed": 34319,
+        "amount_aed": 1887545
+      },
+      {
+        "line_number": 5,
+        "description": "Landscaping - morph sticky experiences",
+        "quantity": 49,
+        "unit": "sets",
+        "unit_price_aed": 31561,
+        "amount_aed": 1546489
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 5529516,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 276475.8,
+      "total_aed": 5805991.8,
+      "retention_percent": 5.0,
+      "retention_aed": 276475.8,
+      "net_payable_aed": 5529516.0
+    },
+    "payment_terms": "Net 30",
+    "currency": "AED",
+    "status": "paid",
+    "approval_workflow": {
+      "site_engineer": null,
+      "project_manager": null,
+      "finance_manager": null
+    },
+    "po_number": "PO-40529",
+    "contract_reference": "CONT-DAM-3873"
+  },
+  {
+    "invoice_id": "INV-016D3E41",
+    "vendor": {
+      "name": "Depa Interiors",
+      "category": "Interiors",
+      "trn": "100707064762",
+      "address": "234 Parsons Glens Suite 443\nJillbury, AL 02011",
+      "bank_name": "RAKBANK",
+      "iban": "GB17CJBH07662257399952"
+    },
+    "project": {
+      "name": "DAMAC Hills",
+      "location": "Dubailand",
+      "cost_center": "CC-DAM-226"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-03-02",
+      "received_date": "2026-01-19"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "MEP Works - envisioneer compelling mindshare",
+        "quantity": 53,
+        "unit": "sqm",
+        "unit_price_aed": 43412,
+        "amount_aed": 2300836
+      },
+      {
+        "line_number": 2,
+        "description": "Material Supply - exploit B2B synergies",
+        "quantity": 14,
+        "unit": "sets",
+        "unit_price_aed": 25897,
+        "amount_aed": 362558
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 2663394,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 133169.7,
+      "total_aed": 2796563.7,
+      "retention_percent": 5.0,
+      "retention_aed": 133169.7,
+      "net_payable_aed": 2663394.0
+    },
+    "payment_terms": "Net 45",
+    "currency": "AED",
+    "status": "paid",
+    "approval_workflow": {
+      "site_engineer": {
+        "name": "Charles Collins",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "project_manager": null,
+      "finance_manager": {
+        "name": "James Jacobs",
+        "date": "2026-01-16",
+        "status": "pending"
+      }
+    },
+    "po_number": "PO-18485",
+    "contract_reference": "CONT-DAM-4075"
+  },
+  {
+    "invoice_id": "INV-7D3B85FE",
+    "vendor": {
+      "name": "Al Futtaim Carillion",
+      "category": "Fit-out",
+      "trn": "100648303031",
+      "address": "PSC 3465, Box 5514\nAPO AP 72667",
+      "bank_name": "First Abu Dhabi Bank",
+      "iban": "GB49KTDP19176145805951"
+    },
+    "project": {
+      "name": "Cavalli Tower",
+      "location": "Dubai Marina",
+      "cost_center": "CC-CAV-641"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-03-02",
+      "received_date": "2026-01-20"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Swimming Pool - aggregate dynamic platforms",
+        "quantity": 68,
+        "unit": "sqm",
+        "unit_price_aed": 38959,
+        "amount_aed": 2649212
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 2649212,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 132460.6,
+      "total_aed": 2781672.6,
+      "retention_percent": 5.0,
+      "retention_aed": 132460.6,
+      "net_payable_aed": 2649212.0
+    },
+    "payment_terms": "Net 45",
+    "currency": "AED",
+    "status": "approved",
+    "approval_workflow": {
+      "site_engineer": null,
+      "project_manager": null,
+      "finance_manager": null
+    },
+    "po_number": "PO-80632",
+    "contract_reference": "CONT-CAV-3003"
+  },
+  {
+    "invoice_id": "INV-C2278A0E",
+    "vendor": {
+      "name": "Al Habtoor Engineering",
+      "category": "MEP",
+      "trn": "100888228504",
+      "address": "5943 Parker Lock\nJohnsonport, OH 56850",
+      "bank_name": "Emirates NBD",
+      "iban": "GB33FJCA43826984699930"
+    },
+    "project": {
+      "name": "Zada Tower",
+      "location": "Business Bay",
+      "cost_center": "CC-ZAD-401"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-03-17",
+      "received_date": "2026-01-17"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Material Supply - monetize value-added schemas",
+        "quantity": 94,
+        "unit": "sets",
+        "unit_price_aed": 33139,
+        "amount_aed": 3115066
+      },
+      {
+        "line_number": 2,
+        "description": "Construction Progress - target world-class e-commerce",
+        "quantity": 48,
+        "unit": "sets",
+        "unit_price_aed": 23516,
+        "amount_aed": 1128768
+      },
+      {
+        "line_number": 3,
+        "description": "Material Supply - extend dynamic schemas",
+        "quantity": 47,
+        "unit": "hours",
+        "unit_price_aed": 42883,
+        "amount_aed": 2015501
+      },
+      {
+        "line_number": 4,
+        "description": "External Works - e-enable web-enabled web services",
+        "quantity": 76,
+        "unit": "lots",
+        "unit_price_aed": 7525,
+        "amount_aed": 571900
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 6831235,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 341561.75,
+      "total_aed": 7172796.75,
+      "retention_percent": 5.0,
+      "retention_aed": 341561.75,
+      "net_payable_aed": 6831235.0
+    },
+    "payment_terms": "Net 60",
+    "currency": "AED",
+    "status": "paid",
+    "approval_workflow": {
+      "site_engineer": null,
+      "project_manager": null,
+      "finance_manager": null
+    },
+    "po_number": "PO-17036",
+    "contract_reference": "CONT-ZAD-9588"
+  },
+  {
+    "invoice_id": "INV-7B30562F",
+    "vendor": {
+      "name": "Schindler Gulf",
+      "category": "Elevators",
+      "trn": "100281679799",
+      "address": "36964 Blair Cliff\nJasonside, MO 94417",
+      "bank_name": "Commercial Bank of Dubai",
+      "iban": "GB69MTYP52554792179696"
+    },
+    "project": {
+      "name": "DAMAC Hills",
+      "location": "Dubailand",
+      "cost_center": "CC-DAM-999"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-03-02",
+      "received_date": "2026-01-18"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "External Works - architect frictionless action-items",
+        "quantity": 77,
+        "unit": "lots",
+        "unit_price_aed": 18212,
+        "amount_aed": 1402324
+      },
+      {
+        "line_number": 2,
+        "description": "External Works - visualize wireless methodologies",
+        "quantity": 94,
+        "unit": "sqm",
+        "unit_price_aed": 26399,
+        "amount_aed": 2481506
+      },
+      {
+        "line_number": 3,
+        "description": "Smart Home Installation - synergize magnetic channels",
+        "quantity": 68,
+        "unit": "lots",
+        "unit_price_aed": 20914,
+        "amount_aed": 1422152
+      },
+      {
+        "line_number": 4,
+        "description": "Fit-out Works - transform open-source convergence",
+        "quantity": 40,
+        "unit": "lots",
+        "unit_price_aed": 34226,
+        "amount_aed": 1369040
+      },
+      {
+        "line_number": 5,
+        "description": "Smart Home Installation - integrate mission-critical models",
+        "quantity": 100,
+        "unit": "lots",
+        "unit_price_aed": 26535,
+        "amount_aed": 2653500
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 9328522,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 466426.1,
+      "total_aed": 9794948.1,
+      "retention_percent": 5.0,
+      "retention_aed": 466426.1,
+      "net_payable_aed": 9328522.0
+    },
+    "payment_terms": "Net 45",
+    "currency": "AED",
+    "status": "disputed",
+    "approval_workflow": {
+      "site_engineer": {
+        "name": "Mary Cantrell",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "project_manager": null,
+      "finance_manager": null
+    },
+    "po_number": "PO-88748",
+    "contract_reference": "CONT-DAM-1688"
+  },
+  {
+    "invoice_id": "INV-756572E8",
+    "vendor": {
+      "name": "Al Futtaim Carillion",
+      "category": "Fit-out",
+      "trn": "100319745377",
+      "address": "Unit 8252 Box 4498\nDPO AE 01002",
+      "bank_name": "Emirates NBD",
+      "iban": "GB69KZOI23132677884507"
+    },
+    "project": {
+      "name": "DAMAC Islands",
+      "location": "Dubai Islands",
+      "cost_center": "CC-DAM-355"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-02-15",
+      "received_date": "2026-01-21"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Swimming Pool - enable bricks-and-clicks markets",
+        "quantity": 1,
+        "unit": "units",
+        "unit_price_aed": 21879,
+        "amount_aed": 21879
+      },
+      {
+        "line_number": 2,
+        "description": "Security Systems - utilize open-source platforms",
+        "quantity": 96,
+        "unit": "units",
+        "unit_price_aed": 20707,
+        "amount_aed": 1987872
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 2009751,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 100487.55,
+      "total_aed": 2110238.55,
+      "retention_percent": 5.0,
+      "retention_aed": 100487.55,
+      "net_payable_aed": 2009751.0
+    },
+    "payment_terms": "Net 30",
+    "currency": "AED",
+    "status": "partially_paid",
+    "approval_workflow": {
+      "site_engineer": {
+        "name": "Donna Dickson",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "project_manager": {
+        "name": "Larry Macdonald",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "finance_manager": null
+    },
+    "po_number": "PO-39857",
+    "contract_reference": "CONT-DAM-5177"
+  },
+  {
+    "invoice_id": "INV-DDBCCD79",
+    "vendor": {
+      "name": "Depa Interiors",
+      "category": "Interiors",
+      "trn": "100990040940",
+      "address": "4773 Cooley Rest\nSouth Maryhaven, ME 63881",
+      "bank_name": "Commercial Bank of Dubai",
+      "iban": "GB34CJCC81436040594477"
+    },
+    "project": {
+      "name": "DAMAC Bay 2",
+      "location": "Dubai Harbour",
+      "cost_center": "CC-DAM-295"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-03-02",
+      "received_date": "2026-01-18"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Material Supply - benchmark one-to-one convergence",
+        "quantity": 84,
+        "unit": "units",
+        "unit_price_aed": 16024,
+        "amount_aed": 1346016
+      },
+      {
+        "line_number": 2,
+        "description": "Security Systems - optimize sticky solutions",
+        "quantity": 100,
+        "unit": "hours",
+        "unit_price_aed": 11351,
+        "amount_aed": 1135100
+      },
+      {
+        "line_number": 3,
+        "description": "Construction Progress - re-intermediate open-source e-business",
+        "quantity": 92,
+        "unit": "sqm",
+        "unit_price_aed": 25503,
+        "amount_aed": 2346276
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 4827392,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 241369.6,
+      "total_aed": 5068761.6,
+      "retention_percent": 5.0,
+      "retention_aed": 241369.6,
+      "net_payable_aed": 4827392.0
+    },
+    "payment_terms": "Net 45",
+    "currency": "AED",
+    "status": "disputed",
+    "approval_workflow": {
+      "site_engineer": null,
+      "project_manager": {
+        "name": "Toni Clark",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "finance_manager": {
+        "name": "Stacey Sanchez",
+        "date": "2026-01-16",
+        "status": "pending"
+      }
+    },
+    "po_number": "PO-21672",
+    "contract_reference": "CONT-DAM-7830"
+  },
+  {
+    "invoice_id": "INV-CA1E1E9E",
+    "vendor": {
+      "name": "Depa Interiors",
+      "category": "Interiors",
+      "trn": "100991316532",
+      "address": "6636 Smith Wall Suite 395\nNorth Steven, PR 44505",
+      "bank_name": "RAKBANK",
+      "iban": "GB92AUMR87331457094219"
+    },
+    "project": {
+      "name": "Cavalli Tower",
+      "location": "Dubai Marina",
+      "cost_center": "CC-CAV-132"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-02-15",
+      "received_date": "2026-01-18"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Landscaping - expedite compelling portals",
+        "quantity": 9,
+        "unit": "hours",
+        "unit_price_aed": 30553,
+        "amount_aed": 274977
+      },
+      {
+        "line_number": 2,
+        "description": "External Works - extend synergistic e-commerce",
+        "quantity": 45,
+        "unit": "sets",
+        "unit_price_aed": 47136,
+        "amount_aed": 2121120
+      },
+      {
+        "line_number": 3,
+        "description": "MEP Works - iterate extensible functionalities",
+        "quantity": 73,
+        "unit": "units",
+        "unit_price_aed": 4944,
+        "amount_aed": 360912
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 2757009,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 137850.45,
+      "total_aed": 2894859.45,
+      "retention_percent": 5.0,
+      "retention_aed": 137850.45,
+      "net_payable_aed": 2757009.0
+    },
+    "payment_terms": "Net 30",
+    "currency": "AED",
+    "status": "partially_paid",
+    "approval_workflow": {
+      "site_engineer": {
+        "name": "Cameron Smith",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "project_manager": null,
+      "finance_manager": {
+        "name": "Michael Davis",
+        "date": "2026-01-16",
+        "status": "pending"
+      }
+    },
+    "po_number": "PO-10730",
+    "contract_reference": "CONT-CAV-2280"
+  },
+  {
+    "invoice_id": "INV-BA4E276B",
+    "vendor": {
+      "name": "Drake & Scull",
+      "category": "MEP",
+      "trn": "100455632234",
+      "address": "3103 Joshua Union Apt. 047\nCarlaville, AK 23544",
+      "bank_name": "First Abu Dhabi Bank",
+      "iban": "GB37DPPW77361995945275"
+    },
+    "project": {
+      "name": "AYKON City",
+      "location": "Sheikh Zayed Road",
+      "cost_center": "CC-AYK-846"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-03-02",
+      "received_date": "2026-01-18"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Swimming Pool - synthesize proactive communities",
+        "quantity": 21,
+        "unit": "sets",
+        "unit_price_aed": 10220,
+        "amount_aed": 214620
+      },
+      {
+        "line_number": 2,
+        "description": "MEP Works - embrace efficient technologies",
+        "quantity": 42,
+        "unit": "lots",
+        "unit_price_aed": 19342,
+        "amount_aed": 812364
+      },
+      {
+        "line_number": 3,
+        "description": "Landscaping - visualize leading-edge schemas",
+        "quantity": 45,
+        "unit": "lots",
+        "unit_price_aed": 46467,
+        "amount_aed": 2091015
+      },
+      {
+        "line_number": 4,
+        "description": "Landscaping - integrate interactive networks",
+        "quantity": 14,
+        "unit": "sqm",
+        "unit_price_aed": 3931,
+        "amount_aed": 55034
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 3173033,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 158651.65,
+      "total_aed": 3331684.65,
+      "retention_percent": 5.0,
+      "retention_aed": 158651.65,
+      "net_payable_aed": 3173033.0
+    },
+    "payment_terms": "Net 45",
+    "currency": "AED",
+    "status": "paid",
+    "approval_workflow": {
+      "site_engineer": {
+        "name": "Julia Cook",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "project_manager": {
+        "name": "Christopher Gilbert",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "finance_manager": {
+        "name": "Vicki Torres",
+        "date": "2026-01-16",
+        "status": "pending"
+      }
+    },
+    "po_number": "PO-36833",
+    "contract_reference": "CONT-AYK-5804"
+  },
+  {
+    "invoice_id": "INV-43F1DF80",
+    "vendor": {
+      "name": "Al Futtaim Carillion",
+      "category": "Fit-out",
+      "trn": "100701731490",
+      "address": "944 Timothy Square\nAlexashire, NE 54946",
+      "bank_name": "Abu Dhabi Commercial Bank",
+      "iban": "GB53SIOV13079245899583"
+    },
+    "project": {
+      "name": "DAMAC Bay 2",
+      "location": "Dubai Harbour",
+      "cost_center": "CC-DAM-407"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-03-02",
+      "received_date": "2026-01-18"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Security Systems - cultivate robust interfaces",
+        "quantity": 13,
+        "unit": "sqm",
+        "unit_price_aed": 46423,
+        "amount_aed": 603499
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 603499,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 30174.95,
+      "total_aed": 633673.95,
+      "retention_percent": 5.0,
+      "retention_aed": 30174.95,
+      "net_payable_aed": 603499.0
+    },
+    "payment_terms": "Net 45",
+    "currency": "AED",
+    "status": "on_hold",
+    "approval_workflow": {
+      "site_engineer": null,
+      "project_manager": null,
+      "finance_manager": null
+    },
+    "po_number": "PO-51214",
+    "contract_reference": "CONT-DAM-8409"
+  },
+  {
+    "invoice_id": "INV-105064A6",
+    "vendor": {
+      "name": "Al Habtoor Engineering",
+      "category": "MEP",
+      "trn": "100629915541",
+      "address": "5723 Colleen Lane\nTateview, GU 45290",
+      "bank_name": "Mashreq Bank",
+      "iban": "GB67QRSE66807218587864"
+    },
+    "project": {
+      "name": "DAMAC Bay",
+      "location": "Dubai Harbour",
+      "cost_center": "CC-DAM-338"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-02-15",
+      "received_date": "2026-01-17"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Landscaping - synergize killer applications",
+        "quantity": 15,
+        "unit": "sets",
+        "unit_price_aed": 16489,
+        "amount_aed": 247335
+      },
+      {
+        "line_number": 2,
+        "description": "MEP Works - evolve front-end e-commerce",
+        "quantity": 43,
+        "unit": "sets",
+        "unit_price_aed": 39412,
+        "amount_aed": 1694716
+      },
+      {
+        "line_number": 3,
+        "description": "Swimming Pool - grow turn-key action-items",
+        "quantity": 94,
+        "unit": "hours",
+        "unit_price_aed": 11074,
+        "amount_aed": 1040956
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 2983007,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 149150.35,
+      "total_aed": 3132157.35,
+      "retention_percent": 5.0,
+      "retention_aed": 149150.35,
+      "net_payable_aed": 2983007.0
+    },
+    "payment_terms": "Net 30",
+    "currency": "AED",
+    "status": "partially_paid",
+    "approval_workflow": {
+      "site_engineer": {
+        "name": "James Hahn",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "project_manager": null,
+      "finance_manager": null
+    },
+    "po_number": "PO-96014",
+    "contract_reference": "CONT-DAM-2801"
+  },
+  {
+    "invoice_id": "INV-DBF03275",
+    "vendor": {
+      "name": "Al Futtaim Carillion",
+      "category": "Fit-out",
+      "trn": "100845781444",
+      "address": "2346 Perez Plaza Suite 901\nNew Williammouth, OK 15303",
+      "bank_name": "First Abu Dhabi Bank",
+      "iban": "GB07YBYE23482553284816"
+    },
+    "project": {
+      "name": "DAMAC Hills 2",
+      "location": "Dubailand",
+      "cost_center": "CC-DAM-875"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-02-15",
+      "received_date": "2026-01-20"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "MEP Works - harness cutting-edge initiatives",
+        "quantity": 12,
+        "unit": "units",
+        "unit_price_aed": 28342,
+        "amount_aed": 340104
+      },
+      {
+        "line_number": 2,
+        "description": "Landscaping - iterate virtual bandwidth",
+        "quantity": 13,
+        "unit": "units",
+        "unit_price_aed": 1355,
+        "amount_aed": 17615
+      },
+      {
+        "line_number": 3,
+        "description": "External Works - maximize customized applications",
+        "quantity": 34,
+        "unit": "hours",
+        "unit_price_aed": 48894,
+        "amount_aed": 1662396
+      },
+      {
+        "line_number": 4,
+        "description": "Swimming Pool - drive e-business applications",
+        "quantity": 60,
+        "unit": "units",
+        "unit_price_aed": 36069,
+        "amount_aed": 2164140
+      },
+      {
+        "line_number": 5,
+        "description": "Contingency - revolutionize B2C e-commerce",
+        "quantity": 66,
+        "unit": "lots",
+        "unit_price_aed": 32350,
+        "amount_aed": 2135100
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 6319355,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 315967.75,
+      "total_aed": 6635322.75,
+      "retention_percent": 5.0,
+      "retention_aed": 315967.75,
+      "net_payable_aed": 6319355.0
+    },
+    "payment_terms": "Net 30",
+    "currency": "AED",
+    "status": "paid",
+    "approval_workflow": {
+      "site_engineer": null,
+      "project_manager": null,
+      "finance_manager": null
+    },
+    "po_number": "PO-45619",
+    "contract_reference": "CONT-DAM-8494"
+  },
+  {
+    "invoice_id": "INV-DF75EEF7",
+    "vendor": {
+      "name": "Depa Interiors",
+      "category": "Interiors",
+      "trn": "100879050058",
+      "address": "030 West Walks\nPort Anthonyhaven, AZ 97179",
+      "bank_name": "Emirates NBD",
+      "iban": "GB61LIPS86743307673297"
+    },
+    "project": {
+      "name": "DAMAC Bay 2",
+      "location": "Dubai Harbour",
+      "cost_center": "CC-DAM-612"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-03-02",
+      "received_date": "2026-01-17"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Landscaping - redefine best-of-breed architectures",
+        "quantity": 89,
+        "unit": "sqm",
+        "unit_price_aed": 39898,
+        "amount_aed": 3550922
+      },
+      {
+        "line_number": 2,
+        "description": "Material Supply - innovate impactful supply-chains",
+        "quantity": 31,
+        "unit": "sqm",
+        "unit_price_aed": 16858,
+        "amount_aed": 522598
+      },
+      {
+        "line_number": 3,
+        "description": "Contingency - empower global e-commerce",
+        "quantity": 80,
+        "unit": "hours",
+        "unit_price_aed": 22231,
+        "amount_aed": 1778480
+      },
+      {
+        "line_number": 4,
+        "description": "Security Systems - enable revolutionary channels",
+        "quantity": 78,
+        "unit": "units",
+        "unit_price_aed": 31172,
+        "amount_aed": 2431416
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 8283416,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 414170.8,
+      "total_aed": 8697586.8,
+      "retention_percent": 5.0,
+      "retention_aed": 414170.8,
+      "net_payable_aed": 8283416.0
+    },
+    "payment_terms": "Net 45",
+    "currency": "AED",
+    "status": "partially_paid",
+    "approval_workflow": {
+      "site_engineer": null,
+      "project_manager": null,
+      "finance_manager": null
+    },
+    "po_number": "PO-90062",
+    "contract_reference": "CONT-DAM-6630"
+  },
+  {
+    "invoice_id": "INV-ECD1FAD8",
+    "vendor": {
+      "name": "Schindler Gulf",
+      "category": "Elevators",
+      "trn": "100962019934",
+      "address": "5649 Robin Square\nSpencerland, PA 50090",
+      "bank_name": "Commercial Bank of Dubai",
+      "iban": "GB39TFYY14322709574897"
+    },
+    "project": {
+      "name": "Safa Two",
+      "location": "Business Bay",
+      "cost_center": "CC-SAF-833"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-03-17",
+      "received_date": "2026-01-18"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Landscaping - orchestrate turn-key content",
+        "quantity": 65,
+        "unit": "sqm",
+        "unit_price_aed": 7018,
+        "amount_aed": 456170
+      },
+      {
+        "line_number": 2,
+        "description": "Fit-out Works - benchmark vertical networks",
+        "quantity": 15,
+        "unit": "units",
+        "unit_price_aed": 25249,
+        "amount_aed": 378735
+      },
+      {
+        "line_number": 3,
+        "description": "Construction Progress - evolve visionary channels",
+        "quantity": 36,
+        "unit": "units",
+        "unit_price_aed": 8454,
+        "amount_aed": 304344
+      },
+      {
+        "line_number": 4,
+        "description": "MEP Works - enable distributed initiatives",
+        "quantity": 11,
+        "unit": "hours",
+        "unit_price_aed": 10768,
+        "amount_aed": 118448
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 1257697,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 62884.85,
+      "total_aed": 1320581.85,
+      "retention_percent": 5.0,
+      "retention_aed": 62884.85,
+      "net_payable_aed": 1257697.0
+    },
+    "payment_terms": "Net 60",
+    "currency": "AED",
+    "status": "paid",
+    "approval_workflow": {
+      "site_engineer": null,
+      "project_manager": null,
+      "finance_manager": {
+        "name": "Barry Parks",
+        "date": "2026-01-16",
+        "status": "pending"
+      }
+    },
+    "po_number": "PO-49927",
+    "contract_reference": "CONT-SAF-2284"
+  },
+  {
+    "invoice_id": "INV-0D648CAC",
+    "vendor": {
+      "name": "Al Futtaim Carillion",
+      "category": "Fit-out",
+      "trn": "100945876064",
+      "address": "1595 Benton Hollow Suite 952\nPort Karen, WA 07440",
+      "bank_name": "Dubai Islamic Bank",
+      "iban": "GB68JIPE33257947097057"
+    },
+    "project": {
+      "name": "DAMAC Lagoons",
+      "location": "Dubailand",
+      "cost_center": "CC-DAM-886"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-03-17",
+      "received_date": "2026-01-19"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Swimming Pool - brand world-class networks",
+        "quantity": 25,
+        "unit": "hours",
+        "unit_price_aed": 40318,
+        "amount_aed": 1007950
+      },
+      {
+        "line_number": 2,
+        "description": "External Works - visualize wireless functionalities",
+        "quantity": 21,
+        "unit": "sets",
+        "unit_price_aed": 29049,
+        "amount_aed": 610029
+      },
+      {
+        "line_number": 3,
+        "description": "Smart Home Installation - architect rich markets",
+        "quantity": 36,
+        "unit": "sets",
+        "unit_price_aed": 26601,
+        "amount_aed": 957636
+      },
+      {
+        "line_number": 4,
+        "description": "External Works - reinvent value-added e-business",
+        "quantity": 16,
+        "unit": "units",
+        "unit_price_aed": 25889,
+        "amount_aed": 414224
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 2989839,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 149491.95,
+      "total_aed": 3139330.95,
+      "retention_percent": 5.0,
+      "retention_aed": 149491.95,
+      "net_payable_aed": 2989839.0
+    },
+    "payment_terms": "Net 60",
+    "currency": "AED",
+    "status": "partially_paid",
+    "approval_workflow": {
+      "site_engineer": {
+        "name": "Lori Richards",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "project_manager": {
+        "name": "Kathy Rodgers",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "finance_manager": null
+    },
+    "po_number": "PO-19549",
+    "contract_reference": "CONT-DAM-1741"
+  },
+  {
+    "invoice_id": "INV-802BC8FF",
+    "vendor": {
+      "name": "Al Habtoor Engineering",
+      "category": "MEP",
+      "trn": "100290945274",
+      "address": "613 Steven Keys Apt. 104\nSouth Brianland, SD 19925",
+      "bank_name": "RAKBANK",
+      "iban": "GB35VZZJ48501201822400"
+    },
+    "project": {
+      "name": "Safa One",
+      "location": "Business Bay",
+      "cost_center": "CC-SAF-161"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-03-17",
+      "received_date": "2026-01-17"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Contingency - orchestrate user-centric deliverables",
+        "quantity": 8,
+        "unit": "hours",
+        "unit_price_aed": 27288,
+        "amount_aed": 218304
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 218304,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 10915.2,
+      "total_aed": 229219.2,
+      "retention_percent": 5.0,
+      "retention_aed": 10915.2,
+      "net_payable_aed": 218304.0
+    },
+    "payment_terms": "Net 60",
+    "currency": "AED",
+    "status": "disputed",
+    "approval_workflow": {
+      "site_engineer": {
+        "name": "Rachel Berry",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "project_manager": null,
+      "finance_manager": {
+        "name": "James Briggs",
+        "date": "2026-01-16",
+        "status": "pending"
+      }
+    },
+    "po_number": "PO-69020",
+    "contract_reference": "CONT-SAF-4113"
+  },
+  {
+    "invoice_id": "INV-DCEC156F",
+    "vendor": {
+      "name": "Depa Interiors",
+      "category": "Interiors",
+      "trn": "100807280248",
+      "address": "20526 Miller Curve Apt. 649\nLeeberg, VA 74668",
+      "bank_name": "Mashreq Bank",
+      "iban": "GB69KMNB88089085473105"
+    },
+    "project": {
+      "name": "DAMAC Hills 2",
+      "location": "Dubailand",
+      "cost_center": "CC-DAM-319"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-03-17",
+      "received_date": "2026-01-21"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Swimming Pool - disintermediate B2C communities",
+        "quantity": 83,
+        "unit": "lots",
+        "unit_price_aed": 45154,
+        "amount_aed": 3747782
+      },
+      {
+        "line_number": 2,
+        "description": "Material Supply - incubate compelling convergence",
+        "quantity": 65,
+        "unit": "lots",
+        "unit_price_aed": 48155,
+        "amount_aed": 3130075
+      },
+      {
+        "line_number": 3,
+        "description": "Fit-out Works - empower distributed communities",
+        "quantity": 66,
+        "unit": "sqm",
+        "unit_price_aed": 43116,
+        "amount_aed": 2845656
+      },
+      {
+        "line_number": 4,
+        "description": "Landscaping - expedite turn-key portals",
+        "quantity": 27,
+        "unit": "sqm",
+        "unit_price_aed": 11744,
+        "amount_aed": 317088
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 10040601,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 502030.05,
+      "total_aed": 10542631.05,
+      "retention_percent": 5.0,
+      "retention_aed": 502030.05,
+      "net_payable_aed": 10040601.0
+    },
+    "payment_terms": "Net 60",
+    "currency": "AED",
+    "status": "on_hold",
+    "approval_workflow": {
+      "site_engineer": null,
+      "project_manager": {
+        "name": "Jade Holmes",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "finance_manager": {
+        "name": "Robert Jordan",
+        "date": "2026-01-16",
+        "status": "pending"
+      }
+    },
+    "po_number": "PO-14008",
+    "contract_reference": "CONT-DAM-3049"
+  },
+  {
+    "invoice_id": "INV-BE77EF3B",
+    "vendor": {
+      "name": "Carrier Middle East",
+      "category": "HVAC",
+      "trn": "100876498606",
+      "address": "277 Susan Orchard\nAlyssafurt, LA 57547",
+      "bank_name": "RAKBANK",
+      "iban": "GB96ZYXZ88941443289474"
+    },
+    "project": {
+      "name": "DAMAC Hills 2",
+      "location": "Dubailand",
+      "cost_center": "CC-DAM-574"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-03-02",
+      "received_date": "2026-01-18"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "External Works - implement turn-key info-mediaries",
+        "quantity": 56,
+        "unit": "sets",
+        "unit_price_aed": 41376,
+        "amount_aed": 2317056
+      },
+      {
+        "line_number": 2,
+        "description": "Smart Home Installation - strategize dot-com vortals",
+        "quantity": 30,
+        "unit": "lots",
+        "unit_price_aed": 40320,
+        "amount_aed": 1209600
+      },
+      {
+        "line_number": 3,
+        "description": "Construction Progress - reinvent cross-platform mindshare",
+        "quantity": 94,
+        "unit": "lots",
+        "unit_price_aed": 12545,
+        "amount_aed": 1179230
+      },
+      {
+        "line_number": 4,
+        "description": "Smart Home Installation - synergize efficient bandwidth",
+        "quantity": 73,
+        "unit": "units",
+        "unit_price_aed": 18942,
+        "amount_aed": 1382766
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 6088652,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 304432.6,
+      "total_aed": 6393084.6,
+      "retention_percent": 5.0,
+      "retention_aed": 304432.6,
+      "net_payable_aed": 6088652.0
+    },
+    "payment_terms": "Net 45",
+    "currency": "AED",
+    "status": "partially_paid",
+    "approval_workflow": {
+      "site_engineer": null,
+      "project_manager": {
+        "name": "Jacqueline Long",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "finance_manager": null
+    },
+    "po_number": "PO-82031",
+    "contract_reference": "CONT-DAM-3463"
+  },
+  {
+    "invoice_id": "INV-DD55777F",
+    "vendor": {
+      "name": "Arabtec Construction",
+      "category": "Civil Works",
+      "trn": "100472351656",
+      "address": "602 Brian Key\nPatelbury, CT 90145",
+      "bank_name": "RAKBANK",
+      "iban": "GB32ZYOR32979771169024"
+    },
+    "project": {
+      "name": "DAMAC Hills",
+      "location": "Dubailand",
+      "cost_center": "CC-DAM-323"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-02-15",
+      "received_date": "2026-01-18"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Construction Progress - synthesize ubiquitous architectures",
+        "quantity": 4,
+        "unit": "sets",
+        "unit_price_aed": 36759,
+        "amount_aed": 147036
+      },
+      {
+        "line_number": 2,
+        "description": "Security Systems - unleash value-added bandwidth",
+        "quantity": 25,
+        "unit": "sets",
+        "unit_price_aed": 6676,
+        "amount_aed": 166900
+      },
+      {
+        "line_number": 3,
+        "description": "Smart Home Installation - evolve integrated partnerships",
+        "quantity": 41,
+        "unit": "hours",
+        "unit_price_aed": 37490,
+        "amount_aed": 1537090
+      },
+      {
+        "line_number": 4,
+        "description": "Smart Home Installation - matrix enterprise portals",
+        "quantity": 34,
+        "unit": "units",
+        "unit_price_aed": 2487,
+        "amount_aed": 84558
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 1935584,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 96779.2,
+      "total_aed": 2032363.2,
+      "retention_percent": 5.0,
+      "retention_aed": 96779.2,
+      "net_payable_aed": 1935584.0
+    },
+    "payment_terms": "Net 30",
+    "currency": "AED",
+    "status": "disputed",
+    "approval_workflow": {
+      "site_engineer": {
+        "name": "Ryan Pham",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "project_manager": {
+        "name": "Lisa Sandoval",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "finance_manager": {
+        "name": "Lynn Morgan",
+        "date": "2026-01-16",
+        "status": "pending"
+      }
+    },
+    "po_number": "PO-99184",
+    "contract_reference": "CONT-DAM-5040"
+  },
+  {
+    "invoice_id": "INV-2796F2BF",
+    "vendor": {
+      "name": "Al Futtaim Carillion",
+      "category": "Fit-out",
+      "trn": "100772676611",
+      "address": "5650 Booth Viaduct\nWest Mallory, MS 79496",
+      "bank_name": "Dubai Islamic Bank",
+      "iban": "GB66MOKX92896292950012"
+    },
+    "project": {
+      "name": "DAMAC Hills",
+      "location": "Dubailand",
+      "cost_center": "CC-DAM-710"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-03-17",
+      "received_date": "2026-01-21"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Contingency - aggregate distributed solutions",
+        "quantity": 49,
+        "unit": "hours",
+        "unit_price_aed": 22192,
+        "amount_aed": 1087408
+      },
+      {
+        "line_number": 2,
+        "description": "Contingency - re-contextualize user-centric paradigms",
+        "quantity": 81,
+        "unit": "hours",
+        "unit_price_aed": 38225,
+        "amount_aed": 3096225
+      },
+      {
+        "line_number": 3,
+        "description": "Smart Home Installation - morph killer communities",
+        "quantity": 53,
+        "unit": "sets",
+        "unit_price_aed": 38117,
+        "amount_aed": 2020201
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 6203834,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 310191.7,
+      "total_aed": 6514025.7,
+      "retention_percent": 5.0,
+      "retention_aed": 310191.7,
+      "net_payable_aed": 6203834.0
+    },
+    "payment_terms": "Net 60",
+    "currency": "AED",
+    "status": "paid",
+    "approval_workflow": {
+      "site_engineer": {
+        "name": "Kenneth Davis",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "project_manager": {
+        "name": "Richard Gray",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "finance_manager": {
+        "name": "Patricia Mccarthy",
+        "date": "2026-01-16",
+        "status": "pending"
+      }
+    },
+    "po_number": "PO-52805",
+    "contract_reference": "CONT-DAM-8776"
+  },
+  {
+    "invoice_id": "INV-327D773B",
+    "vendor": {
+      "name": "Drake & Scull",
+      "category": "MEP",
+      "trn": "100706378837",
+      "address": "40959 Ali Estate Apt. 531\nSouth Catherine, IN 09732",
+      "bank_name": "Emirates NBD",
+      "iban": "GB46PEJU36126574231453"
+    },
+    "project": {
+      "name": "Safa One",
+      "location": "Business Bay",
+      "cost_center": "CC-SAF-852"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-02-15",
+      "received_date": "2026-01-18"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Smart Home Installation - deliver customized ROI",
+        "quantity": 97,
+        "unit": "units",
+        "unit_price_aed": 9589,
+        "amount_aed": 930133
+      },
+      {
+        "line_number": 2,
+        "description": "Security Systems - exploit B2C supply-chains",
+        "quantity": 28,
+        "unit": "lots",
+        "unit_price_aed": 21073,
+        "amount_aed": 590044
+      },
+      {
+        "line_number": 3,
+        "description": "Smart Home Installation - monetize compelling info-mediaries",
+        "quantity": 53,
+        "unit": "lots",
+        "unit_price_aed": 12623,
+        "amount_aed": 669019
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 2189196,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 109459.8,
+      "total_aed": 2298655.8,
+      "retention_percent": 5.0,
+      "retention_aed": 109459.8,
+      "net_payable_aed": 2189196.0
+    },
+    "payment_terms": "Net 30",
+    "currency": "AED",
+    "status": "pending_approval",
+    "approval_workflow": {
+      "site_engineer": {
+        "name": "Denise Hudson",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "project_manager": null,
+      "finance_manager": null
+    },
+    "po_number": "PO-31747",
+    "contract_reference": "CONT-SAF-1183"
+  },
+  {
+    "invoice_id": "INV-B3A07D57",
+    "vendor": {
+      "name": "Gulf Marble Factory",
+      "category": "Materials",
+      "trn": "100995552209",
+      "address": "166 Harris View\nAlyssaton, OK 70637",
+      "bank_name": "Abu Dhabi Commercial Bank",
+      "iban": "GB14PWOL22498221703768"
+    },
+    "project": {
+      "name": "Cavalli Tower",
+      "location": "Dubai Marina",
+      "cost_center": "CC-CAV-370"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-03-02",
+      "received_date": "2026-01-21"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Fit-out Works - productize best-of-breed systems",
+        "quantity": 38,
+        "unit": "lots",
+        "unit_price_aed": 4007,
+        "amount_aed": 152266
+      },
+      {
+        "line_number": 2,
+        "description": "Landscaping - re-contextualize distributed e-business",
+        "quantity": 26,
+        "unit": "sqm",
+        "unit_price_aed": 18622,
+        "amount_aed": 484172
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 636438,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 31821.9,
+      "total_aed": 668259.9,
+      "retention_percent": 5.0,
+      "retention_aed": 31821.9,
+      "net_payable_aed": 636438.0
+    },
+    "payment_terms": "Net 45",
+    "currency": "AED",
+    "status": "approved",
+    "approval_workflow": {
+      "site_engineer": {
+        "name": "Ann Torres",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "project_manager": null,
+      "finance_manager": {
+        "name": "Michael Myers",
+        "date": "2026-01-16",
+        "status": "pending"
+      }
+    },
+    "po_number": "PO-48799",
+    "contract_reference": "CONT-CAV-5220"
+  },
+  {
+    "invoice_id": "INV-AEBC4B91",
+    "vendor": {
+      "name": "ALEC Engineering",
+      "category": "Main Contractor",
+      "trn": "100306176562",
+      "address": "453 Wilson Fields\nSheltonberg, GU 87938",
+      "bank_name": "Mashreq Bank",
+      "iban": "GB61ZTFJ34755375085123"
+    },
+    "project": {
+      "name": "Safa Two",
+      "location": "Business Bay",
+      "cost_center": "CC-SAF-967"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-02-15",
+      "received_date": "2026-01-17"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "External Works - empower collaborative models",
+        "quantity": 34,
+        "unit": "sets",
+        "unit_price_aed": 22233,
+        "amount_aed": 755922
+      },
+      {
+        "line_number": 2,
+        "description": "Landscaping - maximize best-of-breed platforms",
+        "quantity": 55,
+        "unit": "lots",
+        "unit_price_aed": 15102,
+        "amount_aed": 830610
+      },
+      {
+        "line_number": 3,
+        "description": "Security Systems - implement open-source solutions",
+        "quantity": 9,
+        "unit": "units",
+        "unit_price_aed": 16642,
+        "amount_aed": 149778
+      },
+      {
+        "line_number": 4,
+        "description": "Fit-out Works - facilitate revolutionary partnerships",
+        "quantity": 44,
+        "unit": "sets",
+        "unit_price_aed": 45345,
+        "amount_aed": 1995180
+      },
+      {
+        "line_number": 5,
+        "description": "Smart Home Installation - extend cross-platform deliverables",
+        "quantity": 73,
+        "unit": "hours",
+        "unit_price_aed": 7384,
+        "amount_aed": 539032
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 4270522,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 213526.1,
+      "total_aed": 4484048.1,
+      "retention_percent": 5.0,
+      "retention_aed": 213526.1,
+      "net_payable_aed": 4270522.0
+    },
+    "payment_terms": "Net 30",
+    "currency": "AED",
+    "status": "approved",
+    "approval_workflow": {
+      "site_engineer": null,
+      "project_manager": null,
+      "finance_manager": {
+        "name": "Steven Martinez",
+        "date": "2026-01-16",
+        "status": "pending"
+      }
+    },
+    "po_number": "PO-25706",
+    "contract_reference": "CONT-SAF-6820"
+  },
+  {
+    "invoice_id": "INV-620C45CD",
+    "vendor": {
+      "name": "Al Habtoor Engineering",
+      "category": "MEP",
+      "trn": "100314711860",
+      "address": "98518 Fitzgerald Parkways\nWest Wendystad, OR 86518",
+      "bank_name": "RAKBANK",
+      "iban": "GB79SNVR98149250889743"
+    },
+    "project": {
+      "name": "Cavalli Tower",
+      "location": "Dubai Marina",
+      "cost_center": "CC-CAV-583"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-02-15",
+      "received_date": "2026-01-17"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Swimming Pool - brand visionary content",
+        "quantity": 84,
+        "unit": "sets",
+        "unit_price_aed": 42646,
+        "amount_aed": 3582264
+      },
+      {
+        "line_number": 2,
+        "description": "Smart Home Installation - reinvent extensible ROI",
+        "quantity": 61,
+        "unit": "sets",
+        "unit_price_aed": 45091,
+        "amount_aed": 2750551
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 6332815,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 316640.75,
+      "total_aed": 6649455.75,
+      "retention_percent": 5.0,
+      "retention_aed": 316640.75,
+      "net_payable_aed": 6332815.0
+    },
+    "payment_terms": "Net 30",
+    "currency": "AED",
+    "status": "on_hold",
+    "approval_workflow": {
+      "site_engineer": null,
+      "project_manager": {
+        "name": "Stephanie Hicks",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "finance_manager": null
+    },
+    "po_number": "PO-28643",
+    "contract_reference": "CONT-CAV-4348"
+  },
+  {
+    "invoice_id": "INV-E9F0E588",
+    "vendor": {
+      "name": "Al Futtaim Carillion",
+      "category": "Fit-out",
+      "trn": "100374667122",
+      "address": "6959 Mclean Locks\nYoungfort, ME 28686",
+      "bank_name": "RAKBANK",
+      "iban": "GB66SWSV40134496841880"
+    },
+    "project": {
+      "name": "DAMAC Lagoons",
+      "location": "Dubailand",
+      "cost_center": "CC-DAM-466"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-03-02",
+      "received_date": "2026-01-20"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Contingency - deliver strategic paradigms",
+        "quantity": 1,
+        "unit": "sets",
+        "unit_price_aed": 37169,
+        "amount_aed": 37169
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 37169,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 1858.45,
+      "total_aed": 39027.45,
+      "retention_percent": 5.0,
+      "retention_aed": 1858.45,
+      "net_payable_aed": 37169.0
+    },
+    "payment_terms": "Net 45",
+    "currency": "AED",
+    "status": "paid",
+    "approval_workflow": {
+      "site_engineer": null,
+      "project_manager": {
+        "name": "Troy Smith",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "finance_manager": {
+        "name": "Janice Glover",
+        "date": "2026-01-16",
+        "status": "pending"
+      }
+    },
+    "po_number": "PO-80111",
+    "contract_reference": "CONT-DAM-8743"
+  },
+  {
+    "invoice_id": "INV-2725A754",
+    "vendor": {
+      "name": "Emirates Glass",
+      "category": "Materials",
+      "trn": "100339199598",
+      "address": "PSC 5098, Box 6518\nAPO AE 21439",
+      "bank_name": "Emirates NBD",
+      "iban": "GB37EWFE89190366645728"
+    },
+    "project": {
+      "name": "DAMAC Lagoons",
+      "location": "Dubailand",
+      "cost_center": "CC-DAM-643"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-03-17",
+      "received_date": "2026-01-21"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "External Works - streamline mission-critical info-mediaries",
+        "quantity": 90,
+        "unit": "sets",
+        "unit_price_aed": 3647,
+        "amount_aed": 328230
+      },
+      {
+        "line_number": 2,
+        "description": "Fit-out Works - repurpose killer relationships",
+        "quantity": 84,
+        "unit": "sqm",
+        "unit_price_aed": 22627,
+        "amount_aed": 1900668
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 2228898,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 111444.9,
+      "total_aed": 2340342.9,
+      "retention_percent": 5.0,
+      "retention_aed": 111444.9,
+      "net_payable_aed": 2228898.0
+    },
+    "payment_terms": "Net 60",
+    "currency": "AED",
+    "status": "approved",
+    "approval_workflow": {
+      "site_engineer": {
+        "name": "Christopher Wilson",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "project_manager": null,
+      "finance_manager": {
+        "name": "Mark Robinson",
+        "date": "2026-01-16",
+        "status": "pending"
+      }
+    },
+    "po_number": "PO-69072",
+    "contract_reference": "CONT-DAM-8391"
+  },
+  {
+    "invoice_id": "INV-52539E79",
+    "vendor": {
+      "name": "Schindler Gulf",
+      "category": "Elevators",
+      "trn": "100397869759",
+      "address": "59376 Flores Junctions Suite 031\nSouth Regina, NM 79674",
+      "bank_name": "Emirates NBD",
+      "iban": "GB34GSGV03160764138113"
+    },
+    "project": {
+      "name": "DAMAC Lagoons",
+      "location": "Dubailand",
+      "cost_center": "CC-DAM-856"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-03-17",
+      "received_date": "2026-01-18"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Contingency - grow open-source deliverables",
+        "quantity": 88,
+        "unit": "lots",
+        "unit_price_aed": 45672,
+        "amount_aed": 4019136
+      },
+      {
+        "line_number": 2,
+        "description": "Smart Home Installation - re-contextualize plug-and-play convergence",
+        "quantity": 80,
+        "unit": "units",
+        "unit_price_aed": 22699,
+        "amount_aed": 1815920
+      },
+      {
+        "line_number": 3,
+        "description": "Landscaping - reinvent web-enabled e-business",
+        "quantity": 17,
+        "unit": "units",
+        "unit_price_aed": 4277,
+        "amount_aed": 72709
+      },
+      {
+        "line_number": 4,
+        "description": "External Works - orchestrate frictionless communities",
+        "quantity": 25,
+        "unit": "units",
+        "unit_price_aed": 15543,
+        "amount_aed": 388575
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 6296340,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 314817.0,
+      "total_aed": 6611157.0,
+      "retention_percent": 5.0,
+      "retention_aed": 314817.0,
+      "net_payable_aed": 6296340.0
+    },
+    "payment_terms": "Net 60",
+    "currency": "AED",
+    "status": "on_hold",
+    "approval_workflow": {
+      "site_engineer": {
+        "name": "Julia Wilson",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "project_manager": null,
+      "finance_manager": null
+    },
+    "po_number": "PO-33136",
+    "contract_reference": "CONT-DAM-4372"
+  },
+  {
+    "invoice_id": "INV-ACDC6B2A",
+    "vendor": {
+      "name": "Schindler Gulf",
+      "category": "Elevators",
+      "trn": "100813371540",
+      "address": "1953 Randy Ports Apt. 863\nMasseyshire, NH 96650",
+      "bank_name": "Emirates NBD",
+      "iban": "GB66BRJR40475284018428"
+    },
+    "project": {
+      "name": "Zada Tower",
+      "location": "Business Bay",
+      "cost_center": "CC-ZAD-414"
+    },
+    "dates": {
+      "invoice_date": "2026-01-16",
+      "due_date": "2026-03-02",
+      "received_date": "2026-01-17"
+    },
+    "line_items": [
+      {
+        "line_number": 1,
+        "description": "Smart Home Installation - transform 24/7 ROI",
+        "quantity": 1,
+        "unit": "hours",
+        "unit_price_aed": 31710,
+        "amount_aed": 31710
+      },
+      {
+        "line_number": 2,
+        "description": "Smart Home Installation - iterate bricks-and-clicks deliverables",
+        "quantity": 59,
+        "unit": "lots",
+        "unit_price_aed": 34107,
+        "amount_aed": 2012313
+      },
+      {
+        "line_number": 3,
+        "description": "MEP Works - engineer 24/7 web services",
+        "quantity": 74,
+        "unit": "sqm",
+        "unit_price_aed": 6551,
+        "amount_aed": 484774
+      },
+      {
+        "line_number": 4,
+        "description": "Fit-out Works - empower real-time metrics",
+        "quantity": 65,
+        "unit": "hours",
+        "unit_price_aed": 35793,
+        "amount_aed": 2326545
+      }
+    ],
+    "financials": {
+      "subtotal_aed": 4855342,
+      "vat_percent": 5.0,
+      "vat_amount_aed": 242767.1,
+      "total_aed": 5098109.1,
+      "retention_percent": 5.0,
+      "retention_aed": 242767.1,
+      "net_payable_aed": 4855342.0
+    },
+    "payment_terms": "Net 45",
+    "currency": "AED",
+    "status": "paid",
+    "approval_workflow": {
+      "site_engineer": {
+        "name": "Claudia Cox",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "project_manager": {
+        "name": "Jordan Woods",
+        "date": "2026-01-16",
+        "status": "approved"
+      },
+      "finance_manager": null
+    },
+    "po_number": "PO-70887",
+    "contract_reference": "CONT-ZAD-2569"
+  }
+]

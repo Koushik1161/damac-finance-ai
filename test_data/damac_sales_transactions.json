@@ -1,0 +1,2352 @@
+[
+  {
+    "transaction_id": "TXN-4A4177C9BE",
+    "customer": {
+      "customer_id": "CUST-D43DE949",
+      "name": "Rachel Larson",
+      "email": "ramirezvictoria@example.org",
+      "phone": "+971 58 988 8663",
+      "nationality": "UAE",
+      "emirates_id": "784-1964-5949038-2",
+      "passport_number": null,
+      "address": "6663 William Lock Suite 354\nLarsenfurt, SC 58710",
+      "kyc_status": "pending",
+      "customer_type": "individual",
+      "bank_name": "Mashreq Bank",
+      "account_number": "GB14VGNF41135892757482"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-E79",
+      "project_name": "DAMAC Islands",
+      "project_type": "villa",
+      "location": "Dubai Islands",
+      "unit_type": "Mansion",
+      "unit_number": "E79",
+      "area_sqft": 10853,
+      "price_aed": 9062000,
+      "price_per_sqft": 835
+    },
+    "payment_plan": "50/50",
+    "dates": {
+      "booking_date": "2024-06-20",
+      "spa_date": "2024-07-14",
+      "expected_handover": "2025-09-06"
+    },
+    "financials": {
+      "property_price_aed": 9062000,
+      "dld_fee_aed": 362480.0,
+      "admin_fee_aed": 4200,
+      "oqood_fee_aed": 434120,
+      "total_due_aed": 9862800.0,
+      "construction_payments_aed": 4531000.0,
+      "handover_payment_aed": 4531000.0
+    },
+    "status": "spa_signed",
+    "sales_agent": "Lisa Cole",
+    "broker": null,
+    "broker_commission_aed": 0
+  },
+  {
+    "transaction_id": "TXN-3B6FE15BF6",
+    "customer": {
+      "customer_id": "CUST-18D292DB",
+      "name": "Jonathan Cruz",
+      "email": "samuel89@example.net",
+      "phone": "+971 51 453 7060",
+      "nationality": "Pakistan",
+      "emirates_id": null,
+      "passport_number": "M09103091",
+      "address": "303 Timothy Park\nWest Christine, MT 97311",
+      "kyc_status": "verified",
+      "customer_type": "individual",
+      "bank_name": "Commercial Bank of Dubai",
+      "account_number": "GB33OJGV09440066171042"
+    },
+    "property": {
+      "unit_id": "DAMAC-CAV-1704",
+      "project_name": "Cavalli Tower",
+      "project_type": "apartment",
+      "location": "Dubai Marina",
+      "unit_type": "3BR",
+      "unit_number": "1704",
+      "area_sqft": 1713,
+      "price_aed": 4277000,
+      "price_per_sqft": 2497
+    },
+    "payment_plan": "75/25",
+    "dates": {
+      "booking_date": "2025-07-28",
+      "spa_date": "2025-08-23",
+      "expected_handover": "2027-04-04"
+    },
+    "financials": {
+      "property_price_aed": 4277000,
+      "dld_fee_aed": 171080.0,
+      "admin_fee_aed": 4200,
+      "oqood_fee_aed": 68520,
+      "total_due_aed": 4520800.0,
+      "construction_payments_aed": 3207750.0,
+      "handover_payment_aed": 1069250.0
+    },
+    "status": "booked",
+    "sales_agent": "Matthew Williams",
+    "broker": null,
+    "broker_commission_aed": 213850.0
+  },
+  {
+    "transaction_id": "TXN-E13E0D2B02",
+    "customer": {
+      "customer_id": "CUST-158B1659",
+      "name": "Tammy Smith MD",
+      "email": "jamesheidi@example.org",
+      "phone": "+971 52 194 5205",
+      "nationality": "India",
+      "emirates_id": null,
+      "passport_number": "S08309184",
+      "address": "068 Sarah Hollow Suite 537\nPort Daniel, AS 33117",
+      "kyc_status": "under_review",
+      "customer_type": "corporate",
+      "bank_name": "First Abu Dhabi Bank",
+      "account_number": "GB29BUYC26424205325705"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-A366",
+      "project_name": "DAMAC Hills",
+      "project_type": "villa",
+      "location": "Dubailand",
+      "unit_type": "Mansion",
+      "unit_number": "A366",
+      "area_sqft": 9712,
+      "price_aed": 12791000,
+      "price_per_sqft": 1317
+    },
+    "payment_plan": "50/50",
+    "dates": {
+      "booking_date": "2024-11-19",
+      "spa_date": "2024-12-07",
+      "expected_handover": "2027-05-11"
+    },
+    "financials": {
+      "property_price_aed": 12791000,
+      "dld_fee_aed": 511640.0,
+      "admin_fee_aed": 4200,
+      "oqood_fee_aed": 388480,
+      "total_due_aed": 13695320.0,
+      "construction_payments_aed": 6395500.0,
+      "handover_payment_aed": 6395500.0
+    },
+    "status": "ready_for_handover",
+    "sales_agent": "David Kane",
+    "broker": null,
+    "broker_commission_aed": 639550.0
+  },
+  {
+    "transaction_id": "TXN-E414403E0A",
+    "customer": {
+      "customer_id": "CUST-911DBB93",
+      "name": "Michelle Hunter",
+      "email": "corey17@example.org",
+      "phone": "+971 51 814 7241",
+      "nationality": "Saudi Arabia",
+      "emirates_id": null,
+      "passport_number": "643626023",
+      "address": "307 Gray Orchard Suite 382\nLake Julian, MA 76893",
+      "kyc_status": "verified",
+      "customer_type": "individual",
+      "bank_name": "Commercial Bank of Dubai",
+      "account_number": "GB96VYBP21941199028155"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-403",
+      "project_name": "DAMAC Bay",
+      "project_type": "apartment",
+      "location": "Dubai Harbour",
+      "unit_type": "Penthouse",
+      "unit_number": "403",
+      "area_sqft": 6424,
+      "price_aed": 18013000,
+      "price_per_sqft": 2804
+    },
+    "payment_plan": "80/20",
+    "dates": {
+      "booking_date": "2025-06-11",
+      "spa_date": "2025-06-19",
+      "expected_handover": "2026-07-31"
+    },
+    "financials": {
+      "property_price_aed": 18013000,
+      "dld_fee_aed": 720520.0,
+      "admin_fee_aed": 4200,
+      "oqood_fee_aed": 256960,
+      "total_due_aed": 18994680.0,
+      "construction_payments_aed": 14410400.0,
+      "handover_payment_aed": 3602600.0
+    },
+    "status": "under_construction",
+    "sales_agent": "Victoria Summers",
+    "broker": null,
+    "broker_commission_aed": 900650.0
+  },
+  {
+    "transaction_id": "TXN-1E3D4B9AEE",
+    "customer": {
+      "customer_id": "CUST-0FE61B3C",
+      "name": "Daniel Tran",
+      "email": "larryhamilton@example.com",
+      "phone": "+971 56 666 3909",
+      "nationality": "UAE",
+      "emirates_id": "784-1993-3435133-1",
+      "passport_number": null,
+      "address": "551 Malone Mountains\nNicholasborough, OR 25961",
+      "kyc_status": "verified",
+      "customer_type": "individual",
+      "bank_name": "Dubai Islamic Bank",
+      "account_number": "GB07RSGU87034747012583"
+    },
+    "property": {
+      "unit_id": "DAMAC-SAF-2406",
+      "project_name": "Safa One",
+      "project_type": "apartment",
+      "location": "Business Bay",
+      "unit_type": "1BR",
+      "unit_number": "2406",
+      "area_sqft": 898,
+      "price_aed": 3125000,
+      "price_per_sqft": 3480
+    },
+    "payment_plan": "60/40",
+    "dates": {
+      "booking_date": "2024-07-11",
+      "spa_date": "2024-07-19",
+      "expected_handover": "2027-04-28"
+    },
+    "financials": {
+      "property_price_aed": 3125000,
+      "dld_fee_aed": 125000.0,
+      "admin_fee_aed": 4200,
+      "oqood_fee_aed": 35920,
+      "total_due_aed": 3290120.0,
+      "construction_payments_aed": 1875000.0,
+      "handover_payment_aed": 1250000.0
+    },
+    "status": "under_construction",
+    "sales_agent": "John Saunders",
+    "broker": "Stewart, Pearson and Hernandez",
+    "broker_commission_aed": 156250.0
+  },
+  {
+    "transaction_id": "TXN-E6BACD9085",
+    "customer": {
+      "customer_id": "CUST-332558AC",
+      "name": "Robert Lindsey",
+      "email": "wongwilliam@example.net",
+      "phone": "+971 55 399 3082",
+      "nationality": "UK",
+      "emirates_id": null,
+      "passport_number": "341194305",
+      "address": "277 Webster Well Apt. 184\nEast Barbara, GU 14472",
+      "kyc_status": "pending",
+      "customer_type": "individual",
+      "bank_name": "Abu Dhabi Commercial Bank",
+      "account_number": "GB20AKZD97845774446942"
+    },
+    "property": {
+      "unit_id": "DAMAC-SAF-3301",
+      "project_name": "Safa One",
+      "project_type": "apartment",
+      "location": "Business Bay",
+      "unit_type": "2BR",
+      "unit_number": "3301",
+      "area_sqft": 1179,
+      "price_aed": 2654000,
+      "price_per_sqft": 2251
+    },
+    "payment_plan": "80/20",
+    "dates": {
+      "booking_date": "2024-03-22",
+      "spa_date": "2024-04-09",
+      "expected_handover": "2026-02-27"
+    },
+    "financials": {
+      "property_price_aed": 2654000,
+      "dld_fee_aed": 106160.0,
+      "admin_fee_aed": 4200,
+      "oqood_fee_aed": 47160,
+      "total_due_aed": 2811520.0,
+      "construction_payments_aed": 2123200.0,
+      "handover_payment_aed": 530800.0
+    },
+    "status": "booked",
+    "sales_agent": "Monica Collins MD",
+    "broker": "Casey, House and Duran",
+    "broker_commission_aed": 132700.0
+  },
+  {
+    "transaction_id": "TXN-6C2555E61D",
+    "customer": {
+      "customer_id": "CUST-DC226A7C",
+      "name": "Connor Houston",
+      "email": "brownnatalie@example.org",
+      "phone": "+971 51 507 3189",
+      "nationality": "India",
+      "emirates_id": null,
+      "passport_number": "L68395170",
+      "address": "08306 Sierra Land\nKimberlyland, WA 39271",
+      "kyc_status": "verified",
+      "customer_type": "corporate",
+      "bank_name": "Emirates NBD",
+      "account_number": "GB20OVRV12895501022657"
+    },
+    "property": {
+      "unit_id": "DAMAC-SAF-403",
+      "project_name": "Safa One",
+      "project_type": "apartment",
+      "location": "Business Bay",
+      "unit_type": "Studio",
+      "unit_number": "403",
+      "area_sqft": 512,
+      "price_aed": 2035000,
+      "price_per_sqft": 3975
+    },
+    "payment_plan": "60/40",
+    "dates": {
+      "booking_date": "2025-05-16",
+      "spa_date": "2025-05-27",
+      "expected_handover": "2027-08-15"
+    },
+    "financials": {
+      "property_price_aed": 2035000,
+      "dld_fee_aed": 81400.0,
+      "admin_fee_aed": 4200,
+      "oqood_fee_aed": 20480,
+      "total_due_aed": 2141080.0,
+      "construction_payments_aed": 1221000.0,
+      "handover_payment_aed": 814000.0
+    },
+    "status": "spa_signed",
+    "sales_agent": "Jenna White",
+    "broker": null,
+    "broker_commission_aed": 101750.0
+  },
+  {
+    "transaction_id": "TXN-F69C848B25",
+    "customer": {
+      "customer_id": "CUST-3B0B86BD",
+      "name": "Joshua Alexander",
+      "email": "jenniferwilliams@example.com",
+      "phone": "+971 54 190 9089",
+      "nationality": "Lebanon",
+      "emirates_id": null,
+      "passport_number": "953725077",
+      "address": "557 Kyle Drives\nPort Matthew, MS 83509",
+      "kyc_status": "verified",
+      "customer_type": "corporate",
+      "bank_name": "Emirates NBD",
+      "account_number": "GB87EVSY45620544885203"
+    },
+    "property": {
+      "unit_id": "DAMAC-CAV-1101",
+      "project_name": "Cavalli Tower",
+      "project_type": "apartment",
+      "location": "Dubai Marina",
+      "unit_type": "3BR",
+      "unit_number": "1101",
+      "area_sqft": 1703,
+      "price_aed": 4624000,
+      "price_per_sqft": 2715
+    },
+    "payment_plan": "80/20",
+    "dates": {
+      "booking_date": "2024-06-18",
+      "spa_date": "2024-07-18",
+      "expected_handover": "2027-06-11"
+    },
+    "financials": {
+      "property_price_aed": 4624000,
+      "dld_fee_aed": 184960.0,
+      "admin_fee_aed": 4200,
+      "oqood_fee_aed": 68120,
+      "total_due_aed": 4881280.0,
+      "construction_payments_aed": 3699200.0,
+      "handover_payment_aed": 924800.0
+    },
+    "status": "spa_signed",
+    "sales_agent": "Kathy Jones",
+    "broker": null,
+    "broker_commission_aed": 231200.0
+  },
+  {
+    "transaction_id": "TXN-092F33B60D",
+    "customer": {
+      "customer_id": "CUST-3A61F0AA",
+      "name": "Melissa Frank",
+      "email": "grobinson@example.com",
+      "phone": "+971 57 870 2999",
+      "nationality": "France",
+      "emirates_id": null,
+      "passport_number": "Z08286500",
+      "address": "73367 Melanie Court\nDavidhaven, IN 10274",
+      "kyc_status": "pending",
+      "customer_type": "corporate",
+      "bank_name": "RAKBANK",
+      "account_number": "GB37CXUE65356706327136"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-806",
+      "project_name": "DAMAC Bay 2",
+      "project_type": "apartment",
+      "location": "Dubai Harbour",
+      "unit_type": "Studio",
+      "unit_number": "806",
+      "area_sqft": 422,
+      "price_aed": 1663000,
+      "price_per_sqft": 3940
+    },
+    "payment_plan": "1% Monthly",
+    "dates": {
+      "booking_date": "2025-10-23",
+      "spa_date": "2025-11-18",
+      "expected_handover": "2027-12-02"
+    },
+    "financials": {
+      "property_price_aed": 1663000,
+      "dld_fee_aed": 66520.0,
+      "admin_fee_aed": 4200,
+      "oqood_fee_aed": 16880,
+      "total_due_aed": 1750600.0,
+      "construction_payments_aed": 997800.0,
+      "handover_payment_aed": 665200.0
+    },
+    "status": "snagging",
+    "sales_agent": "Mr. Rodney Watson",
+    "broker": "Campbell LLC",
+    "broker_commission_aed": 83150.0
+  },
+  {
+    "transaction_id": "TXN-3CB380F519",
+    "customer": {
+      "customer_id": "CUST-95BD81DA",
+      "name": "Sheryl Butler",
+      "email": "benjamindavis@example.com",
+      "phone": "+971 54 698 2453",
+      "nationality": "India",
+      "emirates_id": null,
+      "passport_number": "237531237",
+      "address": "57912 Palmer Dale\nLake Amy, VI 41786",
+      "kyc_status": "verified",
+      "customer_type": "corporate",
+      "bank_name": "Emirates NBD",
+      "account_number": "GB54PQMX22393914520701"
+    },
+    "property": {
+      "unit_id": "DAMAC-CAV-4211",
+      "project_name": "Cavalli Tower",
+      "project_type": "apartment",
+      "location": "Dubai Marina",
+      "unit_type": "1BR",
+      "unit_number": "4211",
+      "area_sqft": 806,
+      "price_aed": 2585000,
+      "price_per_sqft": 3207
+    },
+    "payment_plan": "1% Monthly",
+    "dates": {
+      "booking_date": "2025-03-11",
+      "spa_date": "2025-04-02",
+      "expected_handover": "2027-11-28"
+    },
+    "financials": {
+      "property_price_aed": 2585000,
+      "dld_fee_aed": 103400.0,
+      "admin_fee_aed": 4200,
+      "oqood_fee_aed": 32240,
+      "total_due_aed": 2724840.0,
+      "construction_payments_aed": 1551000.0,
+      "handover_payment_aed": 1034000.0
+    },
+    "status": "handed_over",
+    "sales_agent": "Kristen Lewis",
+    "broker": "Hall, Thompson and Joyce",
+    "broker_commission_aed": 129250.0
+  },
+  {
+    "transaction_id": "TXN-25DF832982",
+    "customer": {
+      "customer_id": "CUST-6AC95330",
+      "name": "Richard Goodwin",
+      "email": "scampos@example.org",
+      "phone": "+971 50 830 4624",
+      "nationality": "UAE",
+      "emirates_id": "784-1988-6736816-1",
+      "passport_number": null,
+      "address": "41099 Sanders Estate Apt. 021\nSouth Tara, MN 91529",
+      "kyc_status": "pending",
+      "customer_type": "individual",
+      "bank_name": "First Abu Dhabi Bank",
+      "account_number": "GB23AUGH34626564331698"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-D193",
+      "project_name": "DAMAC Hills",
+      "project_type": "villa",
+      "location": "Dubailand",
+      "unit_type": "4BR Villa",
+      "unit_number": "D193",
+      "area_sqft": 2619,
+      "price_aed": 2370000,
+      "price_per_sqft": 905
+    },
+    "payment_plan": "1% Monthly",
+    "dates": {
+      "booking_date": "2024-02-23",
+      "spa_date": "2024-03-10",
+      "expected_handover": "2027-01-19"
+    },
+    "financials": {
+      "property_price_aed": 2370000,
+      "dld_fee_aed": 94800.0,
+      "admin_fee_aed": 4200,
+      "oqood_fee_aed": 104760,
+      "total_due_aed": 2573760.0,
+      "construction_payments_aed": 1422000.0,
+      "handover_payment_aed": 948000.0
+    },
+    "status": "ready_for_handover",
+    "sales_agent": "Jennifer Mason",
+    "broker": "Walters Group",
+    "broker_commission_aed": 118500.0
+  },
+  {
+    "transaction_id": "TXN-A3039781FC",
+    "customer": {
+      "customer_id": "CUST-619B03E4",
+      "name": "Steven Wilson",
+      "email": "belldenise@example.org",
+      "phone": "+971 53 177 1421",
+      "nationality": "India",
+      "emirates_id": null,
+      "passport_number": "142066985",
+      "address": "66872 Robert Estate\nChadmouth, VA 43265",
+      "kyc_status": "under_review",
+      "customer_type": "corporate",
+      "bank_name": "Abu Dhabi Commercial Bank",
+      "account_number": "GB61QNQI43843769550009"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-2304",
+      "project_name": "DAMAC Bay",
+      "project_type": "apartment",
+      "location": "Dubai Harbour",
+      "unit_type": "Penthouse",
+      "unit_number": "2304",
+      "area_sqft": 3250,
+      "price_aed": 7010000,
+      "price_per_sqft": 2157
+    },
+    "payment_plan": "50/50",
+    "dates": {
+      "booking_date": "2025-08-08",
+      "spa_date": "2025-08-22",
+      "expected_handover": "2027-07-29"
+    },
+    "financials": {
+      "property_price_aed": 7010000,
+      "dld_fee_aed": 280400.0,
+      "admin_fee_aed": 4200,
+      "oqood_fee_aed": 130000,
+      "total_due_aed": 7424600.0,
+      "construction_payments_aed": 3505000.0,
+      "handover_payment_aed": 3505000.0
+    },
+    "status": "ready_for_handover",
+    "sales_agent": "Andrea Allen",
+    "broker": null,
+    "broker_commission_aed": 350500.0
+  },
+  {
+    "transaction_id": "TXN-8E3D0E8F51",
+    "customer": {
+      "customer_id": "CUST-1219F903",
+      "name": "Laura Anderson",
+      "email": "holly00@example.org",
+      "phone": "+971 55 453 7432",
+      "nationality": "China",
+      "emirates_id": null,
+      "passport_number": "744745774",
+      "address": "7460 Case Estate Suite 848\nEast Maryside, SD 30597",
+      "kyc_status": "under_review",
+      "customer_type": "corporate",
+      "bank_name": "Emirates NBD",
+      "account_number": "GB57YVQC49477396128610"
+    },
+    "property": {
+      "unit_id": "DAMAC-SAF-1612",
+      "project_name": "Safa Two",
+      "project_type": "apartment",
+      "location": "Business Bay",
+      "unit_type": "Studio",
+      "unit_number": "1612",
+      "area_sqft": 570,
+      "price_aed": 1705000,
+      "price_per_sqft": 2991
+    },
+    "payment_plan": "60/40",
+    "dates": {
+      "booking_date": "2025-04-21",
+      "spa_date": "2025-05-18",
+      "expected_handover": "2027-01-22"
+    },
+    "financials": {
+      "property_price_aed": 1705000,
+      "dld_fee_aed": 68200.0,
+      "admin_fee_aed": 4200,
+      "oqood_fee_aed": 22800,
+      "total_due_aed": 1800200.0,
+      "construction_payments_aed": 1023000.0,
+      "handover_payment_aed": 682000.0
+    },
+    "status": "snagging",
+    "sales_agent": "Janice Williams",
+    "broker": "Payne-Hansen",
+    "broker_commission_aed": 85250.0
+  },
+  {
+    "transaction_id": "TXN-935A2A89BD",
+    "customer": {
+      "customer_id": "CUST-4136C54D",
+      "name": "Kevin Clark",
+      "email": "ilynch@example.org",
+      "phone": "+971 53 327 3140",
+      "nationality": "India",
+      "emirates_id": null,
+      "passport_number": "887431571",
+      "address": "USNV Rivera\nFPO AE 90215",
+      "kyc_status": "pending",
+      "customer_type": "individual",
+      "bank_name": "Mashreq Bank",
+      "account_number": "GB25UIRM20989128805365"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-B403",
+      "project_name": "DAMAC Lagoons",
+      "project_type": "townhouse",
+      "location": "Dubailand",
+      "unit_type": "3BR Villa",
+      "unit_number": "B403",
+      "area_sqft": 12502,
+      "price_aed": 17890000,
+      "price_per_sqft": 1431
+    },
+    "payment_plan": "50/50",
+    "dates": {
+      "booking_date": "2024-05-23",
+      "spa_date": "2024-06-07",
+      "expected_handover": "2025-08-21"
+    },
+    "financials": {
+      "property_price_aed": 17890000,
+      "dld_fee_aed": 715600.0,
+      "admin_fee_aed": 4200,
+      "oqood_fee_aed": 500080,
+      "total_due_aed": 19109880.0,
+      "construction_payments_aed": 8945000.0,
+      "handover_payment_aed": 8945000.0
+    },
+    "status": "handed_over",
+    "sales_agent": "Bob Long",
+    "broker": "Allen PLC",
+    "broker_commission_aed": 894500.0
+  },
+  {
+    "transaction_id": "TXN-F4A33D08A4",
+    "customer": {
+      "customer_id": "CUST-FA543AE1",
+      "name": "John Turner",
+      "email": "duartebarbara@example.com",
+      "phone": "+971 56 442 1573",
+      "nationality": "Pakistan",
+      "emirates_id": null,
+      "passport_number": "D43567922",
+      "address": "646 Christopher Park\nNew Lisa, MP 31662",
+      "kyc_status": "verified",
+      "customer_type": "individual",
+      "bank_name": "Commercial Bank of Dubai",
+      "account_number": "GB47WWSL95859253847229"
+    },
+    "property": {
+      "unit_id": "DAMAC-AYK-4802",
+      "project_name": "AYKON City",
+      "project_type": "apartment",
+      "location": "Sheikh Zayed Road",
+      "unit_type": "Penthouse",
+      "unit_number": "4802",
+      "area_sqft": 6643,
+      "price_aed": 9984000,
+      "price_per_sqft": 1503
+    },
+    "payment_plan": "1% Monthly",
+    "dates": {
+      "booking_date": "2025-01-30",
+      "spa_date": "2025-02-16",
+      "expected_handover": "2027-12-02"
+    },
+    "financials": {
+      "property_price_aed": 9984000,
+      "dld_fee_aed": 399360.0,
+      "admin_fee_aed": 4200,
+      "oqood_fee_aed": 265720,
+      "total_due_aed": 10653280.0,
+      "construction_payments_aed": 5990400.0,
+      "handover_payment_aed": 3993600.0
+    },
+    "status": "handed_over",
+    "sales_agent": "Ronald Wright PhD",
+    "broker": null,
+    "broker_commission_aed": 499200.0
+  },
+  {
+    "transaction_id": "TXN-9B7E8F6B8B",
+    "customer": {
+      "customer_id": "CUST-E43964AA",
+      "name": "Jasmine Perez",
+      "email": "wilsoncrystal@example.org",
+      "phone": "+971 50 769 1737",
+      "nationality": "Pakistan",
+      "emirates_id": null,
+      "passport_number": "M20989699",
+      "address": "3665 Williams Loaf\nWest Alexandratown, LA 72966",
+      "kyc_status": "pending",
+      "customer_type": "individual",
+      "bank_name": "Emirates NBD",
+      "account_number": "GB28OHXB79421670646175"
+    },
+    "property": {
+      "unit_id": "DAMAC-CAV-4605",
+      "project_name": "Cavalli Tower",
+      "project_type": "apartment",
+      "location": "Dubai Marina",
+      "unit_type": "Penthouse",
+      "unit_number": "4605",
+      "area_sqft": 7329,
+      "price_aed": 22793000,
+      "price_per_sqft": 3110
+    },
+    "payment_plan": "1% Monthly",
+    "dates": {
+      "booking_date": "2025-10-05",
+      "spa_date": "2025-10-29",
+      "expected_handover": "2028-07-15"
+    },
+    "financials": {
+      "property_price_aed": 22793000,
+      "dld_fee_aed": 911720.0,
+      "admin_fee_aed": 4200,
+      "oqood_fee_aed": 293160,
+      "total_due_aed": 24002080.0,
+      "construction_payments_aed": 13675800.0,
+      "handover_payment_aed": 9117200.0
+    },
+    "status": "under_construction",
+    "sales_agent": "Timothy Carpenter",
+    "broker": null,
+    "broker_commission_aed": 1139650.0
+  },
+  {
+    "transaction_id": "TXN-2F09ADDDCE",
+    "customer": {
+      "customer_id": "CUST-68EE2084",
+      "name": "Rhonda Mason",
+      "email": "xgonzalez@example.com",
+      "phone": "+971 52 633 6870",
+      "nationality": "India",
+      "emirates_id": null,
+      "passport_number": "A38636776",
+      "address": "8795 Jennifer Locks Apt. 959\nGomezmouth, OK 86478",
+      "kyc_status": "under_review",
+      "customer_type": "individual",
+      "bank_name": "Emirates NBD",
+      "account_number": "GB77NEHQ55131679290278"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-E153",
+      "project_name": "DAMAC Lagoons",
+      "project_type": "townhouse",
+      "location": "Dubailand",
+      "unit_type": "6BR Villa",
+      "unit_number": "E153",
+      "area_sqft": 9775,
+      "price_aed": 16099000,
+      "price_per_sqft": 1647
+    },
+    "payment_plan": "50/50",
+    "dates": {
+      "booking_date": "2025-12-31",
+      "spa_date": "2026-01-08",
+      "expected_handover": "2028-11-03"
+    },
+    "financials": {
+      "property_price_aed": 16099000,
+      "dld_fee_aed": 643960.0,
+      "admin_fee_aed": 4200,
+      "oqood_fee_aed": 391000,
+      "total_due_aed": 17138160.0,
+      "construction_payments_aed": 8049500.0,
+      "handover_payment_aed": 8049500.0
+    },
+    "status": "spa_signed",
+    "sales_agent": "Jeanette Myers",
+    "broker": null,
+    "broker_commission_aed": 804950.0
+  },
+  {
+    "transaction_id": "TXN-7DB737D49D",
+    "customer": {
+      "customer_id": "CUST-15432972",
+      "name": "Mary Hall",
+      "email": "alexandra22@example.org",
+      "phone": "+971 55 494 1447",
+      "nationality": "India",
+      "emirates_id": null,
+      "passport_number": "093829227",
+      "address": "PSC 3101, Box 4038\nAPO AE 53086",
+      "kyc_status": "pending",
+      "customer_type": "individual",
+      "bank_name": "Dubai Islamic Bank",
+      "account_number": "GB94MSYR32675235059913"
+    },
+    "property": {
+      "unit_id": "DAMAC-ZAD-710",
+      "project_name": "Zada Tower",
+      "project_type": "apartment",
+      "location": "Business Bay",
+      "unit_type": "3BR",
+      "unit_number": "710",
+      "area_sqft": 1667,
+      "price_aed": 5434000,
+      "price_per_sqft": 3260
+    },
+    "payment_plan": "50/50",
+    "dates": {
+      "booking_date": "2024-05-02",
+      "spa_date": "2024-05-26",
+      "expected_handover": "2027-05-19"
+    },
+    "financials": {
+      "property_price_aed": 5434000,
+      "dld_fee_aed": 217360.0,
+      "admin_fee_aed": 4200,
+      "oqood_fee_aed": 66680,
+      "total_due_aed": 5722240.0,
+      "construction_payments_aed": 2717000.0,
+      "handover_payment_aed": 2717000.0
+    },
+    "status": "booked",
+    "sales_agent": "Adam Tucker",
+    "broker": "Baker Inc",
+    "broker_commission_aed": 271700.0
+  },
+  {
+    "transaction_id": "TXN-E5FFF97EF7",
+    "customer": {
+      "customer_id": "CUST-669F3EBE",
+      "name": "Randy Nguyen",
+      "email": "aduran@example.com",
+      "phone": "+971 58 594 3291",
+      "nationality": "UAE",
+      "emirates_id": "784-1994-3111860-0",
+      "passport_number": null,
+      "address": "30416 Melissa Field Suite 959\nLake Nicholasport, MS 47846",
+      "kyc_status": "pending",
+      "customer_type": "individual",
+      "bank_name": "Abu Dhabi Commercial Bank",
+      "account_number": "GB81GYOD50273106109577"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-A59",
+      "project_name": "DAMAC Islands",
+      "project_type": "villa",
+      "location": "Dubai Islands",
+      "unit_type": "3BR Villa",
+      "unit_number": "A59",
+      "area_sqft": 6584,
+      "price_aed": 6176000,
+      "price_per_sqft": 938
+    },
+    "payment_plan": "80/20",
+    "dates": {
+      "booking_date": "2024-10-05",
+      "spa_date": "2024-10-19",
+      "expected_handover": "2027-08-13"
+    },
+    "financials": {
+      "property_price_aed": 6176000,
+      "dld_fee_aed": 247040.0,
+      "admin_fee_aed": 4200,
+      "oqood_fee_aed": 263360,
+      "total_due_aed": 6690600.0,
+      "construction_payments_aed": 4940800.0,
+      "handover_payment_aed": 1235200.0
+    },
+    "status": "spa_signed",
+    "sales_agent": "Thomas Kramer",
+    "broker": null,
+    "broker_commission_aed": 308800.0
+  },
+  {
+    "transaction_id": "TXN-BA76C19F46",
+    "customer": {
+      "customer_id": "CUST-B84D4367",
+      "name": "Jessica Zhang",
+      "email": "erikkelly@example.org",
+      "phone": "+971 56 404 7578",
+      "nationality": "UAE",
+      "emirates_id": "784-1978-1268172-3",
+      "passport_number": null,
+      "address": "35083 Crystal Ridges Apt. 639\nMcgeefurt, IA 41723",
+      "kyc_status": "verified",
+      "customer_type": "corporate",
+      "bank_name": "Commercial Bank of Dubai",
+      "account_number": "GB19SHFW64464389665630"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-A200",
+      "project_name": "DAMAC Lagoons",
+      "project_type": "townhouse",
+      "location": "Dubailand",
+      "unit_type": "4BR Villa",
+      "unit_number": "A200",
+      "area_sqft": 10953,
+      "price_aed": 18302000,
+      "price_per_sqft": 1671
+    },
+    "payment_plan": "1% Monthly",
+    "dates": {
+      "booking_date": "2025-09-11",
+      "spa_date": "2025-09-26",
+      "expected_handover": "2028-01-03"
+    },
+    "financials": {
+      "property_price_aed": 18302000,
+      "dld_fee_aed": 732080.0,
+      "admin_fee_aed": 4200,
+      "oqood_fee_aed": 438120,
+      "total_due_aed": 19476400.0,
+      "construction_payments_aed": 10981200.0,
+      "handover_payment_aed": 7320800.0
+    },
+    "status": "handed_over",
+    "sales_agent": "Allison Grimes",
+    "broker": null,
+    "broker_commission_aed": 915100.0
+  },
+  {
+    "transaction_id": "TXN-677A3AE0B6",
+    "customer": {
+      "customer_id": "CUST-505B4B21",
+      "name": "Rhonda Stevenson",
+      "email": "angela14@example.net",
+      "phone": "+971 57 311 7026",
+      "nationality": "Pakistan",
+      "emirates_id": null,
+      "passport_number": "223469391",
+      "address": "128 Duncan Trafficway Suite 554\nNorth Ashley, MT 13687",
+      "kyc_status": "pending",
+      "customer_type": "individual",
+      "bank_name": "First Abu Dhabi Bank",
+      "account_number": "GB30IRTX11865624966540"
+    },
+    "property": {
+      "unit_id": "DAMAC-CAV-3905",
+      "project_name": "Cavalli Tower",
+      "project_type": "apartment",
+      "location": "Dubai Marina",
+      "unit_type": "Studio",
+      "unit_number": "3905",
+      "area_sqft": 406,
+      "price_aed": 942000,
+      "price_per_sqft": 2321
+    },
+    "payment_plan": "1% Monthly",
+    "dates": {
+      "booking_date": "2024-08-10",
+      "spa_date": "2024-08-24",
+      "expected_handover": "2027-07-11"
+    },
+    "financials": {
+      "property_price_aed": 942000,
+      "dld_fee_aed": 37680.0,
+      "admin_fee_aed": 4200,
+      "oqood_fee_aed": 16240,
+      "total_due_aed": 1000120.0,
+      "construction_payments_aed": 565200.0,
+      "handover_payment_aed": 376800.0
+    },
+    "status": "ready_for_handover",
+    "sales_agent": "Matthew Irwin",
+    "broker": "Wright-Jenkins",
+    "broker_commission_aed": 47100.0
+  },
+  {
+    "transaction_id": "TXN-0A3CE5C697",
+    "customer": {
+      "customer_id": "CUST-920DB635",
+      "name": "Brent Casey",
+      "email": "josemckinney@example.com",
+      "phone": "+971 51 678 8819",
+      "nationality": "Pakistan",
+      "emirates_id": null,
+      "passport_number": "597705749",
+      "address": "339 Salazar Estates Suite 278\nEdwardsberg, LA 39057",
+      "kyc_status": "verified",
+      "customer_type": "corporate",
+      "bank_name": "Commercial Bank of Dubai",
+      "account_number": "GB71QOAK45697250189748"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-B317",
+      "project_name": "DAMAC Hills 2",
+      "project_type": "townhouse",
+      "location": "Dubailand",
+      "unit_type": "5BR Villa",
+      "unit_number": "B317",
+      "area_sqft": 2821,
+      "price_aed": 2268000,
+      "price_per_sqft": 804
+    },
+    "payment_plan": "1% Monthly",
+    "dates": {
+      "booking_date": "2025-12-16",
+      "spa_date": "2025-12-27",
+      "expected_handover": "2027-05-17"
+    },
+    "financials": {
+      "property_price_aed": 2268000,
+      "dld_fee_aed": 90720.0,
+      "admin_fee_aed": 4200,
+      "oqood_fee_aed": 112840,
+      "total_due_aed": 2475760.0,
+      "construction_payments_aed": 1360800.0,
+      "handover_payment_aed": 907200.0
+    },
+    "status": "ready_for_handover",
+    "sales_agent": "Tyler Thornton",
+    "broker": "Hines-Cox",
+    "broker_commission_aed": 113400.0
+  },
+  {
+    "transaction_id": "TXN-BF290F5E73",
+    "customer": {
+      "customer_id": "CUST-AB2BBEC9",
+      "name": "William Anderson",
+      "email": "martindonna@example.net",
+      "phone": "+971 53 145 7047",
+      "nationality": "Pakistan",
+      "emirates_id": null,
+      "passport_number": "T28736495",
+      "address": "USNS Jones\nFPO AP 32149",
+      "kyc_status": "pending",
+      "customer_type": "individual",
+      "bank_name": "First Abu Dhabi Bank",
+      "account_number": "GB89BSSZ41585696544744"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-A497",
+      "project_name": "DAMAC Hills",
+      "project_type": "villa",
+      "location": "Dubailand",
+      "unit_type": "5BR Villa",
+      "unit_number": "A497",
+      "area_sqft": 12287,
+      "price_aed": 17202000,
+      "price_per_sqft": 1400
+    },
+    "payment_plan": "50/50",
+    "dates": {
+      "booking_date": "2024-10-22",
+      "spa_date": "2024-11-13",
+      "expected_handover": "2026-10-22"
+    },
+    "financials": {
+      "property_price_aed": 17202000,
+      "dld_fee_aed": 688080.0,
+      "admin_fee_aed": 4200,
+      "oqood_fee_aed": 491480,
+      "total_due_aed": 18385760.0,
+      "construction_payments_aed": 8601000.0,
+      "handover_payment_aed": 8601000.0
+    },
+    "status": "under_construction",
+    "sales_agent": "Cory Baker",
+    "broker": "Vasquez-Farmer",
+    "broker_commission_aed": 860100.0
+  },
+  {
+    "transaction_id": "TXN-EC030D9274",
+    "customer": {
+      "customer_id": "CUST-DD3D5333",
+      "name": "James Patel",
+      "email": "glassoscar@example.org",
+      "phone": "+971 50 359 8173",
+      "nationality": "China",
+      "emirates_id": null,
+      "passport_number": "013504643",
+      "address": "0290 Brown Manors Suite 416\nWashingtonmouth, ME 01132",
+      "kyc_status": "verified",
+      "customer_type": "corporate",
+      "bank_name": "Abu Dhabi Commercial Bank",
+      "account_number": "GB27BNYO97463232741394"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-E324",
+      "project_name": "DAMAC Islands",
+      "project_type": "villa",
+      "location": "Dubai Islands",
+      "unit_type": "6BR Villa",
+      "unit_number": "E324",
+      "area_sqft": 12506,
+      "price_aed": 11481000,
+      "price_per_sqft": 918
+    },
+    "payment_plan": "75/25",
+    "dates": {
+      "booking_date": "2024-10-25",
+      "spa_date": "2024-11-01",
+      "expected_handover": "2027-01-21"
+    },
+    "financials": {
+      "property_price_aed": 11481000,
+      "dld_fee_aed": 459240.0,
+      "admin_fee_aed": 4200,
+      "oqood_fee_aed": 500240,
+      "total_due_aed": 12444680.0,
+      "construction_payments_aed": 8610750.0,
+      "handover_payment_aed": 2870250.0
+    },
+    "status": "spa_signed",
+    "sales_agent": "Timothy Wade",
+    "broker": null,
+    "broker_commission_aed": 0
+  },
+  {
+    "transaction_id": "TXN-B0E5F600A0",
+    "customer": {
+      "customer_id": "CUST-2F6A956D",
+      "name": "Karen Burnett",
+      "email": "olucas@example.org",
+      "phone": "+971 55 640 8505",
+      "nationality": "Pakistan",
+      "emirates_id": null,
+      "passport_number": "O08523584",
+      "address": "PSC 0331, Box 6448\nAPO AA 94423",
+      "kyc_status": "verified",
+      "customer_type": "corporate",
+      "bank_name": "Emirates NBD",
+      "account_number": "GB59CPSY47406575208197"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-905",
+      "project_name": "DAMAC Bay 2",
+      "project_type": "apartment",
+      "location": "Dubai Harbour",
+      "unit_type": "Penthouse",
+      "unit_number": "905",
+      "area_sqft": 6735,
+      "price_aed": 14615000,
+      "price_per_sqft": 2170
+    },
+    "payment_plan": "1% Monthly",
+    "dates": {
+      "booking_date": "2024-03-02",
+      "spa_date": "2024-03-21",
+      "expected_handover": "2026-09-02"
+    },
+    "financials": {
+      "property_price_aed": 14615000,
+      "dld_fee_aed": 584600.0,
+      "admin_fee_aed": 4200,
+      "oqood_fee_aed": 269400,
+      "total_due_aed": 15473200.0,
+      "construction_payments_aed": 8769000.0,
+      "handover_payment_aed": 5846000.0
+    },
+    "status": "spa_signed",
+    "sales_agent": "Roberto Tran",
+    "broker": "Baldwin-Frost",
+    "broker_commission_aed": 730750.0
+  },
+  {
+    "transaction_id": "TXN-20D67B915A",
+    "customer": {
+      "customer_id": "CUST-CA1D25F0",
+      "name": "Scott Miles",
+      "email": "lwhite@example.com",
+      "phone": "+971 55 396 1685",
+      "nationality": "Russia",
+      "emirates_id": null,
+      "passport_number": "J30478535",
+      "address": "967 Kevin Turnpike\nWheelerport, PR 34936",
+      "kyc_status": "pending",
+      "customer_type": "individual",
+      "bank_name": "Dubai Islamic Bank",
+      "account_number": "GB10ZNZC25693267900839"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-D157",
+      "project_name": "DAMAC Hills 2",
+      "project_type": "townhouse",
+      "location": "Dubailand",
+      "unit_type": "6BR Villa",
+      "unit_number": "D157",
+      "area_sqft": 14680,
+      "price_aed": 28553000,
+      "price_per_sqft": 1945
+    },
+    "payment_plan": "80/20",
+    "dates": {
+      "booking_date": "2025-10-30",
+      "spa_date": "2025-11-18",
+      "expected_handover": "2027-03-14"
+    },
+    "financials": {
+      "property_price_aed": 28553000,
+      "dld_fee_aed": 1142120.0,
+      "admin_fee_aed": 4200,
+      "oqood_fee_aed": 587200,
+      "total_due_aed": 30286520.0,
+      "construction_payments_aed": 22842400.0,
+      "handover_payment_aed": 5710600.0
+    },
+    "status": "under_construction",
+    "sales_agent": "Annette Serrano",
+    "broker": "Rhodes Ltd",
+    "broker_commission_aed": 0
+  },
+  {
+    "transaction_id": "TXN-58B7E966B0",
+    "customer": {
+      "customer_id": "CUST-14CE6BF9",
+      "name": "Anthony Marquez",
+      "email": "hooverlinda@example.net",
+      "phone": "+971 52 471 2198",
+      "nationality": "UAE",
+      "emirates_id": "784-1998-1054589-3",
+      "passport_number": null,
+      "address": "773 Santos Freeway Suite 998\nWilliamsonmouth, AS 63836",
+      "kyc_status": "verified",
+      "customer_type": "individual",
+      "bank_name": "Mashreq Bank",
+      "account_number": "GB93HNWP98302323821376"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-1908",
+      "project_name": "DAMAC Bay 2",
+      "project_type": "apartment",
+      "location": "Dubai Harbour",
+      "unit_type": "1BR",
+      "unit_number": "1908",
+      "area_sqft": 873,
+      "price_aed": 1729000,
+      "price_per_sqft": 1980
+    },
+    "payment_plan": "50/50",
+    "dates": {
+      "booking_date": "2025-07-14",
+      "spa_date": "2025-08-11",
+      "expected_handover": "2028-01-18"
+    },
+    "financials": {
+      "property_price_aed": 1729000,
+      "dld_fee_aed": 69160.0,
+      "admin_fee_aed": 4200,
+      "oqood_fee_aed": 34920,
+      "total_due_aed": 1837280.0,
+      "construction_payments_aed": 864500.0,
+      "handover_payment_aed": 864500.0
+    },
+    "status": "booked",
+    "sales_agent": "Julie Villanueva",
+    "broker": null,
+    "broker_commission_aed": 0
+  },
+  {
+    "transaction_id": "TXN-D42A05FF87",
+    "customer": {
+      "customer_id": "CUST-00093E79",
+      "name": "James Pacheco",
+      "email": "lorimyers@example.org",
+      "phone": "+971 53 249 1875",
+      "nationality": "Pakistan",
+      "emirates_id": null,
+      "passport_number": "P86337858",
+      "address": "55078 Jessica Spring Suite 504\nSouth Michael, OR 92660",
+      "kyc_status": "under_review",
+      "customer_type": "individual",
+      "bank_name": "RAKBANK",
+      "account_number": "GB70QZJP59980936461663"
+    },
+    "property": {
+      "unit_id": "DAMAC-TRU-E257",
+      "project_name": "Trump DAMAC Golf",
+      "project_type": "villa",
+      "location": "DAMAC Hills",
+      "unit_type": "6BR Villa",
+      "unit_number": "E257",
+      "area_sqft": 14055,
+      "price_aed": 17555000,
+      "price_per_sqft": 1249
+    },
+    "payment_plan": "60/40",
+    "dates": {
+      "booking_date": "2025-11-12",
+      "spa_date": "2025-12-05",
+      "expected_handover": "2027-12-18"
+    },
+    "financials": {
+      "property_price_aed": 17555000,
+      "dld_fee_aed": 702200.0,
+      "admin_fee_aed": 4200,
+      "oqood_fee_aed": 562200,
+      "total_due_aed": 18823600.0,
+      "construction_payments_aed": 10533000.0,
+      "handover_payment_aed": 7022000.0
+    },
+    "status": "snagging",
+    "sales_agent": "William Dickson",
+    "broker": "Williams and Sons",
+    "broker_commission_aed": 877750.0
+  },
+  {
+    "transaction_id": "TXN-D95CE0387B",
+    "customer": {
+      "customer_id": "CUST-7F1F871E",
+      "name": "John Melton",
+      "email": "andersonmichael@example.org",
+      "phone": "+971 56 780 6931",
+      "nationality": "Jordan",
+      "emirates_id": null,
+      "passport_number": "617026389",
+      "address": "4328 Atkinson Valleys Apt. 584\nWest Elizabethmouth, WY 18670",
+      "kyc_status": "under_review",
+      "customer_type": "corporate",
+      "bank_name": "Commercial Bank of Dubai",
+      "account_number": "GB11CBQT19391657372188"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-C180",
+      "project_name": "DAMAC Hills",
+      "project_type": "villa",
+      "location": "Dubailand",
+      "unit_type": "4BR Villa",
+      "unit_number": "C180",
+      "area_sqft": 14884,
+      "price_aed": 13068000,
+      "price_per_sqft": 878
+    },
+    "payment_plan": "60/40",
+    "dates": {
+      "booking_date": "2024-03-28",
+      "spa_date": "2024-04-21",
+      "expected_handover": "2026-01-06"
+    },
+    "financials": {
+      "property_price_aed": 13068000,
+      "dld_fee_aed": 522720.0,
+      "admin_fee_aed": 4200,
+      "oqood_fee_aed": 595360,
+      "total_due_aed": 14190280.0,
+      "construction_payments_aed": 7840800.0,
+      "handover_payment_aed": 5227200.0
+    },
+    "status": "ready_for_handover",
+    "sales_agent": "John Mcdowell",
+    "broker": null,
+    "broker_commission_aed": 0
+  },
+  {
+    "transaction_id": "TXN-CF4B83C603",
+    "customer": {
+      "customer_id": "CUST-648F23EA",
+      "name": "Sabrina Johnson",
+      "email": "ashleyhenson@example.com",
+      "phone": "+971 54 952 9769",
+      "nationality": "India",
+      "emirates_id": null,
+      "passport_number": "P26935078",
+      "address": "Unit 0621 Box 6848\nDPO AE 29392",
+      "kyc_status": "under_review",
+      "customer_type": "corporate",
+      "bank_name": "First Abu Dhabi Bank",
+      "account_number": "GB14MXIG10420624329858"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-4501",
+      "project_name": "DAMAC Bay",
+      "project_type": "apartment",
+      "location": "Dubai Harbour",
+      "unit_type": "Penthouse",
+      "unit_number": "4501",
+      "area_sqft": 3795,
+      "price_aed": 6379000,
+      "price_per_sqft": 1681
+    },
+    "payment_plan": "80/20",
+    "dates": {
+      "booking_date": "2024-11-18",
+      "spa_date": "2024-12-04",
+      "expected_handover": "2027-01-17"
+    },
+    "financials": {
+      "property_price_aed": 6379000,
+      "dld_fee_aed": 255160.0,
+      "admin_fee_aed": 4200,
+      "oqood_fee_aed": 151800,
+      "total_due_aed": 6790160.0,
+      "construction_payments_aed": 5103200.0,
+      "handover_payment_aed": 1275800.0
+    },
+    "status": "under_construction",
+    "sales_agent": "Heather Mason",
+    "broker": "Rojas, Stewart and Leblanc",
+    "broker_commission_aed": 318950.0
+  },
+  {
+    "transaction_id": "TXN-A92AEBCDD1",
+    "customer": {
+      "customer_id": "CUST-0CE29258",
+      "name": "Miranda Lewis",
+      "email": "jwilliams@example.net",
+      "phone": "+971 56 318 1355",
+      "nationality": "India",
+      "emirates_id": null,
+      "passport_number": "G36886013",
+      "address": "8407 Diaz Course\nNorth Sandramouth, GA 89263",
+      "kyc_status": "pending",
+      "customer_type": "corporate",
+      "bank_name": "RAKBANK",
+      "account_number": "GB36UVQH94373931180458"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-2602",
+      "project_name": "DAMAC Bay 2",
+      "project_type": "apartment",
+      "location": "Dubai Harbour",
+      "unit_type": "3BR",
+      "unit_number": "2602",
+      "area_sqft": 2238,
+      "price_aed": 4950000,
+      "price_per_sqft": 2212
+    },
+    "payment_plan": "1% Monthly",
+    "dates": {
+      "booking_date": "2024-04-26",
+      "spa_date": "2024-05-18",
+      "expected_handover": "2025-06-20"
+    },
+    "financials": {
+      "property_price_aed": 4950000,
+      "dld_fee_aed": 198000.0,
+      "admin_fee_aed": 4200,
+      "oqood_fee_aed": 89520,
+      "total_due_aed": 5241720.0,
+      "construction_payments_aed": 2970000.0,
+      "handover_payment_aed": 1980000.0
+    },
+    "status": "spa_signed",
+    "sales_agent": "Emily Potts",
+    "broker": "Martinez-Patterson",
+    "broker_commission_aed": 247500.0
+  },
+  {
+    "transaction_id": "TXN-0BFED29E42",
+    "customer": {
+      "customer_id": "CUST-1CD0B705",
+      "name": "John Clark",
+      "email": "jason74@example.com",
+      "phone": "+971 51 547 9019",
+      "nationality": "Russia",
+      "emirates_id": null,
+      "passport_number": "615599719",
+      "address": "353 Emily Springs Suite 877\nPort Peterbury, NM 41104",
+      "kyc_status": "verified",
+      "customer_type": "corporate",
+      "bank_name": "Abu Dhabi Commercial Bank",
+      "account_number": "GB88JBAL66590487768858"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-C88",
+      "project_name": "DAMAC Hills 2",
+      "project_type": "townhouse",
+      "location": "Dubailand",
+      "unit_type": "6BR Villa",
+      "unit_number": "C88",
+      "area_sqft": 10037,
+      "price_aed": 9656000,
+      "price_per_sqft": 962
+    },
+    "payment_plan": "50/50",
+    "dates": {
+      "booking_date": "2026-01-04",
+      "spa_date": "2026-01-28",
+      "expected_handover": "2028-03-05"
+    },
+    "financials": {
+      "property_price_aed": 9656000,
+      "dld_fee_aed": 386240.0,
+      "admin_fee_aed": 4200,
+      "oqood_fee_aed": 401480,
+      "total_due_aed": 10447920.0,
+      "construction_payments_aed": 4828000.0,
+      "handover_payment_aed": 4828000.0
+    },
+    "status": "spa_signed",
+    "sales_agent": "Jared Williams",
+    "broker": null,
+    "broker_commission_aed": 482800.0
+  },
+  {
+    "transaction_id": "TXN-5CF55D6FB5",
+    "customer": {
+      "customer_id": "CUST-C7059A85",
+      "name": "Laura Jordan",
+      "email": "brandon96@example.org",
+      "phone": "+971 51 144 7360",
+      "nationality": "India",
+      "emirates_id": null,
+      "passport_number": "W11112789",
+      "address": "802 Michael Ports Apt. 899\nJamieport, MN 22330",
+      "kyc_status": "verified",
+      "customer_type": "corporate",
+      "bank_name": "Commercial Bank of Dubai",
+      "account_number": "GB51EHVT23551688703501"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-1412",
+      "project_name": "DAMAC Bay 2",
+      "project_type": "apartment",
+      "location": "Dubai Harbour",
+      "unit_type": "Penthouse",
+      "unit_number": "1412",
+      "area_sqft": 4714,
+      "price_aed": 17187000,
+      "price_per_sqft": 3646
+    },
+    "payment_plan": "60/40",
+    "dates": {
+      "booking_date": "2025-08-22",
+      "spa_date": "2025-09-02",
+      "expected_handover": "2026-09-16"
+    },
+    "financials": {
+      "property_price_aed": 17187000,
+      "dld_fee_aed": 687480.0,
+      "admin_fee_aed": 4200,
+      "oqood_fee_aed": 188560,
+      "total_due_aed": 18067240.0,
+      "construction_payments_aed": 10312200.0,
+      "handover_payment_aed": 6874800.0
+    },
+    "status": "handed_over",
+    "sales_agent": "Brandy Snyder",
+    "broker": "Howard, Robbins and Curry",
+    "broker_commission_aed": 0
+  },
+  {
+    "transaction_id": "TXN-32D280897E",
+    "customer": {
+      "customer_id": "CUST-34DE1556",
+      "name": "Alisha Hayes",
+      "email": "johnsmith@example.net",
+      "phone": "+971 58 572 1608",
+      "nationality": "Lebanon",
+      "emirates_id": null,
+      "passport_number": "986633945",
+      "address": "446 Schmidt Plaza\nMillerland, NE 83936",
+      "kyc_status": "under_review",
+      "customer_type": "corporate",
+      "bank_name": "Mashreq Bank",
+      "account_number": "GB90EJCR90642137205610"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-5004",
+      "project_name": "DAMAC Bay 2",
+      "project_type": "apartment",
+      "location": "Dubai Harbour",
+      "unit_type": "2BR",
+      "unit_number": "5004",
+      "area_sqft": 1200,
+      "price_aed": 2740000,
+      "price_per_sqft": 2283
+    },
+    "payment_plan": "50/50",
+    "dates": {
+      "booking_date": "2024-05-15",
+      "spa_date": "2024-06-03",
+      "expected_handover": "2026-03-21"
+    },
+    "financials": {
+      "property_price_aed": 2740000,
+      "dld_fee_aed": 109600.0,
+      "admin_fee_aed": 4200,
+      "oqood_fee_aed": 48000,
+      "total_due_aed": 2901800.0,
+      "construction_payments_aed": 1370000.0,
+      "handover_payment_aed": 1370000.0
+    },
+    "status": "ready_for_handover",
+    "sales_agent": "Ronald Hudson",
+    "broker": "Miller-Harper",
+    "broker_commission_aed": 137000.0
+  },
+  {
+    "transaction_id": "TXN-75F9F9A091",
+    "customer": {
+      "customer_id": "CUST-EA5DDF1E",
+      "name": "Tyler Anderson",
+      "email": "lanceperkins@example.net",
+      "phone": "+971 53 627 8240",
+      "nationality": "UAE",
+      "emirates_id": "784-1977-6022483-4",
+      "passport_number": null,
+      "address": "3130 Linda Turnpike Suite 469\nLake Jameshaven, DE 04852",
+      "kyc_status": "pending",
+      "customer_type": "individual",
+      "bank_name": "Abu Dhabi Commercial Bank",
+      "account_number": "GB95JEGS93120750496958"
+    },
+    "property": {
+      "unit_id": "DAMAC-CAV-2012",
+      "project_name": "Cavalli Tower",
+      "project_type": "apartment",
+      "location": "Dubai Marina",
+      "unit_type": "3BR",
+      "unit_number": "2012",
+      "area_sqft": 1747,
+      "price_aed": 4574000,
+      "price_per_sqft": 2618
+    },
+    "payment_plan": "50/50",
+    "dates": {
+      "booking_date": "2024-10-17",
+      "spa_date": "2024-11-10",
+      "expected_handover": "2027-08-05"
+    },
+    "financials": {
+      "property_price_aed": 4574000,
+      "dld_fee_aed": 182960.0,
+      "admin_fee_aed": 4200,
+      "oqood_fee_aed": 69880,
+      "total_due_aed": 4831040.0,
+      "construction_payments_aed": 2287000.0,
+      "handover_payment_aed": 2287000.0
+    },
+    "status": "ready_for_handover",
+    "sales_agent": "Gregory Smith",
+    "broker": null,
+    "broker_commission_aed": 228700.0
+  },
+  {
+    "transaction_id": "TXN-8CE9D219BB",
+    "customer": {
+      "customer_id": "CUST-60FE4569",
+      "name": "Glenn Ramirez MD",
+      "email": "ocoffey@example.net",
+      "phone": "+971 56 667 5196",
+      "nationality": "Pakistan",
+      "emirates_id": null,
+      "passport_number": "J64280634",
+      "address": "477 Ballard Dam Suite 207\nRhodesmouth, MN 93381",
+      "kyc_status": "under_review",
+      "customer_type": "corporate",
+      "bank_name": "Dubai Islamic Bank",
+      "account_number": "GB47NFCY50107797928792"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-1106",
+      "project_name": "DAMAC Bay 2",
+      "project_type": "apartment",
+      "location": "Dubai Harbour",
+      "unit_type": "Studio",
+      "unit_number": "1106",
+      "area_sqft": 460,
+      "price_aed": 930000,
+      "price_per_sqft": 2022
+    },
+    "payment_plan": "80/20",
+    "dates": {
+      "booking_date": "2024-11-24",
+      "spa_date": "2024-12-17",
+      "expected_handover": "2027-06-04"
+    },
+    "financials": {
+      "property_price_aed": 930000,
+      "dld_fee_aed": 37200.0,
+      "admin_fee_aed": 4200,
+      "oqood_fee_aed": 18400,
+      "total_due_aed": 989800.0,
+      "construction_payments_aed": 744000.0,
+      "handover_payment_aed": 186000.0
+    },
+    "status": "handed_over",
+    "sales_agent": "Miss Christina Smith",
+    "broker": "Strickland, Hughes and Clark",
+    "broker_commission_aed": 46500.0
+  },
+  {
+    "transaction_id": "TXN-D2F45AB8F1",
+    "customer": {
+      "customer_id": "CUST-6F760004",
+      "name": "Dustin Clark",
+      "email": "shuff@example.net",
+      "phone": "+971 57 179 6738",
+      "nationality": "UAE",
+      "emirates_id": "784-1967-4211607-0",
+      "passport_number": null,
+      "address": "31134 Owens Throughway Suite 377\nFritzview, MP 95531",
+      "kyc_status": "under_review",
+      "customer_type": "individual",
+      "bank_name": "First Abu Dhabi Bank",
+      "account_number": "GB02AIVA29049635735141"
+    },
+    "property": {
+      "unit_id": "DAMAC-AYK-2005",
+      "project_name": "AYKON City",
+      "project_type": "apartment",
+      "location": "Sheikh Zayed Road",
+      "unit_type": "2BR",
+      "unit_number": "2005",
+      "area_sqft": 1152,
+      "price_aed": 2092000,
+      "price_per_sqft": 1816
+    },
+    "payment_plan": "75/25",
+    "dates": {
+      "booking_date": "2025-02-03",
+      "spa_date": "2025-02-19",
+      "expected_handover": "2026-03-19"
+    },
+    "financials": {
+      "property_price_aed": 2092000,
+      "dld_fee_aed": 83680.0,
+      "admin_fee_aed": 4200,
+      "oqood_fee_aed": 46080,
+      "total_due_aed": 2225960.0,
+      "construction_payments_aed": 1569000.0,
+      "handover_payment_aed": 523000.0
+    },
+    "status": "snagging",
+    "sales_agent": "Paige Conley",
+    "broker": null,
+    "broker_commission_aed": 0
+  },
+  {
+    "transaction_id": "TXN-E584CF153E",
+    "customer": {
+      "customer_id": "CUST-5143B88C",
+      "name": "Jordan Valdez",
+      "email": "sbrooks@example.net",
+      "phone": "+971 52 371 9610",
+      "nationality": "Germany",
+      "emirates_id": null,
+      "passport_number": "353229868",
+      "address": "096 Green Port\nMitchellton, AS 74725",
+      "kyc_status": "under_review",
+      "customer_type": "individual",
+      "bank_name": "Commercial Bank of Dubai",
+      "account_number": "GB35XJBJ15711898905326"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-E388",
+      "project_name": "DAMAC Islands",
+      "project_type": "villa",
+      "location": "Dubai Islands",
+      "unit_type": "3BR Villa",
+      "unit_number": "E388",
+      "area_sqft": 11489,
+      "price_aed": 15832000,
+      "price_per_sqft": 1378
+    },
+    "payment_plan": "80/20",
+    "dates": {
+      "booking_date": "2025-03-12",
+      "spa_date": "2025-04-02",
+      "expected_handover": "2027-10-12"
+    },
+    "financials": {
+      "property_price_aed": 15832000,
+      "dld_fee_aed": 633280.0,
+      "admin_fee_aed": 4200,
+      "oqood_fee_aed": 459560,
+      "total_due_aed": 16929040.0,
+      "construction_payments_aed": 12665600.0,
+      "handover_payment_aed": 3166400.0
+    },
+    "status": "ready_for_handover",
+    "sales_agent": "Hannah Rodriguez",
+    "broker": "Conner-Munoz",
+    "broker_commission_aed": 0
+  },
+  {
+    "transaction_id": "TXN-CE8CE20690",
+    "customer": {
+      "customer_id": "CUST-B2F9DA8E",
+      "name": "Jessica Griffin",
+      "email": "jonesandre@example.org",
+      "phone": "+971 56 511 4333",
+      "nationality": "Germany",
+      "emirates_id": null,
+      "passport_number": "I57287942",
+      "address": "2048 Bailey Ville\nKnoxbury, VT 34701",
+      "kyc_status": "verified",
+      "customer_type": "corporate",
+      "bank_name": "Dubai Islamic Bank",
+      "account_number": "GB65TCEP45067098154412"
+    },
+    "property": {
+      "unit_id": "DAMAC-AYK-4702",
+      "project_name": "AYKON City",
+      "project_type": "apartment",
+      "location": "Sheikh Zayed Road",
+      "unit_type": "Studio",
+      "unit_number": "4702",
+      "area_sqft": 495,
+      "price_aed": 1239000,
+      "price_per_sqft": 2504
+    },
+    "payment_plan": "75/25",
+    "dates": {
+      "booking_date": "2025-02-04",
+      "spa_date": "2025-03-05",
+      "expected_handover": "2026-10-04"
+    },
+    "financials": {
+      "property_price_aed": 1239000,
+      "dld_fee_aed": 49560.0,
+      "admin_fee_aed": 4200,
+      "oqood_fee_aed": 19800,
+      "total_due_aed": 1312560.0,
+      "construction_payments_aed": 929250.0,
+      "handover_payment_aed": 309750.0
+    },
+    "status": "snagging",
+    "sales_agent": "Michelle Delgado",
+    "broker": null,
+    "broker_commission_aed": 61950.0
+  },
+  {
+    "transaction_id": "TXN-49E3F74518",
+    "customer": {
+      "customer_id": "CUST-9A4E98C2",
+      "name": "John Mccoy",
+      "email": "avilanancy@example.org",
+      "phone": "+971 51 689 9448",
+      "nationality": "China",
+      "emirates_id": null,
+      "passport_number": "941335971",
+      "address": "2092 Maldonado Road Apt. 186\nPort Ianview, VT 62507",
+      "kyc_status": "under_review",
+      "customer_type": "individual",
+      "bank_name": "Dubai Islamic Bank",
+      "account_number": "GB54IMZS36885486289824"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-B60",
+      "project_name": "DAMAC Hills",
+      "project_type": "villa",
+      "location": "Dubailand",
+      "unit_type": "Mansion",
+      "unit_number": "B60",
+      "area_sqft": 8250,
+      "price_aed": 13753000,
+      "price_per_sqft": 1667
+    },
+    "payment_plan": "75/25",
+    "dates": {
+      "booking_date": "2024-05-13",
+      "spa_date": "2024-05-20",
+      "expected_handover": "2025-12-01"
+    },
+    "financials": {
+      "property_price_aed": 13753000,
+      "dld_fee_aed": 550120.0,
+      "admin_fee_aed": 4200,
+      "oqood_fee_aed": 330000,
+      "total_due_aed": 14637320.0,
+      "construction_payments_aed": 10314750.0,
+      "handover_payment_aed": 3438250.0
+    },
+    "status": "ready_for_handover",
+    "sales_agent": "Shannon Mcneil",
+    "broker": "Miller-Garcia",
+    "broker_commission_aed": 687650.0
+  },
+  {
+    "transaction_id": "TXN-D97EC7C8CB",
+    "customer": {
+      "customer_id": "CUST-587735F3",
+      "name": "Connie Smith",
+      "email": "bgraves@example.net",
+      "phone": "+971 57 100 3787",
+      "nationality": "Pakistan",
+      "emirates_id": null,
+      "passport_number": "086317634",
+      "address": "1282 Steven Manors\nEast Cory, MD 78493",
+      "kyc_status": "verified",
+      "customer_type": "corporate",
+      "bank_name": "Dubai Islamic Bank",
+      "account_number": "GB59BQHC64344917216312"
+    },
+    "property": {
+      "unit_id": "DAMAC-ZAD-411",
+      "project_name": "Zada Tower",
+      "project_type": "apartment",
+      "location": "Business Bay",
+      "unit_type": "Studio",
+      "unit_number": "411",
+      "area_sqft": 521,
+      "price_aed": 1704000,
+      "price_per_sqft": 3270
+    },
+    "payment_plan": "50/50",
+    "dates": {
+      "booking_date": "2024-05-08",
+      "spa_date": "2024-05-19",
+      "expected_handover": "2026-04-23"
+    },
+    "financials": {
+      "property_price_aed": 1704000,
+      "dld_fee_aed": 68160.0,
+      "admin_fee_aed": 4200,
+      "oqood_fee_aed": 20840,
+      "total_due_aed": 1797200.0,
+      "construction_payments_aed": 852000.0,
+      "handover_payment_aed": 852000.0
+    },
+    "status": "booked",
+    "sales_agent": "Courtney Lewis",
+    "broker": null,
+    "broker_commission_aed": 85200.0
+  },
+  {
+    "transaction_id": "TXN-4661DC730B",
+    "customer": {
+      "customer_id": "CUST-8EFC1C7E",
+      "name": "Melissa Smith",
+      "email": "bellrobert@example.org",
+      "phone": "+971 50 195 4720",
+      "nationality": "Russia",
+      "emirates_id": null,
+      "passport_number": "K39092017",
+      "address": "87317 Sandra Ports Suite 875\nRossmouth, LA 60938",
+      "kyc_status": "under_review",
+      "customer_type": "individual",
+      "bank_name": "Mashreq Bank",
+      "account_number": "GB84RQAG68503987563313"
+    },
+    "property": {
+      "unit_id": "DAMAC-SAF-2906",
+      "project_name": "Safa One",
+      "project_type": "apartment",
+      "location": "Business Bay",
+      "unit_type": "Studio",
+      "unit_number": "2906",
+      "area_sqft": 437,
+      "price_aed": 1188000,
+      "price_per_sqft": 2719
+    },
+    "payment_plan": "1% Monthly",
+    "dates": {
+      "booking_date": "2025-04-23",
+      "spa_date": "2025-05-04",
+      "expected_handover": "2027-05-23"
+    },
+    "financials": {
+      "property_price_aed": 1188000,
+      "dld_fee_aed": 47520.0,
+      "admin_fee_aed": 4200,
+      "oqood_fee_aed": 17480,
+      "total_due_aed": 1257200.0,
+      "construction_payments_aed": 712800.0,
+      "handover_payment_aed": 475200.0
+    },
+    "status": "under_construction",
+    "sales_agent": "Alex Ramirez",
+    "broker": null,
+    "broker_commission_aed": 59400.0
+  },
+  {
+    "transaction_id": "TXN-11A6703C19",
+    "customer": {
+      "customer_id": "CUST-3A04053B",
+      "name": "Elizabeth Valdez",
+      "email": "shaunortiz@example.org",
+      "phone": "+971 57 933 8366",
+      "nationality": "Jordan",
+      "emirates_id": null,
+      "passport_number": "380261422",
+      "address": "97683 Clayton Falls Suite 085\nChristinashire, MI 53594",
+      "kyc_status": "verified",
+      "customer_type": "corporate",
+      "bank_name": "Emirates NBD",
+      "account_number": "GB72TDGT84070438024871"
+    },
+    "property": {
+      "unit_id": "DAMAC-SAF-2504",
+      "project_name": "Safa One",
+      "project_type": "apartment",
+      "location": "Business Bay",
+      "unit_type": "1BR",
+      "unit_number": "2504",
+      "area_sqft": 727,
+      "price_aed": 2447000,
+      "price_per_sqft": 3366
+    },
+    "payment_plan": "1% Monthly",
+    "dates": {
+      "booking_date": "2024-10-20",
+      "spa_date": "2024-11-09",
+      "expected_handover": "2026-03-12"
+    },
+    "financials": {
+      "property_price_aed": 2447000,
+      "dld_fee_aed": 97880.0,
+      "admin_fee_aed": 4200,
+      "oqood_fee_aed": 29080,
+      "total_due_aed": 2578160.0,
+      "construction_payments_aed": 1468200.0,
+      "handover_payment_aed": 978800.0
+    },
+    "status": "handed_over",
+    "sales_agent": "Jessica Conrad",
+    "broker": null,
+    "broker_commission_aed": 122350.0
+  },
+  {
+    "transaction_id": "TXN-6E82DF0989",
+    "customer": {
+      "customer_id": "CUST-835CEBE3",
+      "name": "Rodney Green",
+      "email": "nicholaswoods@example.org",
+      "phone": "+971 50 218 4665",
+      "nationality": "China",
+      "emirates_id": null,
+      "passport_number": "D67254684",
+      "address": "76928 Boyle Cove\nNorth Jenniferville, NM 98314",
+      "kyc_status": "verified",
+      "customer_type": "corporate",
+      "bank_name": "First Abu Dhabi Bank",
+      "account_number": "GB46ZBQV87462213728639"
+    },
+    "property": {
+      "unit_id": "DAMAC-SAF-3701",
+      "project_name": "Safa One",
+      "project_type": "apartment",
+      "location": "Business Bay",
+      "unit_type": "Studio",
+      "unit_number": "3701",
+      "area_sqft": 410,
+      "price_aed": 970000,
+      "price_per_sqft": 2365
+    },
+    "payment_plan": "75/25",
+    "dates": {
+      "booking_date": "2025-11-09",
+      "spa_date": "2025-11-20",
+      "expected_handover": "2028-06-25"
+    },
+    "financials": {
+      "property_price_aed": 970000,
+      "dld_fee_aed": 38800.0,
+      "admin_fee_aed": 4200,
+      "oqood_fee_aed": 16400,
+      "total_due_aed": 1029400.0,
+      "construction_payments_aed": 727500.0,
+      "handover_payment_aed": 242500.0
+    },
+    "status": "handed_over",
+    "sales_agent": "Kimberly King",
+    "broker": "Bennett Group",
+    "broker_commission_aed": 48500.0
+  },
+  {
+    "transaction_id": "TXN-DBDEDABBAD",
+    "customer": {
+      "customer_id": "CUST-5100CBAB",
+      "name": "Kevin Meza",
+      "email": "deborah03@example.net",
+      "phone": "+971 53 533 7241",
+      "nationality": "India",
+      "emirates_id": null,
+      "passport_number": "882583900",
+      "address": "809 Harrison Prairie\nEllisfurt, NE 16624",
+      "kyc_status": "verified",
+      "customer_type": "corporate",
+      "bank_name": "RAKBANK",
+      "account_number": "GB87QXUS91502473170560"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-A152",
+      "project_name": "DAMAC Islands",
+      "project_type": "villa",
+      "location": "Dubai Islands",
+      "unit_type": "4BR Villa",
+      "unit_number": "A152",
+      "area_sqft": 3338,
+      "price_aed": 3595000,
+      "price_per_sqft": 1077
+    },
+    "payment_plan": "1% Monthly",
+    "dates": {
+      "booking_date": "2024-05-27",
+      "spa_date": "2024-06-20",
+      "expected_handover": "2027-05-11"
+    },
+    "financials": {
+      "property_price_aed": 3595000,
+      "dld_fee_aed": 143800.0,
+      "admin_fee_aed": 4200,
+      "oqood_fee_aed": 133520,
+      "total_due_aed": 3876520.0,
+      "construction_payments_aed": 2157000.0,
+      "handover_payment_aed": 1438000.0
+    },
+    "status": "handed_over",
+    "sales_agent": "Deanna Fox",
+    "broker": null,
+    "broker_commission_aed": 179750.0
+  },
+  {
+    "transaction_id": "TXN-66AFF96492",
+    "customer": {
+      "customer_id": "CUST-9652B794",
+      "name": "Jennifer Smith",
+      "email": "gerald12@example.com",
+      "phone": "+971 52 122 7479",
+      "nationality": "Lebanon",
+      "emirates_id": null,
+      "passport_number": "P22321757",
+      "address": "USS Parker\nFPO AA 59420",
+      "kyc_status": "under_review",
+      "customer_type": "individual",
+      "bank_name": "First Abu Dhabi Bank",
+      "account_number": "GB36LLZE05005172389684"
+    },
+    "property": {
+      "unit_id": "DAMAC-CAV-408",
+      "project_name": "Cavalli Tower",
+      "project_type": "apartment",
+      "location": "Dubai Marina",
+      "unit_type": "Penthouse",
+      "unit_number": "408",
+      "area_sqft": 7887,
+      "price_aed": 28693000,
+      "price_per_sqft": 3638
+    },
+    "payment_plan": "75/25",
+    "dates": {
+      "booking_date": "2025-03-09",
+      "spa_date": "2025-03-18",
+      "expected_handover": "2026-08-17"
+    },
+    "financials": {
+      "property_price_aed": 28693000,
+      "dld_fee_aed": 1147720.0,
+      "admin_fee_aed": 4200,
+      "oqood_fee_aed": 315480,
+      "total_due_aed": 30160400.0,
+      "construction_payments_aed": 21519750.0,
+      "handover_payment_aed": 7173250.0
+    },
+    "status": "snagging",
+    "sales_agent": "Danielle Benson",
+    "broker": "Brown, West and Jackson",
+    "broker_commission_aed": 0
+  },
+  {
+    "transaction_id": "TXN-FF8973184A",
+    "customer": {
+      "customer_id": "CUST-4B97B66A",
+      "name": "Andrew Wong",
+      "email": "larsonkimberly@example.org",
+      "phone": "+971 52 466 6357",
+      "nationality": "Saudi Arabia",
+      "emirates_id": null,
+      "passport_number": "K51125575",
+      "address": "Unit 5822 Box 6273\nDPO AP 19786",
+      "kyc_status": "pending",
+      "customer_type": "individual",
+      "bank_name": "Abu Dhabi Commercial Bank",
+      "account_number": "GB46VWTX52715218236723"
+    },
+    "property": {
+      "unit_id": "DAMAC-AYK-405",
+      "project_name": "AYKON City",
+      "project_type": "apartment",
+      "location": "Sheikh Zayed Road",
+      "unit_type": "2BR",
+      "unit_number": "405",
+      "area_sqft": 1260,
+      "price_aed": 4452000,
+      "price_per_sqft": 3533
+    },
+    "payment_plan": "80/20",
+    "dates": {
+      "booking_date": "2025-08-06",
+      "spa_date": "2025-08-30",
+      "expected_handover": "2027-07-16"
+    },
+    "financials": {
+      "property_price_aed": 4452000,
+      "dld_fee_aed": 178080.0,
+      "admin_fee_aed": 4200,
+      "oqood_fee_aed": 50400,
+      "total_due_aed": 4684680.0,
+      "construction_payments_aed": 3561600.0,
+      "handover_payment_aed": 890400.0
+    },
+    "status": "under_construction",
+    "sales_agent": "Eric Hanson",
+    "broker": "Smith-Tanner",
+    "broker_commission_aed": 0
+  },
+  {
+    "transaction_id": "TXN-4C3E24B94F",
+    "customer": {
+      "customer_id": "CUST-26BE6174",
+      "name": "Bradley Ho",
+      "email": "leetyler@example.com",
+      "phone": "+971 55 979 5242",
+      "nationality": "France",
+      "emirates_id": null,
+      "passport_number": "035400329",
+      "address": "315 Porter Groves Suite 816\nBarrbury, ID 21821",
+      "kyc_status": "under_review",
+      "customer_type": "corporate",
+      "bank_name": "First Abu Dhabi Bank",
+      "account_number": "GB84XKFG00630312783427"
+    },
+    "property": {
+      "unit_id": "DAMAC-SAF-103",
+      "project_name": "Safa Two",
+      "project_type": "apartment",
+      "location": "Business Bay",
+      "unit_type": "1BR",
+      "unit_number": "103",
+      "area_sqft": 951,
+      "price_aed": 2822000,
+      "price_per_sqft": 2967
+    },
+    "payment_plan": "50/50",
+    "dates": {
+      "booking_date": "2024-02-13",
+      "spa_date": "2024-03-08",
+      "expected_handover": "2025-03-16"
+    },
+    "financials": {
+      "property_price_aed": 2822000,
+      "dld_fee_aed": 112880.0,
+      "admin_fee_aed": 4200,
+      "oqood_fee_aed": 38040,
+      "total_due_aed": 2977120.0,
+      "construction_payments_aed": 1411000.0,
+      "handover_payment_aed": 1411000.0
+    },
+    "status": "snagging",
+    "sales_agent": "Yvonne Cook",
+    "broker": null,
+    "broker_commission_aed": 141100.0
+  },
+  {
+    "transaction_id": "TXN-D5AD4C3098",
+    "customer": {
+      "customer_id": "CUST-55ACA5E9",
+      "name": "Kyle Cook",
+      "email": "matthew20@example.net",
+      "phone": "+971 56 790 5577",
+      "nationality": "India",
+      "emirates_id": null,
+      "passport_number": "R39442734",
+      "address": "47739 Ryan Shoal\nPort Amanda, CO 12577",
+      "kyc_status": "pending",
+      "customer_type": "individual",
+      "bank_name": "Dubai Islamic Bank",
+      "account_number": "GB83UCOW22080197129719"
+    },
+    "property": {
+      "unit_id": "DAMAC-ZAD-1611",
+      "project_name": "Zada Tower",
+      "project_type": "apartment",
+      "location": "Business Bay",
+      "unit_type": "1BR",
+      "unit_number": "1611",
+      "area_sqft": 927,
+      "price_aed": 3501000,
+      "price_per_sqft": 3777
+    },
+    "payment_plan": "80/20",
+    "dates": {
+      "booking_date": "2025-08-25",
+      "spa_date": "2025-09-05",
+      "expected_handover": "2026-11-27"
+    },
+    "financials": {
+      "property_price_aed": 3501000,
+      "dld_fee_aed": 140040.0,
+      "admin_fee_aed": 4200,
+      "oqood_fee_aed": 37080,
+      "total_due_aed": 3682320.0,
+      "construction_payments_aed": 2800800.0,
+      "handover_payment_aed": 700200.0
+    },
+    "status": "spa_signed",
+    "sales_agent": "Tiffany James",
+    "broker": null,
+    "broker_commission_aed": 175050.0
+  },
+  {
+    "transaction_id": "TXN-017A6B0E37",
+    "customer": {
+      "customer_id": "CUST-1EEAE14A",
+      "name": "Michael Lopez",
+      "email": "hwhitehead@example.org",
+      "phone": "+971 53 949 6147",
+      "nationality": "Saudi Arabia",
+      "emirates_id": null,
+      "passport_number": "J59008459",
+      "address": "672 Sullivan Lake Suite 439\nPetersbury, WY 35440",
+      "kyc_status": "pending",
+      "customer_type": "corporate",
+      "bank_name": "Mashreq Bank",
+      "account_number": "GB69FSVG18622060865628"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-E269",
+      "project_name": "DAMAC Islands",
+      "project_type": "villa",
+      "location": "Dubai Islands",
+      "unit_type": "3BR Villa",
+      "unit_number": "E269",
+      "area_sqft": 14767,
+      "price_aed": 12995000,
+      "price_per_sqft": 880
+    },
+    "payment_plan": "1% Monthly",
+    "dates": {
+      "booking_date": "2025-12-18",
+      "spa_date": "2026-01-10",
+      "expected_handover": "2027-12-20"
+    },
+    "financials": {
+      "property_price_aed": 12995000,
+      "dld_fee_aed": 519800.0,
+      "admin_fee_aed": 4200,
+      "oqood_fee_aed": 590680,
+      "total_due_aed": 14109680.0,
+      "construction_payments_aed": 7797000.0,
+      "handover_payment_aed": 5198000.0
+    },
+    "status": "under_construction",
+    "sales_agent": "Matthew Hill",
+    "broker": null,
+    "broker_commission_aed": 0
+  }
+]

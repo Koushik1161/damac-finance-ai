@@ -1,0 +1,5002 @@
+[
+  {
+    "receipt_id": "RCP-0799943C",
+    "transaction_id": "TXN-56D41E8946",
+    "customer": {
+      "customer_id": "CUST-F6248120",
+      "name": "Jessica Newman"
+    },
+    "property": {
+      "unit_id": "DAMAC-SAF-504",
+      "project_name": "Safa One"
+    },
+    "payment": {
+      "date": "2025-05-12",
+      "type": "Construction Milestone",
+      "method": "Bank Transfer",
+      "amount_aed": 1189485.63,
+      "reference": "REF-784305"
+    },
+    "bank_details": {
+      "bank_name": "RAKBANK",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-75133",
+    "status": "pending_clearance"
+  },
+  {
+    "receipt_id": "RCP-BB893CB9",
+    "transaction_id": "TXN-C234902672",
+    "customer": {
+      "customer_id": "CUST-F1255CC3",
+      "name": "Melanie Wright"
+    },
+    "property": {
+      "unit_id": "DAMAC-TRU-C378",
+      "project_name": "Trump DAMAC Golf"
+    },
+    "payment": {
+      "date": "2025-11-20",
+      "type": "Monthly Installment",
+      "method": "Bank Transfer",
+      "amount_aed": 142020.0,
+      "reference": "REF-830547"
+    },
+    "bank_details": {
+      "bank_name": "First Abu Dhabi Bank",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-77937",
+    "status": "bounced"
+  },
+  {
+    "receipt_id": "RCP-60543FE0",
+    "transaction_id": "TXN-1BCEFB9224",
+    "customer": {
+      "customer_id": "CUST-8049E811",
+      "name": "Marie Wu"
+    },
+    "property": {
+      "unit_id": "DAMAC-SAF-3505",
+      "project_name": "Safa Two"
+    },
+    "payment": {
+      "date": "2026-01-08",
+      "type": "Monthly Installment",
+      "method": "Bank Transfer",
+      "amount_aed": 23860.0,
+      "reference": "REF-909798"
+    },
+    "bank_details": {
+      "bank_name": "First Abu Dhabi Bank",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-44468",
+    "status": "pending_clearance"
+  },
+  {
+    "receipt_id": "RCP-41420C42",
+    "transaction_id": "TXN-B5D4E376D9",
+    "customer": {
+      "customer_id": "CUST-BF457294",
+      "name": "James Davis II"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-B246",
+      "project_name": "DAMAC Islands"
+    },
+    "payment": {
+      "date": "2025-10-25",
+      "type": "Monthly Installment",
+      "method": "Bank Transfer",
+      "amount_aed": 65440.0,
+      "reference": "REF-994557"
+    },
+    "bank_details": {
+      "bank_name": "Dubai Islamic Bank",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-16962",
+    "status": "pending_clearance"
+  },
+  {
+    "receipt_id": "RCP-1041C4CC",
+    "transaction_id": "TXN-C5E45591AB",
+    "customer": {
+      "customer_id": "CUST-C17997DA",
+      "name": "Angela Leonard"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-E158",
+      "project_name": "DAMAC Hills"
+    },
+    "payment": {
+      "date": "2026-01-01",
+      "type": "Handover Payment",
+      "method": "Bank Transfer",
+      "amount_aed": 4867000.0,
+      "reference": "REF-467647"
+    },
+    "bank_details": {
+      "bank_name": "Commercial Bank of Dubai",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-42925",
+    "status": "bounced"
+  },
+  {
+    "receipt_id": "RCP-E1F0F974",
+    "transaction_id": "TXN-37C6F426ED",
+    "customer": {
+      "customer_id": "CUST-3009A26E",
+      "name": "Sandra Lee"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-4503",
+      "project_name": "DAMAC Bay"
+    },
+    "payment": {
+      "date": "2025-07-16",
+      "type": "Monthly Installment",
+      "method": "Credit Card",
+      "amount_aed": 9930.0,
+      "reference": "REF-162616"
+    },
+    "bank_details": {
+      "bank_name": "RAKBANK",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-30399",
+    "status": "bounced"
+  },
+  {
+    "receipt_id": "RCP-44114B4A",
+    "transaction_id": "TXN-DA3FD9AB21",
+    "customer": {
+      "customer_id": "CUST-009D07F0",
+      "name": "Michael Walker"
+    },
+    "property": {
+      "unit_id": "DAMAC-TRU-D12",
+      "project_name": "Trump DAMAC Golf"
+    },
+    "payment": {
+      "date": "2025-02-23",
+      "type": "Admin Fee",
+      "method": "Bank Transfer",
+      "amount_aed": 4200,
+      "reference": "REF-159979"
+    },
+    "bank_details": {
+      "bank_name": "RAKBANK",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-47095",
+    "status": "cleared"
+  },
+  {
+    "receipt_id": "RCP-03524D32",
+    "transaction_id": "TXN-921ED8B06E",
+    "customer": {
+      "customer_id": "CUST-71515F0B",
+      "name": "Mrs. Samantha Jones"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-C476",
+      "project_name": "DAMAC Islands"
+    },
+    "payment": {
+      "date": "2025-03-24",
+      "type": "Booking Amount",
+      "method": "Credit Card",
+      "amount_aed": 765200.0,
+      "reference": "REF-218450"
+    },
+    "bank_details": {
+      "bank_name": "First Abu Dhabi Bank",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-90369",
+    "status": "cleared"
+  },
+  {
+    "receipt_id": "RCP-E2B2EECD",
+    "transaction_id": "TXN-1A69629D22",
+    "customer": {
+      "customer_id": "CUST-A007C842",
+      "name": "Richard Winters"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-3111",
+      "project_name": "DAMAC Bay 2"
+    },
+    "payment": {
+      "date": "2025-04-18",
+      "type": "Booking Amount",
+      "method": "Cheque",
+      "amount_aed": 1851000.0,
+      "reference": "REF-877407"
+    },
+    "bank_details": {
+      "bank_name": "Dubai Islamic Bank",
+      "cheque_number": "423208"
+    },
+    "escrow_account": "RERA-ESC-18395",
+    "status": "pending_clearance"
+  },
+  {
+    "receipt_id": "RCP-AC4F9388",
+    "transaction_id": "TXN-71F95D8A45",
+    "customer": {
+      "customer_id": "CUST-32022C98",
+      "name": "Amy Weaver"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-D336",
+      "project_name": "DAMAC Lagoons"
+    },
+    "payment": {
+      "date": "2025-10-17",
+      "type": "Booking Amount",
+      "method": "Credit Card",
+      "amount_aed": 1114800.0,
+      "reference": "REF-881835"
+    },
+    "bank_details": {
+      "bank_name": "First Abu Dhabi Bank",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-19457",
+    "status": "bounced"
+  },
+  {
+    "receipt_id": "RCP-F2848C23",
+    "transaction_id": "TXN-0EF2344B07",
+    "customer": {
+      "customer_id": "CUST-7D7F8C9B",
+      "name": "Donald Foster"
+    },
+    "property": {
+      "unit_id": "DAMAC-SAF-3205",
+      "project_name": "Safa One"
+    },
+    "payment": {
+      "date": "2025-07-08",
+      "type": "Admin Fee",
+      "method": "Bank Transfer",
+      "amount_aed": 4200,
+      "reference": "REF-735289"
+    },
+    "bank_details": {
+      "bank_name": "Emirates NBD",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-36779",
+    "status": "cleared"
+  },
+  {
+    "receipt_id": "RCP-2A10D88D",
+    "transaction_id": "TXN-0AA60A3FF1",
+    "customer": {
+      "customer_id": "CUST-A43A5EC8",
+      "name": "James Maddox"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-A82",
+      "project_name": "DAMAC Lagoons"
+    },
+    "payment": {
+      "date": "2026-01-13",
+      "type": "Construction Milestone",
+      "method": "Bank Transfer",
+      "amount_aed": 947722.84,
+      "reference": "REF-563272"
+    },
+    "bank_details": {
+      "bank_name": "First Abu Dhabi Bank",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-62032",
+    "status": "bounced"
+  },
+  {
+    "receipt_id": "RCP-624E0653",
+    "transaction_id": "TXN-8FDBE249F0",
+    "customer": {
+      "customer_id": "CUST-0494C83B",
+      "name": "Travis Wood"
+    },
+    "property": {
+      "unit_id": "DAMAC-TRU-C227",
+      "project_name": "Trump DAMAC Golf"
+    },
+    "payment": {
+      "date": "2025-07-07",
+      "type": "Handover Payment",
+      "method": "Bank Transfer",
+      "amount_aed": 5581500.0,
+      "reference": "REF-346880"
+    },
+    "bank_details": {
+      "bank_name": "Abu Dhabi Commercial Bank",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-96217",
+    "status": "cleared"
+  },
+  {
+    "receipt_id": "RCP-34B1E25B",
+    "transaction_id": "TXN-AB55AA0283",
+    "customer": {
+      "customer_id": "CUST-415C82B9",
+      "name": "Andrea Moody"
+    },
+    "property": {
+      "unit_id": "DAMAC-SAF-901",
+      "project_name": "Safa Two"
+    },
+    "payment": {
+      "date": "2025-04-26",
+      "type": "Handover Payment",
+      "method": "Manager's Cheque",
+      "amount_aed": 1741500.0,
+      "reference": "REF-629970"
+    },
+    "bank_details": {
+      "bank_name": "Commercial Bank of Dubai",
+      "cheque_number": "888948"
+    },
+    "escrow_account": "RERA-ESC-96385",
+    "status": "pending_clearance"
+  },
+  {
+    "receipt_id": "RCP-4FDFC541",
+    "transaction_id": "TXN-CCF0DF0AE8",
+    "customer": {
+      "customer_id": "CUST-24E2DF5E",
+      "name": "Erin Kennedy"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-1204",
+      "project_name": "DAMAC Bay 2"
+    },
+    "payment": {
+      "date": "2025-10-22",
+      "type": "Admin Fee",
+      "method": "Cheque",
+      "amount_aed": 4200,
+      "reference": "REF-888765"
+    },
+    "bank_details": {
+      "bank_name": "Abu Dhabi Commercial Bank",
+      "cheque_number": "213258"
+    },
+    "escrow_account": "RERA-ESC-74777",
+    "status": "bounced"
+  },
+  {
+    "receipt_id": "RCP-EFC03301",
+    "transaction_id": "TXN-27BCB0E9E3",
+    "customer": {
+      "customer_id": "CUST-2D1757BC",
+      "name": "Tyler Mccullough"
+    },
+    "property": {
+      "unit_id": "DAMAC-TRU-E2",
+      "project_name": "Trump DAMAC Golf"
+    },
+    "payment": {
+      "date": "2025-07-17",
+      "type": "DLD Fee",
+      "method": "Bank Transfer",
+      "amount_aed": 366480.0,
+      "reference": "REF-666615"
+    },
+    "bank_details": {
+      "bank_name": "Commercial Bank of Dubai",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-61220",
+    "status": "pending_clearance"
+  },
+  {
+    "receipt_id": "RCP-68B3F875",
+    "transaction_id": "TXN-D45CA6F976",
+    "customer": {
+      "customer_id": "CUST-4E8C7C41",
+      "name": "Jacob Baxter"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-B66",
+      "project_name": "DAMAC Hills 2"
+    },
+    "payment": {
+      "date": "2025-02-15",
+      "type": "Admin Fee",
+      "method": "Bank Transfer",
+      "amount_aed": 4200,
+      "reference": "REF-133553"
+    },
+    "bank_details": {
+      "bank_name": "Abu Dhabi Commercial Bank",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-30305",
+    "status": "cleared"
+  },
+  {
+    "receipt_id": "RCP-90C16785",
+    "transaction_id": "TXN-554C0FE418",
+    "customer": {
+      "customer_id": "CUST-7B017974",
+      "name": "Amanda Harris"
+    },
+    "property": {
+      "unit_id": "DAMAC-ZAD-602",
+      "project_name": "Zada Tower"
+    },
+    "payment": {
+      "date": "2025-08-16",
+      "type": "Admin Fee",
+      "method": "Bank Transfer",
+      "amount_aed": 4200,
+      "reference": "REF-225016"
+    },
+    "bank_details": {
+      "bank_name": "Mashreq Bank",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-91761",
+    "status": "bounced"
+  },
+  {
+    "receipt_id": "RCP-15148A49",
+    "transaction_id": "TXN-BF9157A925",
+    "customer": {
+      "customer_id": "CUST-2BF4B573",
+      "name": "Robin Floyd"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-B109",
+      "project_name": "DAMAC Hills"
+    },
+    "payment": {
+      "date": "2025-04-08",
+      "type": "Construction Milestone",
+      "method": "Bank Transfer",
+      "amount_aed": 1200865.47,
+      "reference": "REF-591098"
+    },
+    "bank_details": {
+      "bank_name": "Dubai Islamic Bank",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-29307",
+    "status": "cleared"
+  },
+  {
+    "receipt_id": "RCP-361AE0D1",
+    "transaction_id": "TXN-7BA43BC453",
+    "customer": {
+      "customer_id": "CUST-54FB513B",
+      "name": "Timothy Vargas"
+    },
+    "property": {
+      "unit_id": "DAMAC-TRU-B60",
+      "project_name": "Trump DAMAC Golf"
+    },
+    "payment": {
+      "date": "2025-07-26",
+      "type": "Handover Payment",
+      "method": "Cheque",
+      "amount_aed": 6527200.0,
+      "reference": "REF-350893"
+    },
+    "bank_details": {
+      "bank_name": "Emirates NBD",
+      "cheque_number": "429423"
+    },
+    "escrow_account": "RERA-ESC-25685",
+    "status": "bounced"
+  },
+  {
+    "receipt_id": "RCP-6C1CB21B",
+    "transaction_id": "TXN-92322E656D",
+    "customer": {
+      "customer_id": "CUST-72EDC3E7",
+      "name": "John Proctor"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-A369",
+      "project_name": "DAMAC Lagoons"
+    },
+    "payment": {
+      "date": "2025-09-20",
+      "type": "Handover Payment",
+      "method": "Credit Card",
+      "amount_aed": 2525000.0,
+      "reference": "REF-750326"
+    },
+    "bank_details": {
+      "bank_name": "RAKBANK",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-19259",
+    "status": "bounced"
+  },
+  {
+    "receipt_id": "RCP-417B5C8A",
+    "transaction_id": "TXN-BA16BF93EE",
+    "customer": {
+      "customer_id": "CUST-DB9C509D",
+      "name": "Pamela Jefferson"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-D177",
+      "project_name": "DAMAC Hills"
+    },
+    "payment": {
+      "date": "2026-01-14",
+      "type": "Handover Payment",
+      "method": "Bank Transfer",
+      "amount_aed": 979600.0,
+      "reference": "REF-884284"
+    },
+    "bank_details": {
+      "bank_name": "Dubai Islamic Bank",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-48404",
+    "status": "bounced"
+  },
+  {
+    "receipt_id": "RCP-047BC303",
+    "transaction_id": "TXN-F91FE68BD3",
+    "customer": {
+      "customer_id": "CUST-33A986FA",
+      "name": "Cody Williams"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-E225",
+      "project_name": "DAMAC Hills"
+    },
+    "payment": {
+      "date": "2025-06-28",
+      "type": "Handover Payment",
+      "method": "Cheque",
+      "amount_aed": 2919500.0,
+      "reference": "REF-688909"
+    },
+    "bank_details": {
+      "bank_name": "Dubai Islamic Bank",
+      "cheque_number": "668484"
+    },
+    "escrow_account": "RERA-ESC-57147",
+    "status": "bounced"
+  },
+  {
+    "receipt_id": "RCP-33EE5DC3",
+    "transaction_id": "TXN-6FAF933CBB",
+    "customer": {
+      "customer_id": "CUST-84A0A4AB",
+      "name": "Kara Dominguez"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-D401",
+      "project_name": "DAMAC Lagoons"
+    },
+    "payment": {
+      "date": "2025-07-10",
+      "type": "Monthly Installment",
+      "method": "Bank Transfer",
+      "amount_aed": 118330.0,
+      "reference": "REF-646032"
+    },
+    "bank_details": {
+      "bank_name": "Mashreq Bank",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-60048",
+    "status": "bounced"
+  },
+  {
+    "receipt_id": "RCP-08AF8BD0",
+    "transaction_id": "TXN-C2C6451F6E",
+    "customer": {
+      "customer_id": "CUST-18BB5963",
+      "name": "Tyler Edwards"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-4201",
+      "project_name": "DAMAC Bay 2"
+    },
+    "payment": {
+      "date": "2025-01-28",
+      "type": "Booking Amount",
+      "method": "Credit Card",
+      "amount_aed": 413900.0,
+      "reference": "REF-547416"
+    },
+    "bank_details": {
+      "bank_name": "Commercial Bank of Dubai",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-60262",
+    "status": "bounced"
+  },
+  {
+    "receipt_id": "RCP-99B598F1",
+    "transaction_id": "TXN-184F0E3DA8",
+    "customer": {
+      "customer_id": "CUST-3C69D5F0",
+      "name": "Timothy Collins"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-C229",
+      "project_name": "DAMAC Hills"
+    },
+    "payment": {
+      "date": "2025-02-28",
+      "type": "Construction Milestone",
+      "method": "Bank Transfer",
+      "amount_aed": 2201745.52,
+      "reference": "REF-356260"
+    },
+    "bank_details": {
+      "bank_name": "Emirates NBD",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-87984",
+    "status": "pending_clearance"
+  },
+  {
+    "receipt_id": "RCP-3365BDA6",
+    "transaction_id": "TXN-0884CC52F2",
+    "customer": {
+      "customer_id": "CUST-94876804",
+      "name": "Karen Kim"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-A347",
+      "project_name": "DAMAC Hills 2"
+    },
+    "payment": {
+      "date": "2025-06-04",
+      "type": "Monthly Installment",
+      "method": "Credit Card",
+      "amount_aed": 105800.0,
+      "reference": "REF-694386"
+    },
+    "bank_details": {
+      "bank_name": "Abu Dhabi Commercial Bank",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-58866",
+    "status": "cleared"
+  },
+  {
+    "receipt_id": "RCP-67513662",
+    "transaction_id": "TXN-B23771013F",
+    "customer": {
+      "customer_id": "CUST-1E37B8ED",
+      "name": "Theresa Perez"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-C154",
+      "project_name": "DAMAC Lagoons"
+    },
+    "payment": {
+      "date": "2025-09-25",
+      "type": "Admin Fee",
+      "method": "Bank Transfer",
+      "amount_aed": 4200,
+      "reference": "REF-621269"
+    },
+    "bank_details": {
+      "bank_name": "Dubai Islamic Bank",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-51532",
+    "status": "pending_clearance"
+  },
+  {
+    "receipt_id": "RCP-4C255FD6",
+    "transaction_id": "TXN-E0DED784B6",
+    "customer": {
+      "customer_id": "CUST-FB9CD84B",
+      "name": "Beth Burke"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-1008",
+      "project_name": "DAMAC Bay 2"
+    },
+    "payment": {
+      "date": "2025-07-30",
+      "type": "Handover Payment",
+      "method": "Cheque",
+      "amount_aed": 567750.0,
+      "reference": "REF-990342"
+    },
+    "bank_details": {
+      "bank_name": "RAKBANK",
+      "cheque_number": "784732"
+    },
+    "escrow_account": "RERA-ESC-34114",
+    "status": "cleared"
+  },
+  {
+    "receipt_id": "RCP-1332D235",
+    "transaction_id": "TXN-4836D7920E",
+    "customer": {
+      "customer_id": "CUST-714E19DE",
+      "name": "Stephanie Levine"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-E472",
+      "project_name": "DAMAC Lagoons"
+    },
+    "payment": {
+      "date": "2025-06-14",
+      "type": "Construction Milestone",
+      "method": "Credit Card",
+      "amount_aed": 2450813.9,
+      "reference": "REF-457241"
+    },
+    "bank_details": {
+      "bank_name": "Mashreq Bank",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-40214",
+    "status": "cleared"
+  },
+  {
+    "receipt_id": "RCP-65531240",
+    "transaction_id": "TXN-E98D20347D",
+    "customer": {
+      "customer_id": "CUST-B3D02673",
+      "name": "Tanya Goodwin"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-E499",
+      "project_name": "DAMAC Lagoons"
+    },
+    "payment": {
+      "date": "2025-02-24",
+      "type": "Handover Payment",
+      "method": "Bank Transfer",
+      "amount_aed": 8008400.0,
+      "reference": "REF-290729"
+    },
+    "bank_details": {
+      "bank_name": "Emirates NBD",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-51905",
+    "status": "bounced"
+  },
+  {
+    "receipt_id": "RCP-A77E58B2",
+    "transaction_id": "TXN-7B25E2F843",
+    "customer": {
+      "customer_id": "CUST-2DC53A1A",
+      "name": "Douglas Fitzpatrick"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-A39",
+      "project_name": "DAMAC Lagoons"
+    },
+    "payment": {
+      "date": "2025-10-28",
+      "type": "Admin Fee",
+      "method": "Credit Card",
+      "amount_aed": 4200,
+      "reference": "REF-814430"
+    },
+    "bank_details": {
+      "bank_name": "RAKBANK",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-64221",
+    "status": "bounced"
+  },
+  {
+    "receipt_id": "RCP-D2A14737",
+    "transaction_id": "TXN-5D0AAA7EA1",
+    "customer": {
+      "customer_id": "CUST-FDBA8D00",
+      "name": "Stephanie Jenkins"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-E235",
+      "project_name": "DAMAC Lagoons"
+    },
+    "payment": {
+      "date": "2025-12-22",
+      "type": "Monthly Installment",
+      "method": "Bank Transfer",
+      "amount_aed": 163730.0,
+      "reference": "REF-154190"
+    },
+    "bank_details": {
+      "bank_name": "First Abu Dhabi Bank",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-84920",
+    "status": "bounced"
+  },
+  {
+    "receipt_id": "RCP-397319FC",
+    "transaction_id": "TXN-D331B610BF",
+    "customer": {
+      "customer_id": "CUST-07FFD37C",
+      "name": "Mercedes Wang"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-D342",
+      "project_name": "DAMAC Lagoons"
+    },
+    "payment": {
+      "date": "2026-01-03",
+      "type": "Monthly Installment",
+      "method": "Bank Transfer",
+      "amount_aed": 182130.0,
+      "reference": "REF-597181"
+    },
+    "bank_details": {
+      "bank_name": "Dubai Islamic Bank",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-38933",
+    "status": "cleared"
+  },
+  {
+    "receipt_id": "RCP-6BEC148B",
+    "transaction_id": "TXN-86EF295E06",
+    "customer": {
+      "customer_id": "CUST-0B0F545A",
+      "name": "James Little"
+    },
+    "property": {
+      "unit_id": "DAMAC-CAV-4905",
+      "project_name": "Cavalli Tower"
+    },
+    "payment": {
+      "date": "2025-07-10",
+      "type": "Booking Amount",
+      "method": "Bank Transfer",
+      "amount_aed": 465700.0,
+      "reference": "REF-580436"
+    },
+    "bank_details": {
+      "bank_name": "First Abu Dhabi Bank",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-67982",
+    "status": "bounced"
+  },
+  {
+    "receipt_id": "RCP-0142A17B",
+    "transaction_id": "TXN-700C53EBC1",
+    "customer": {
+      "customer_id": "CUST-CAAA5D48",
+      "name": "Samantha Casey"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-1209",
+      "project_name": "DAMAC Bay"
+    },
+    "payment": {
+      "date": "2025-07-11",
+      "type": "DLD Fee",
+      "method": "Bank Transfer",
+      "amount_aed": 113040.0,
+      "reference": "REF-322568"
+    },
+    "bank_details": {
+      "bank_name": "Abu Dhabi Commercial Bank",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-44509",
+    "status": "bounced"
+  },
+  {
+    "receipt_id": "RCP-AB7EFCA6",
+    "transaction_id": "TXN-649B04433F",
+    "customer": {
+      "customer_id": "CUST-B2C270B0",
+      "name": "Jeremy Flores"
+    },
+    "property": {
+      "unit_id": "DAMAC-TRU-E338",
+      "project_name": "Trump DAMAC Golf"
+    },
+    "payment": {
+      "date": "2025-11-22",
+      "type": "Booking Amount",
+      "method": "Bank Transfer",
+      "amount_aed": 1840800.0,
+      "reference": "REF-995573"
+    },
+    "bank_details": {
+      "bank_name": "Dubai Islamic Bank",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-49221",
+    "status": "cleared"
+  },
+  {
+    "receipt_id": "RCP-D080F21B",
+    "transaction_id": "TXN-7FBE905E26",
+    "customer": {
+      "customer_id": "CUST-28EC7BE1",
+      "name": "Kimberly Cochran"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-B84",
+      "project_name": "DAMAC Hills 2"
+    },
+    "payment": {
+      "date": "2025-12-14",
+      "type": "DLD Fee",
+      "method": "Bank Transfer",
+      "amount_aed": 376680.0,
+      "reference": "REF-875083"
+    },
+    "bank_details": {
+      "bank_name": "Abu Dhabi Commercial Bank",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-50410",
+    "status": "pending_clearance"
+  },
+  {
+    "receipt_id": "RCP-02BAA37B",
+    "transaction_id": "TXN-594DC0B91A",
+    "customer": {
+      "customer_id": "CUST-474CC67C",
+      "name": "Jennifer Flores"
+    },
+    "property": {
+      "unit_id": "DAMAC-TRU-D51",
+      "project_name": "Trump DAMAC Golf"
+    },
+    "payment": {
+      "date": "2025-07-20",
+      "type": "DLD Fee",
+      "method": "Cheque",
+      "amount_aed": 1050080.0,
+      "reference": "REF-584138"
+    },
+    "bank_details": {
+      "bank_name": "Mashreq Bank",
+      "cheque_number": "110743"
+    },
+    "escrow_account": "RERA-ESC-72156",
+    "status": "bounced"
+  },
+  {
+    "receipt_id": "RCP-83D760A2",
+    "transaction_id": "TXN-583133A959",
+    "customer": {
+      "customer_id": "CUST-618717A7",
+      "name": "Angela Durham"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-604",
+      "project_name": "DAMAC Bay 2"
+    },
+    "payment": {
+      "date": "2025-11-25",
+      "type": "Construction Milestone",
+      "method": "Bank Transfer",
+      "amount_aed": 118163.42,
+      "reference": "REF-700784"
+    },
+    "bank_details": {
+      "bank_name": "RAKBANK",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-82991",
+    "status": "pending_clearance"
+  },
+  {
+    "receipt_id": "RCP-785881C2",
+    "transaction_id": "TXN-B166B94752",
+    "customer": {
+      "customer_id": "CUST-BA2DF51C",
+      "name": "Kathy Miller"
+    },
+    "property": {
+      "unit_id": "DAMAC-AYK-1503",
+      "project_name": "AYKON City"
+    },
+    "payment": {
+      "date": "2025-10-13",
+      "type": "Handover Payment",
+      "method": "Cheque",
+      "amount_aed": 1397600.0,
+      "reference": "REF-457601"
+    },
+    "bank_details": {
+      "bank_name": "RAKBANK",
+      "cheque_number": "962029"
+    },
+    "escrow_account": "RERA-ESC-30397",
+    "status": "bounced"
+  },
+  {
+    "receipt_id": "RCP-52331C5B",
+    "transaction_id": "TXN-5686EBA717",
+    "customer": {
+      "customer_id": "CUST-C774ACA0",
+      "name": "Kathleen Brooks"
+    },
+    "property": {
+      "unit_id": "DAMAC-SAF-2108",
+      "project_name": "Safa One"
+    },
+    "payment": {
+      "date": "2025-07-10",
+      "type": "DLD Fee",
+      "method": "Cheque",
+      "amount_aed": 411680.0,
+      "reference": "REF-179012"
+    },
+    "bank_details": {
+      "bank_name": "Mashreq Bank",
+      "cheque_number": "333610"
+    },
+    "escrow_account": "RERA-ESC-12022",
+    "status": "pending_clearance"
+  },
+  {
+    "receipt_id": "RCP-A5313D7D",
+    "transaction_id": "TXN-EA4D427B2B",
+    "customer": {
+      "customer_id": "CUST-B6C68BCB",
+      "name": "Brittany Anderson"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-C252",
+      "project_name": "DAMAC Hills"
+    },
+    "payment": {
+      "date": "2025-04-26",
+      "type": "Construction Milestone",
+      "method": "Bank Transfer",
+      "amount_aed": 3474817.23,
+      "reference": "REF-392536"
+    },
+    "bank_details": {
+      "bank_name": "Emirates NBD",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-67081",
+    "status": "cleared"
+  },
+  {
+    "receipt_id": "RCP-67F54FB6",
+    "transaction_id": "TXN-A3BFE34F41",
+    "customer": {
+      "customer_id": "CUST-8B53EB8B",
+      "name": "Michael Fisher"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-E186",
+      "project_name": "DAMAC Lagoons"
+    },
+    "payment": {
+      "date": "2025-09-27",
+      "type": "Booking Amount",
+      "method": "Credit Card",
+      "amount_aed": 2439300.0,
+      "reference": "REF-940236"
+    },
+    "bank_details": {
+      "bank_name": "Emirates NBD",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-67153",
+    "status": "pending_clearance"
+  },
+  {
+    "receipt_id": "RCP-962FA862",
+    "transaction_id": "TXN-087AAEDC35",
+    "customer": {
+      "customer_id": "CUST-AB4937A1",
+      "name": "Paul Wong"
+    },
+    "property": {
+      "unit_id": "DAMAC-AYK-4708",
+      "project_name": "AYKON City"
+    },
+    "payment": {
+      "date": "2025-12-14",
+      "type": "Booking Amount",
+      "method": "Cheque",
+      "amount_aed": 639900.0,
+      "reference": "REF-157277"
+    },
+    "bank_details": {
+      "bank_name": "Commercial Bank of Dubai",
+      "cheque_number": "996415"
+    },
+    "escrow_account": "RERA-ESC-72578",
+    "status": "cleared"
+  },
+  {
+    "receipt_id": "RCP-57827DB2",
+    "transaction_id": "TXN-2BC1AA3768",
+    "customer": {
+      "customer_id": "CUST-2EDBC68F",
+      "name": "Sara Barr"
+    },
+    "property": {
+      "unit_id": "DAMAC-ZAD-4604",
+      "project_name": "Zada Tower"
+    },
+    "payment": {
+      "date": "2025-04-27",
+      "type": "Handover Payment",
+      "method": "Cheque",
+      "amount_aed": 454250.0,
+      "reference": "REF-700975"
+    },
+    "bank_details": {
+      "bank_name": "First Abu Dhabi Bank",
+      "cheque_number": "351560"
+    },
+    "escrow_account": "RERA-ESC-94980",
+    "status": "bounced"
+  },
+  {
+    "receipt_id": "RCP-1CBF2E84",
+    "transaction_id": "TXN-FB247D92CA",
+    "customer": {
+      "customer_id": "CUST-DAFA71E2",
+      "name": "Willie Melton"
+    },
+    "property": {
+      "unit_id": "DAMAC-AYK-2006",
+      "project_name": "AYKON City"
+    },
+    "payment": {
+      "date": "2025-06-05",
+      "type": "Handover Payment",
+      "method": "Bank Transfer",
+      "amount_aed": 2590800.0,
+      "reference": "REF-102117"
+    },
+    "bank_details": {
+      "bank_name": "Dubai Islamic Bank",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-25666",
+    "status": "cleared"
+  },
+  {
+    "receipt_id": "RCP-D60E6AD2",
+    "transaction_id": "TXN-AAF4C10843",
+    "customer": {
+      "customer_id": "CUST-269FABC2",
+      "name": "Kara Lloyd"
+    },
+    "property": {
+      "unit_id": "DAMAC-SAF-812",
+      "project_name": "Safa One"
+    },
+    "payment": {
+      "date": "2025-07-16",
+      "type": "Handover Payment",
+      "method": "Bank Transfer",
+      "amount_aed": 1505600.0,
+      "reference": "REF-734901"
+    },
+    "bank_details": {
+      "bank_name": "RAKBANK",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-93275",
+    "status": "cleared"
+  },
+  {
+    "receipt_id": "RCP-E750DAD3",
+    "transaction_id": "TXN-5345B40368",
+    "customer": {
+      "customer_id": "CUST-D1D19583",
+      "name": "Yolanda Nicholson"
+    },
+    "property": {
+      "unit_id": "DAMAC-AYK-4907",
+      "project_name": "AYKON City"
+    },
+    "payment": {
+      "date": "2025-05-13",
+      "type": "DLD Fee",
+      "method": "Manager's Cheque",
+      "amount_aed": 73480.0,
+      "reference": "REF-148561"
+    },
+    "bank_details": {
+      "bank_name": "RAKBANK",
+      "cheque_number": "924014"
+    },
+    "escrow_account": "RERA-ESC-45989",
+    "status": "pending_clearance"
+  },
+  {
+    "receipt_id": "RCP-092B3959",
+    "transaction_id": "TXN-F186293CA8",
+    "customer": {
+      "customer_id": "CUST-D1F7EDB5",
+      "name": "Jennifer Hull"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-A253",
+      "project_name": "DAMAC Lagoons"
+    },
+    "payment": {
+      "date": "2025-10-09",
+      "type": "Construction Milestone",
+      "method": "Cheque",
+      "amount_aed": 429656.7,
+      "reference": "REF-458759"
+    },
+    "bank_details": {
+      "bank_name": "Emirates NBD",
+      "cheque_number": "172596"
+    },
+    "escrow_account": "RERA-ESC-12740",
+    "status": "bounced"
+  },
+  {
+    "receipt_id": "RCP-A1A2520D",
+    "transaction_id": "TXN-1968EB2D84",
+    "customer": {
+      "customer_id": "CUST-291F6834",
+      "name": "Lawrence Rodriguez"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-A372",
+      "project_name": "DAMAC Islands"
+    },
+    "payment": {
+      "date": "2025-03-31",
+      "type": "Admin Fee",
+      "method": "Bank Transfer",
+      "amount_aed": 4200,
+      "reference": "REF-246282"
+    },
+    "bank_details": {
+      "bank_name": "Commercial Bank of Dubai",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-30351",
+    "status": "bounced"
+  },
+  {
+    "receipt_id": "RCP-55F0212E",
+    "transaction_id": "TXN-3EDDEE578D",
+    "customer": {
+      "customer_id": "CUST-9D926710",
+      "name": "Melvin Wyatt"
+    },
+    "property": {
+      "unit_id": "DAMAC-TRU-C110",
+      "project_name": "Trump DAMAC Golf"
+    },
+    "payment": {
+      "date": "2025-07-14",
+      "type": "Construction Milestone",
+      "method": "Credit Card",
+      "amount_aed": 1447776.24,
+      "reference": "REF-533000"
+    },
+    "bank_details": {
+      "bank_name": "Mashreq Bank",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-32846",
+    "status": "pending_clearance"
+  },
+  {
+    "receipt_id": "RCP-511AF6EA",
+    "transaction_id": "TXN-71865F4B2C",
+    "customer": {
+      "customer_id": "CUST-AA3B9AC2",
+      "name": "Megan Ortiz"
+    },
+    "property": {
+      "unit_id": "DAMAC-AYK-1510",
+      "project_name": "AYKON City"
+    },
+    "payment": {
+      "date": "2025-12-09",
+      "type": "Construction Milestone",
+      "method": "Cheque",
+      "amount_aed": 352543.23,
+      "reference": "REF-827843"
+    },
+    "bank_details": {
+      "bank_name": "RAKBANK",
+      "cheque_number": "467248"
+    },
+    "escrow_account": "RERA-ESC-12215",
+    "status": "cleared"
+  },
+  {
+    "receipt_id": "RCP-91A90142",
+    "transaction_id": "TXN-41C87FA173",
+    "customer": {
+      "customer_id": "CUST-7D7A9D24",
+      "name": "Sandra Anderson"
+    },
+    "property": {
+      "unit_id": "DAMAC-SAF-2306",
+      "project_name": "Safa One"
+    },
+    "payment": {
+      "date": "2025-02-26",
+      "type": "Booking Amount",
+      "method": "Bank Transfer",
+      "amount_aed": 497400.0,
+      "reference": "REF-838223"
+    },
+    "bank_details": {
+      "bank_name": "First Abu Dhabi Bank",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-68169",
+    "status": "cleared"
+  },
+  {
+    "receipt_id": "RCP-9F1026FB",
+    "transaction_id": "TXN-E19EFFBB46",
+    "customer": {
+      "customer_id": "CUST-4B8B2790",
+      "name": "Brittany Pierce"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-3409",
+      "project_name": "DAMAC Bay 2"
+    },
+    "payment": {
+      "date": "2025-07-07",
+      "type": "Handover Payment",
+      "method": "Manager's Cheque",
+      "amount_aed": 651500.0,
+      "reference": "REF-963338"
+    },
+    "bank_details": {
+      "bank_name": "Commercial Bank of Dubai",
+      "cheque_number": "134860"
+    },
+    "escrow_account": "RERA-ESC-17192",
+    "status": "bounced"
+  },
+  {
+    "receipt_id": "RCP-AD2C7EFE",
+    "transaction_id": "TXN-1653F3F1F3",
+    "customer": {
+      "customer_id": "CUST-5365A2F2",
+      "name": "Marilyn Buchanan"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-E177",
+      "project_name": "DAMAC Hills"
+    },
+    "payment": {
+      "date": "2025-03-18",
+      "type": "DLD Fee",
+      "method": "Cheque",
+      "amount_aed": 197320.0,
+      "reference": "REF-190703"
+    },
+    "bank_details": {
+      "bank_name": "Commercial Bank of Dubai",
+      "cheque_number": "153368"
+    },
+    "escrow_account": "RERA-ESC-83270",
+    "status": "bounced"
+  },
+  {
+    "receipt_id": "RCP-5D76B6A4",
+    "transaction_id": "TXN-4C9E100854",
+    "customer": {
+      "customer_id": "CUST-13DB6A7C",
+      "name": "John Davis"
+    },
+    "property": {
+      "unit_id": "DAMAC-CAV-2102",
+      "project_name": "Cavalli Tower"
+    },
+    "payment": {
+      "date": "2026-01-16",
+      "type": "Booking Amount",
+      "method": "Credit Card",
+      "amount_aed": 556500.0,
+      "reference": "REF-235614"
+    },
+    "bank_details": {
+      "bank_name": "Mashreq Bank",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-75954",
+    "status": "bounced"
+  },
+  {
+    "receipt_id": "RCP-A2DAB126",
+    "transaction_id": "TXN-305B2BB85E",
+    "customer": {
+      "customer_id": "CUST-340DC72A",
+      "name": "Shelby Williams"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-D453",
+      "project_name": "DAMAC Hills 2"
+    },
+    "payment": {
+      "date": "2025-04-07",
+      "type": "Monthly Installment",
+      "method": "Bank Transfer",
+      "amount_aed": 63470.0,
+      "reference": "REF-890965"
+    },
+    "bank_details": {
+      "bank_name": "Dubai Islamic Bank",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-70075",
+    "status": "pending_clearance"
+  },
+  {
+    "receipt_id": "RCP-032C2F2D",
+    "transaction_id": "TXN-5173AD57A8",
+    "customer": {
+      "customer_id": "CUST-6F7E3342",
+      "name": "Cassandra Medina"
+    },
+    "property": {
+      "unit_id": "DAMAC-SAF-3404",
+      "project_name": "Safa One"
+    },
+    "payment": {
+      "date": "2025-09-21",
+      "type": "Booking Amount",
+      "method": "Cheque",
+      "amount_aed": 736700.0,
+      "reference": "REF-812655"
+    },
+    "bank_details": {
+      "bank_name": "Commercial Bank of Dubai",
+      "cheque_number": "328685"
+    },
+    "escrow_account": "RERA-ESC-25424",
+    "status": "pending_clearance"
+  },
+  {
+    "receipt_id": "RCP-FB85462F",
+    "transaction_id": "TXN-B421E407A7",
+    "customer": {
+      "customer_id": "CUST-C6B90C3A",
+      "name": "Benjamin Spencer"
+    },
+    "property": {
+      "unit_id": "DAMAC-ZAD-803",
+      "project_name": "Zada Tower"
+    },
+    "payment": {
+      "date": "2025-04-30",
+      "type": "Monthly Installment",
+      "method": "Bank Transfer",
+      "amount_aed": 42590.0,
+      "reference": "REF-775394"
+    },
+    "bank_details": {
+      "bank_name": "Commercial Bank of Dubai",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-15140",
+    "status": "cleared"
+  },
+  {
+    "receipt_id": "RCP-EE2849B8",
+    "transaction_id": "TXN-F6740A76F3",
+    "customer": {
+      "customer_id": "CUST-C3E364A7",
+      "name": "Andrew Sandoval"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-E12",
+      "project_name": "DAMAC Hills"
+    },
+    "payment": {
+      "date": "2025-05-30",
+      "type": "Booking Amount",
+      "method": "Credit Card",
+      "amount_aed": 1727400.0,
+      "reference": "REF-800130"
+    },
+    "bank_details": {
+      "bank_name": "Commercial Bank of Dubai",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-75072",
+    "status": "pending_clearance"
+  },
+  {
+    "receipt_id": "RCP-92EEB02D",
+    "transaction_id": "TXN-8322694B19",
+    "customer": {
+      "customer_id": "CUST-D83E8D11",
+      "name": "Eric Gray"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-D220",
+      "project_name": "DAMAC Hills 2"
+    },
+    "payment": {
+      "date": "2025-11-04",
+      "type": "Handover Payment",
+      "method": "Bank Transfer",
+      "amount_aed": 5572800.0,
+      "reference": "REF-281522"
+    },
+    "bank_details": {
+      "bank_name": "Mashreq Bank",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-78566",
+    "status": "cleared"
+  },
+  {
+    "receipt_id": "RCP-7F636634",
+    "transaction_id": "TXN-7C1C356C77",
+    "customer": {
+      "customer_id": "CUST-F1E17B4B",
+      "name": "Suzanne Stark PhD"
+    },
+    "property": {
+      "unit_id": "DAMAC-ZAD-503",
+      "project_name": "Zada Tower"
+    },
+    "payment": {
+      "date": "2025-06-15",
+      "type": "DLD Fee",
+      "method": "Credit Card",
+      "amount_aed": 141480.0,
+      "reference": "REF-817779"
+    },
+    "bank_details": {
+      "bank_name": "Commercial Bank of Dubai",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-19877",
+    "status": "cleared"
+  },
+  {
+    "receipt_id": "RCP-61F7D9DE",
+    "transaction_id": "TXN-27EC16C534",
+    "customer": {
+      "customer_id": "CUST-3A488BDC",
+      "name": "Joseph Reilly"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-3508",
+      "project_name": "DAMAC Bay"
+    },
+    "payment": {
+      "date": "2025-10-05",
+      "type": "Construction Milestone",
+      "method": "Cheque",
+      "amount_aed": 963560.67,
+      "reference": "REF-828699"
+    },
+    "bank_details": {
+      "bank_name": "Emirates NBD",
+      "cheque_number": "165887"
+    },
+    "escrow_account": "RERA-ESC-18960",
+    "status": "cleared"
+  },
+  {
+    "receipt_id": "RCP-B5BD158B",
+    "transaction_id": "TXN-8EE3083083",
+    "customer": {
+      "customer_id": "CUST-B91563E5",
+      "name": "Joseph Burns"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-4904",
+      "project_name": "DAMAC Bay"
+    },
+    "payment": {
+      "date": "2025-09-08",
+      "type": "Admin Fee",
+      "method": "Bank Transfer",
+      "amount_aed": 4200,
+      "reference": "REF-947335"
+    },
+    "bank_details": {
+      "bank_name": "Dubai Islamic Bank",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-80204",
+    "status": "cleared"
+  },
+  {
+    "receipt_id": "RCP-5974125D",
+    "transaction_id": "TXN-337586DFB5",
+    "customer": {
+      "customer_id": "CUST-EDEF42A6",
+      "name": "Catherine Edwards"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-A24",
+      "project_name": "DAMAC Islands"
+    },
+    "payment": {
+      "date": "2025-09-24",
+      "type": "Booking Amount",
+      "method": "Manager's Cheque",
+      "amount_aed": 600300.0,
+      "reference": "REF-145215"
+    },
+    "bank_details": {
+      "bank_name": "Mashreq Bank",
+      "cheque_number": "979881"
+    },
+    "escrow_account": "RERA-ESC-17398",
+    "status": "pending_clearance"
+  },
+  {
+    "receipt_id": "RCP-06D6252D",
+    "transaction_id": "TXN-781ADA3248",
+    "customer": {
+      "customer_id": "CUST-FC7862A0",
+      "name": "Daniel Owens"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-D312",
+      "project_name": "DAMAC Hills 2"
+    },
+    "payment": {
+      "date": "2025-08-26",
+      "type": "DLD Fee",
+      "method": "Bank Transfer",
+      "amount_aed": 1130360.0,
+      "reference": "REF-466692"
+    },
+    "bank_details": {
+      "bank_name": "Abu Dhabi Commercial Bank",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-86897",
+    "status": "cleared"
+  },
+  {
+    "receipt_id": "RCP-09447E18",
+    "transaction_id": "TXN-37BAA93C87",
+    "customer": {
+      "customer_id": "CUST-5F76DA00",
+      "name": "Andrea Jennings"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-509",
+      "project_name": "DAMAC Bay 2"
+    },
+    "payment": {
+      "date": "2025-12-27",
+      "type": "Booking Amount",
+      "method": "Cheque",
+      "amount_aed": 370800.0,
+      "reference": "REF-526138"
+    },
+    "bank_details": {
+      "bank_name": "First Abu Dhabi Bank",
+      "cheque_number": "596626"
+    },
+    "escrow_account": "RERA-ESC-53484",
+    "status": "pending_clearance"
+  },
+  {
+    "receipt_id": "RCP-4C7FE7BB",
+    "transaction_id": "TXN-A47348CB01",
+    "customer": {
+      "customer_id": "CUST-B19327EA",
+      "name": "Michael Richardson"
+    },
+    "property": {
+      "unit_id": "DAMAC-TRU-A290",
+      "project_name": "Trump DAMAC Golf"
+    },
+    "payment": {
+      "date": "2025-08-14",
+      "type": "Construction Milestone",
+      "method": "Bank Transfer",
+      "amount_aed": 1568228.11,
+      "reference": "REF-298900"
+    },
+    "bank_details": {
+      "bank_name": "Commercial Bank of Dubai",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-80071",
+    "status": "cleared"
+  },
+  {
+    "receipt_id": "RCP-AD964941",
+    "transaction_id": "TXN-9E57EB537C",
+    "customer": {
+      "customer_id": "CUST-44D47D69",
+      "name": "Stephanie Stanley"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-A162",
+      "project_name": "DAMAC Lagoons"
+    },
+    "payment": {
+      "date": "2025-06-14",
+      "type": "Construction Milestone",
+      "method": "Bank Transfer",
+      "amount_aed": 242725.31,
+      "reference": "REF-998245"
+    },
+    "bank_details": {
+      "bank_name": "Abu Dhabi Commercial Bank",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-53444",
+    "status": "pending_clearance"
+  },
+  {
+    "receipt_id": "RCP-64D34E65",
+    "transaction_id": "TXN-22B6E2DB70",
+    "customer": {
+      "customer_id": "CUST-FED84FCB",
+      "name": "John Bradford"
+    },
+    "property": {
+      "unit_id": "DAMAC-SAF-111",
+      "project_name": "Safa Two"
+    },
+    "payment": {
+      "date": "2025-05-06",
+      "type": "Admin Fee",
+      "method": "Bank Transfer",
+      "amount_aed": 4200,
+      "reference": "REF-409748"
+    },
+    "bank_details": {
+      "bank_name": "First Abu Dhabi Bank",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-84878",
+    "status": "cleared"
+  },
+  {
+    "receipt_id": "RCP-871DB02C",
+    "transaction_id": "TXN-F3D4BE18B1",
+    "customer": {
+      "customer_id": "CUST-278932D7",
+      "name": "Shelley Gomez"
+    },
+    "property": {
+      "unit_id": "DAMAC-CAV-3402",
+      "project_name": "Cavalli Tower"
+    },
+    "payment": {
+      "date": "2025-12-08",
+      "type": "Handover Payment",
+      "method": "Cheque",
+      "amount_aed": 1602800.0,
+      "reference": "REF-916493"
+    },
+    "bank_details": {
+      "bank_name": "Abu Dhabi Commercial Bank",
+      "cheque_number": "332930"
+    },
+    "escrow_account": "RERA-ESC-70252",
+    "status": "cleared"
+  },
+  {
+    "receipt_id": "RCP-BCD4E35A",
+    "transaction_id": "TXN-222F7A5A08",
+    "customer": {
+      "customer_id": "CUST-C4193461",
+      "name": "Robert Thomas"
+    },
+    "property": {
+      "unit_id": "DAMAC-TRU-C296",
+      "project_name": "Trump DAMAC Golf"
+    },
+    "payment": {
+      "date": "2025-09-18",
+      "type": "Monthly Installment",
+      "method": "Cheque",
+      "amount_aed": 178040.0,
+      "reference": "REF-229724"
+    },
+    "bank_details": {
+      "bank_name": "First Abu Dhabi Bank",
+      "cheque_number": "136200"
+    },
+    "escrow_account": "RERA-ESC-33587",
+    "status": "pending_clearance"
+  },
+  {
+    "receipt_id": "RCP-45F20957",
+    "transaction_id": "TXN-74D6808C7C",
+    "customer": {
+      "customer_id": "CUST-0C804AAB",
+      "name": "Mary Harris"
+    },
+    "property": {
+      "unit_id": "DAMAC-AYK-2509",
+      "project_name": "AYKON City"
+    },
+    "payment": {
+      "date": "2025-11-22",
+      "type": "Handover Payment",
+      "method": "Credit Card",
+      "amount_aed": 322250.0,
+      "reference": "REF-852517"
+    },
+    "bank_details": {
+      "bank_name": "Commercial Bank of Dubai",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-42921",
+    "status": "bounced"
+  },
+  {
+    "receipt_id": "RCP-302E398A",
+    "transaction_id": "TXN-D86A78D689",
+    "customer": {
+      "customer_id": "CUST-B3822F7C",
+      "name": "John Williams"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-D310",
+      "project_name": "DAMAC Lagoons"
+    },
+    "payment": {
+      "date": "2025-11-08",
+      "type": "Booking Amount",
+      "method": "Bank Transfer",
+      "amount_aed": 618200.0,
+      "reference": "REF-536457"
+    },
+    "bank_details": {
+      "bank_name": "Abu Dhabi Commercial Bank",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-76898",
+    "status": "bounced"
+  },
+  {
+    "receipt_id": "RCP-D9877537",
+    "transaction_id": "TXN-25EBE0A0E6",
+    "customer": {
+      "customer_id": "CUST-387F0D40",
+      "name": "Cassie Martin"
+    },
+    "property": {
+      "unit_id": "DAMAC-AYK-2506",
+      "project_name": "AYKON City"
+    },
+    "payment": {
+      "date": "2025-12-13",
+      "type": "DLD Fee",
+      "method": "Manager's Cheque",
+      "amount_aed": 783400.0,
+      "reference": "REF-145368"
+    },
+    "bank_details": {
+      "bank_name": "RAKBANK",
+      "cheque_number": "187530"
+    },
+    "escrow_account": "RERA-ESC-39604",
+    "status": "bounced"
+  },
+  {
+    "receipt_id": "RCP-0D3D499F",
+    "transaction_id": "TXN-75087D9EE2",
+    "customer": {
+      "customer_id": "CUST-F70840F6",
+      "name": "Jason Reed"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-3612",
+      "project_name": "DAMAC Bay"
+    },
+    "payment": {
+      "date": "2025-10-18",
+      "type": "Booking Amount",
+      "method": "Credit Card",
+      "amount_aed": 398000.0,
+      "reference": "REF-457798"
+    },
+    "bank_details": {
+      "bank_name": "First Abu Dhabi Bank",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-48542",
+    "status": "cleared"
+  },
+  {
+    "receipt_id": "RCP-F9393B6D",
+    "transaction_id": "TXN-0C6F3C171B",
+    "customer": {
+      "customer_id": "CUST-9CE3FDB9",
+      "name": "Eric Barron"
+    },
+    "property": {
+      "unit_id": "DAMAC-AYK-3605",
+      "project_name": "AYKON City"
+    },
+    "payment": {
+      "date": "2025-06-20",
+      "type": "Booking Amount",
+      "method": "Bank Transfer",
+      "amount_aed": 504600.0,
+      "reference": "REF-166861"
+    },
+    "bank_details": {
+      "bank_name": "Emirates NBD",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-85478",
+    "status": "pending_clearance"
+  },
+  {
+    "receipt_id": "RCP-0A7E5FED",
+    "transaction_id": "TXN-3B9C7C1C92",
+    "customer": {
+      "customer_id": "CUST-9097BFC7",
+      "name": "Erica Sanchez"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-C346",
+      "project_name": "DAMAC Islands"
+    },
+    "payment": {
+      "date": "2025-10-11",
+      "type": "Admin Fee",
+      "method": "Bank Transfer",
+      "amount_aed": 4200,
+      "reference": "REF-718620"
+    },
+    "bank_details": {
+      "bank_name": "Mashreq Bank",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-39623",
+    "status": "pending_clearance"
+  },
+  {
+    "receipt_id": "RCP-9F3D82DE",
+    "transaction_id": "TXN-47A65A15FA",
+    "customer": {
+      "customer_id": "CUST-8EAB4DCE",
+      "name": "Julian Baker"
+    },
+    "property": {
+      "unit_id": "DAMAC-SAF-606",
+      "project_name": "Safa One"
+    },
+    "payment": {
+      "date": "2025-09-16",
+      "type": "Handover Payment",
+      "method": "Cheque",
+      "amount_aed": 1801500.0,
+      "reference": "REF-707580"
+    },
+    "bank_details": {
+      "bank_name": "Mashreq Bank",
+      "cheque_number": "383457"
+    },
+    "escrow_account": "RERA-ESC-32893",
+    "status": "cleared"
+  },
+  {
+    "receipt_id": "RCP-A4CDED21",
+    "transaction_id": "TXN-E7FFC9C66B",
+    "customer": {
+      "customer_id": "CUST-58C9B9EA",
+      "name": "John Howard"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-C86",
+      "project_name": "DAMAC Hills"
+    },
+    "payment": {
+      "date": "2026-01-10",
+      "type": "DLD Fee",
+      "method": "Bank Transfer",
+      "amount_aed": 159320.0,
+      "reference": "REF-649033"
+    },
+    "bank_details": {
+      "bank_name": "Emirates NBD",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-75509",
+    "status": "pending_clearance"
+  },
+  {
+    "receipt_id": "RCP-684CB774",
+    "transaction_id": "TXN-F6702217F4",
+    "customer": {
+      "customer_id": "CUST-0DE7A57A",
+      "name": "Deanna Fields"
+    },
+    "property": {
+      "unit_id": "DAMAC-AYK-405",
+      "project_name": "AYKON City"
+    },
+    "payment": {
+      "date": "2025-08-09",
+      "type": "Booking Amount",
+      "method": "Bank Transfer",
+      "amount_aed": 117800.0,
+      "reference": "REF-732525"
+    },
+    "bank_details": {
+      "bank_name": "Commercial Bank of Dubai",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-54627",
+    "status": "pending_clearance"
+  },
+  {
+    "receipt_id": "RCP-0719FC7E",
+    "transaction_id": "TXN-8F448B1EE3",
+    "customer": {
+      "customer_id": "CUST-8315D04B",
+      "name": "Monique Ingram"
+    },
+    "property": {
+      "unit_id": "DAMAC-ZAD-209",
+      "project_name": "Zada Tower"
+    },
+    "payment": {
+      "date": "2025-09-03",
+      "type": "DLD Fee",
+      "method": "Cheque",
+      "amount_aed": 261880.0,
+      "reference": "REF-466737"
+    },
+    "bank_details": {
+      "bank_name": "Abu Dhabi Commercial Bank",
+      "cheque_number": "784820"
+    },
+    "escrow_account": "RERA-ESC-35111",
+    "status": "cleared"
+  },
+  {
+    "receipt_id": "RCP-915967A6",
+    "transaction_id": "TXN-E2D1DC52C5",
+    "customer": {
+      "customer_id": "CUST-181A06F5",
+      "name": "Tyler Barber"
+    },
+    "property": {
+      "unit_id": "DAMAC-AYK-4912",
+      "project_name": "AYKON City"
+    },
+    "payment": {
+      "date": "2025-07-25",
+      "type": "Handover Payment",
+      "method": "Credit Card",
+      "amount_aed": 635000.0,
+      "reference": "REF-571214"
+    },
+    "bank_details": {
+      "bank_name": "Commercial Bank of Dubai",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-19372",
+    "status": "cleared"
+  },
+  {
+    "receipt_id": "RCP-6E584CD3",
+    "transaction_id": "TXN-AC8C4D2366",
+    "customer": {
+      "customer_id": "CUST-0A2E5172",
+      "name": "Jacob Hayes"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-1711",
+      "project_name": "DAMAC Bay"
+    },
+    "payment": {
+      "date": "2025-06-02",
+      "type": "Booking Amount",
+      "method": "Credit Card",
+      "amount_aed": 232200.0,
+      "reference": "REF-624725"
+    },
+    "bank_details": {
+      "bank_name": "First Abu Dhabi Bank",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-93673",
+    "status": "cleared"
+  },
+  {
+    "receipt_id": "RCP-53B4312A",
+    "transaction_id": "TXN-25388F8817",
+    "customer": {
+      "customer_id": "CUST-AC46E916",
+      "name": "Larry Norris"
+    },
+    "property": {
+      "unit_id": "DAMAC-ZAD-101",
+      "project_name": "Zada Tower"
+    },
+    "payment": {
+      "date": "2025-03-24",
+      "type": "Monthly Installment",
+      "method": "Bank Transfer",
+      "amount_aed": 24370.0,
+      "reference": "REF-338512"
+    },
+    "bank_details": {
+      "bank_name": "RAKBANK",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-62044",
+    "status": "pending_clearance"
+  },
+  {
+    "receipt_id": "RCP-EFB2639E",
+    "transaction_id": "TXN-6BA98854FF",
+    "customer": {
+      "customer_id": "CUST-6DF43BBE",
+      "name": "Abigail Campbell"
+    },
+    "property": {
+      "unit_id": "DAMAC-CAV-2708",
+      "project_name": "Cavalli Tower"
+    },
+    "payment": {
+      "date": "2025-04-16",
+      "type": "DLD Fee",
+      "method": "Bank Transfer",
+      "amount_aed": 317680.0,
+      "reference": "REF-644090"
+    },
+    "bank_details": {
+      "bank_name": "Commercial Bank of Dubai",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-59145",
+    "status": "pending_clearance"
+  },
+  {
+    "receipt_id": "RCP-157D5FEF",
+    "transaction_id": "TXN-68BA425816",
+    "customer": {
+      "customer_id": "CUST-9EF0347E",
+      "name": "Jessica Barton"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-C111",
+      "project_name": "DAMAC Hills 2"
+    },
+    "payment": {
+      "date": "2025-05-08",
+      "type": "Admin Fee",
+      "method": "Bank Transfer",
+      "amount_aed": 4200,
+      "reference": "REF-337548"
+    },
+    "bank_details": {
+      "bank_name": "Mashreq Bank",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-22645",
+    "status": "cleared"
+  },
+  {
+    "receipt_id": "RCP-0618F774",
+    "transaction_id": "TXN-5CB67CC017",
+    "customer": {
+      "customer_id": "CUST-CCBF6D00",
+      "name": "Melanie White"
+    },
+    "property": {
+      "unit_id": "DAMAC-SAF-2011",
+      "project_name": "Safa One"
+    },
+    "payment": {
+      "date": "2025-06-23",
+      "type": "Handover Payment",
+      "method": "Cheque",
+      "amount_aed": 914000.0,
+      "reference": "REF-849888"
+    },
+    "bank_details": {
+      "bank_name": "Commercial Bank of Dubai",
+      "cheque_number": "509111"
+    },
+    "escrow_account": "RERA-ESC-89196",
+    "status": "cleared"
+  },
+  {
+    "receipt_id": "RCP-31215BA3",
+    "transaction_id": "TXN-2232579B0A",
+    "customer": {
+      "customer_id": "CUST-590BB7D2",
+      "name": "John Spence"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-A53",
+      "project_name": "DAMAC Hills 2"
+    },
+    "payment": {
+      "date": "2025-04-17",
+      "type": "Booking Amount",
+      "method": "Cheque",
+      "amount_aed": 1776700.0,
+      "reference": "REF-497813"
+    },
+    "bank_details": {
+      "bank_name": "Emirates NBD",
+      "cheque_number": "285487"
+    },
+    "escrow_account": "RERA-ESC-70808",
+    "status": "bounced"
+  },
+  {
+    "receipt_id": "RCP-61C0771A",
+    "transaction_id": "TXN-CCA0E86E99",
+    "customer": {
+      "customer_id": "CUST-A7AD42A9",
+      "name": "Samantha Foster"
+    },
+    "property": {
+      "unit_id": "DAMAC-SAF-2406",
+      "project_name": "Safa Two"
+    },
+    "payment": {
+      "date": "2025-03-07",
+      "type": "Booking Amount",
+      "method": "Cheque",
+      "amount_aed": 2701300.0,
+      "reference": "REF-108075"
+    },
+    "bank_details": {
+      "bank_name": "Mashreq Bank",
+      "cheque_number": "221394"
+    },
+    "escrow_account": "RERA-ESC-80460",
+    "status": "pending_clearance"
+  },
+  {
+    "receipt_id": "RCP-30A430CE",
+    "transaction_id": "TXN-35CC5F42E1",
+    "customer": {
+      "customer_id": "CUST-FF10DC2A",
+      "name": "Shannon Vargas"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-B115",
+      "project_name": "DAMAC Hills 2"
+    },
+    "payment": {
+      "date": "2025-11-21",
+      "type": "Admin Fee",
+      "method": "Bank Transfer",
+      "amount_aed": 4200,
+      "reference": "REF-789150"
+    },
+    "bank_details": {
+      "bank_name": "Emirates NBD",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-61412",
+    "status": "bounced"
+  },
+  {
+    "receipt_id": "RCP-99610A0D",
+    "transaction_id": "TXN-927E74E7FD",
+    "customer": {
+      "customer_id": "CUST-D49F2934",
+      "name": "Douglas Jones"
+    },
+    "property": {
+      "unit_id": "DAMAC-SAF-2210",
+      "project_name": "Safa One"
+    },
+    "payment": {
+      "date": "2025-11-11",
+      "type": "Admin Fee",
+      "method": "Bank Transfer",
+      "amount_aed": 4200,
+      "reference": "REF-467272"
+    },
+    "bank_details": {
+      "bank_name": "RAKBANK",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-63756",
+    "status": "pending_clearance"
+  },
+  {
+    "receipt_id": "RCP-85284AEB",
+    "transaction_id": "TXN-35E99FBF04",
+    "customer": {
+      "customer_id": "CUST-7EA43982",
+      "name": "Scott Nguyen"
+    },
+    "property": {
+      "unit_id": "DAMAC-AYK-1212",
+      "project_name": "AYKON City"
+    },
+    "payment": {
+      "date": "2025-09-04",
+      "type": "Construction Milestone",
+      "method": "Credit Card",
+      "amount_aed": 307844.03,
+      "reference": "REF-538183"
+    },
+    "bank_details": {
+      "bank_name": "Commercial Bank of Dubai",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-74574",
+    "status": "bounced"
+  },
+  {
+    "receipt_id": "RCP-AC367DB4",
+    "transaction_id": "TXN-B35F60564E",
+    "customer": {
+      "customer_id": "CUST-A7E40F32",
+      "name": "Lindsay Brooks"
+    },
+    "property": {
+      "unit_id": "DAMAC-ZAD-2611",
+      "project_name": "Zada Tower"
+    },
+    "payment": {
+      "date": "2025-02-11",
+      "type": "Construction Milestone",
+      "method": "Bank Transfer",
+      "amount_aed": 97864.42,
+      "reference": "REF-170388"
+    },
+    "bank_details": {
+      "bank_name": "Abu Dhabi Commercial Bank",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-30002",
+    "status": "cleared"
+  },
+  {
+    "receipt_id": "RCP-5F306230",
+    "transaction_id": "TXN-8286CCD9B0",
+    "customer": {
+      "customer_id": "CUST-F23436BB",
+      "name": "Kristie Richmond"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-B164",
+      "project_name": "DAMAC Lagoons"
+    },
+    "payment": {
+      "date": "2025-10-14",
+      "type": "DLD Fee",
+      "method": "Manager's Cheque",
+      "amount_aed": 213800.0,
+      "reference": "REF-872685"
+    },
+    "bank_details": {
+      "bank_name": "First Abu Dhabi Bank",
+      "cheque_number": "162640"
+    },
+    "escrow_account": "RERA-ESC-83720",
+    "status": "bounced"
+  },
+  {
+    "receipt_id": "RCP-6719C00D",
+    "transaction_id": "TXN-0F32AD21FB",
+    "customer": {
+      "customer_id": "CUST-CED73E02",
+      "name": "Jose Davis"
+    },
+    "property": {
+      "unit_id": "DAMAC-AYK-607",
+      "project_name": "AYKON City"
+    },
+    "payment": {
+      "date": "2025-03-10",
+      "type": "Booking Amount",
+      "method": "Cheque",
+      "amount_aed": 212100.0,
+      "reference": "REF-457531"
+    },
+    "bank_details": {
+      "bank_name": "First Abu Dhabi Bank",
+      "cheque_number": "150818"
+    },
+    "escrow_account": "RERA-ESC-64837",
+    "status": "bounced"
+  },
+  {
+    "receipt_id": "RCP-3CB20651",
+    "transaction_id": "TXN-3BC206BC9E",
+    "customer": {
+      "customer_id": "CUST-5CEE6AAE",
+      "name": "Angelica Miller"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-409",
+      "project_name": "DAMAC Bay"
+    },
+    "payment": {
+      "date": "2025-02-14",
+      "type": "Handover Payment",
+      "method": "Cheque",
+      "amount_aed": 700200.0,
+      "reference": "REF-837870"
+    },
+    "bank_details": {
+      "bank_name": "First Abu Dhabi Bank",
+      "cheque_number": "178005"
+    },
+    "escrow_account": "RERA-ESC-66677",
+    "status": "cleared"
+  },
+  {
+    "receipt_id": "RCP-E4E1681E",
+    "transaction_id": "TXN-4BF5F47AA0",
+    "customer": {
+      "customer_id": "CUST-E1D839C5",
+      "name": "James Sullivan"
+    },
+    "property": {
+      "unit_id": "DAMAC-TRU-D338",
+      "project_name": "Trump DAMAC Golf"
+    },
+    "payment": {
+      "date": "2025-02-24",
+      "type": "Booking Amount",
+      "method": "Manager's Cheque",
+      "amount_aed": 1615200.0,
+      "reference": "REF-812705"
+    },
+    "bank_details": {
+      "bank_name": "Mashreq Bank",
+      "cheque_number": "488148"
+    },
+    "escrow_account": "RERA-ESC-65462",
+    "status": "cleared"
+  },
+  {
+    "receipt_id": "RCP-62AED73C",
+    "transaction_id": "TXN-E0E1C070A2",
+    "customer": {
+      "customer_id": "CUST-07F2C502",
+      "name": "Emily Gonzalez"
+    },
+    "property": {
+      "unit_id": "DAMAC-CAV-4706",
+      "project_name": "Cavalli Tower"
+    },
+    "payment": {
+      "date": "2025-09-17",
+      "type": "Handover Payment",
+      "method": "Cheque",
+      "amount_aed": 2531000.0,
+      "reference": "REF-607992"
+    },
+    "bank_details": {
+      "bank_name": "First Abu Dhabi Bank",
+      "cheque_number": "708569"
+    },
+    "escrow_account": "RERA-ESC-54774",
+    "status": "bounced"
+  },
+  {
+    "receipt_id": "RCP-11CD13BC",
+    "transaction_id": "TXN-2EF64D9659",
+    "customer": {
+      "customer_id": "CUST-087B9F69",
+      "name": "Crystal Roberts"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-C193",
+      "project_name": "DAMAC Hills 2"
+    },
+    "payment": {
+      "date": "2025-12-06",
+      "type": "Handover Payment",
+      "method": "Bank Transfer",
+      "amount_aed": 3029750.0,
+      "reference": "REF-340615"
+    },
+    "bank_details": {
+      "bank_name": "Mashreq Bank",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-59289",
+    "status": "bounced"
+  },
+  {
+    "receipt_id": "RCP-06BC69CC",
+    "transaction_id": "TXN-7A430D7457",
+    "customer": {
+      "customer_id": "CUST-15D879B2",
+      "name": "James Kirk"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-E362",
+      "project_name": "DAMAC Islands"
+    },
+    "payment": {
+      "date": "2026-01-16",
+      "type": "Construction Milestone",
+      "method": "Bank Transfer",
+      "amount_aed": 2642783.12,
+      "reference": "REF-507181"
+    },
+    "bank_details": {
+      "bank_name": "Mashreq Bank",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-39172",
+    "status": "pending_clearance"
+  },
+  {
+    "receipt_id": "RCP-B8934395",
+    "transaction_id": "TXN-BF746A0822",
+    "customer": {
+      "customer_id": "CUST-5656740D",
+      "name": "Joshua Woods"
+    },
+    "property": {
+      "unit_id": "DAMAC-AYK-611",
+      "project_name": "AYKON City"
+    },
+    "payment": {
+      "date": "2025-07-03",
+      "type": "Booking Amount",
+      "method": "Bank Transfer",
+      "amount_aed": 100900.0,
+      "reference": "REF-719362"
+    },
+    "bank_details": {
+      "bank_name": "Emirates NBD",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-77011",
+    "status": "cleared"
+  },
+  {
+    "receipt_id": "RCP-468B9362",
+    "transaction_id": "TXN-E83052E0A8",
+    "customer": {
+      "customer_id": "CUST-00F894B5",
+      "name": "Laura Keller"
+    },
+    "property": {
+      "unit_id": "DAMAC-TRU-D69",
+      "project_name": "Trump DAMAC Golf"
+    },
+    "payment": {
+      "date": "2025-09-24",
+      "type": "DLD Fee",
+      "method": "Bank Transfer",
+      "amount_aed": 499080.0,
+      "reference": "REF-301503"
+    },
+    "bank_details": {
+      "bank_name": "Abu Dhabi Commercial Bank",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-19701",
+    "status": "pending_clearance"
+  },
+  {
+    "receipt_id": "RCP-BB42EC3A",
+    "transaction_id": "TXN-2BFDE78486",
+    "customer": {
+      "customer_id": "CUST-77A197BB",
+      "name": "Christopher Wilson"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-5010",
+      "project_name": "DAMAC Bay"
+    },
+    "payment": {
+      "date": "2025-12-22",
+      "type": "DLD Fee",
+      "method": "Cheque",
+      "amount_aed": 475960.0,
+      "reference": "REF-277271"
+    },
+    "bank_details": {
+      "bank_name": "Abu Dhabi Commercial Bank",
+      "cheque_number": "507634"
+    },
+    "escrow_account": "RERA-ESC-13775",
+    "status": "bounced"
+  },
+  {
+    "receipt_id": "RCP-EC52D9DA",
+    "transaction_id": "TXN-5766829D65",
+    "customer": {
+      "customer_id": "CUST-D8E602A3",
+      "name": "Mark Brewer"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-1010",
+      "project_name": "DAMAC Bay"
+    },
+    "payment": {
+      "date": "2025-05-23",
+      "type": "Handover Payment",
+      "method": "Bank Transfer",
+      "amount_aed": 905200.0,
+      "reference": "REF-331099"
+    },
+    "bank_details": {
+      "bank_name": "Mashreq Bank",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-55076",
+    "status": "pending_clearance"
+  },
+  {
+    "receipt_id": "RCP-103BAB77",
+    "transaction_id": "TXN-A15A1FC45E",
+    "customer": {
+      "customer_id": "CUST-11758954",
+      "name": "Mr. Louis Robinson"
+    },
+    "property": {
+      "unit_id": "DAMAC-CAV-1603",
+      "project_name": "Cavalli Tower"
+    },
+    "payment": {
+      "date": "2025-11-11",
+      "type": "Construction Milestone",
+      "method": "Cheque",
+      "amount_aed": 1266022.75,
+      "reference": "REF-319827"
+    },
+    "bank_details": {
+      "bank_name": "Abu Dhabi Commercial Bank",
+      "cheque_number": "199269"
+    },
+    "escrow_account": "RERA-ESC-52164",
+    "status": "cleared"
+  },
+  {
+    "receipt_id": "RCP-068A707C",
+    "transaction_id": "TXN-C4FB692147",
+    "customer": {
+      "customer_id": "CUST-D083E220",
+      "name": "Michael Reilly"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-A90",
+      "project_name": "DAMAC Hills 2"
+    },
+    "payment": {
+      "date": "2025-06-21",
+      "type": "Construction Milestone",
+      "method": "Bank Transfer",
+      "amount_aed": 1115948.64,
+      "reference": "REF-811727"
+    },
+    "bank_details": {
+      "bank_name": "Commercial Bank of Dubai",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-12629",
+    "status": "cleared"
+  },
+  {
+    "receipt_id": "RCP-C515F7B7",
+    "transaction_id": "TXN-F2BF8FC196",
+    "customer": {
+      "customer_id": "CUST-F8D939F9",
+      "name": "Dawn Zimmerman"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-D150",
+      "project_name": "DAMAC Hills"
+    },
+    "payment": {
+      "date": "2025-07-11",
+      "type": "Monthly Installment",
+      "method": "Credit Card",
+      "amount_aed": 174500.0,
+      "reference": "REF-661341"
+    },
+    "bank_details": {
+      "bank_name": "Mashreq Bank",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-49667",
+    "status": "pending_clearance"
+  },
+  {
+    "receipt_id": "RCP-805A9BB5",
+    "transaction_id": "TXN-AAFACE1DB7",
+    "customer": {
+      "customer_id": "CUST-F45E46AA",
+      "name": "Sharon Mclean"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-C147",
+      "project_name": "DAMAC Hills 2"
+    },
+    "payment": {
+      "date": "2025-09-04",
+      "type": "Booking Amount",
+      "method": "Cheque",
+      "amount_aed": 952000.0,
+      "reference": "REF-460035"
+    },
+    "bank_details": {
+      "bank_name": "Emirates NBD",
+      "cheque_number": "251225"
+    },
+    "escrow_account": "RERA-ESC-19308",
+    "status": "bounced"
+  },
+  {
+    "receipt_id": "RCP-B0D3DE45",
+    "transaction_id": "TXN-12C2F6A45B",
+    "customer": {
+      "customer_id": "CUST-880E7DC3",
+      "name": "Kenneth Williams"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-A336",
+      "project_name": "DAMAC Islands"
+    },
+    "payment": {
+      "date": "2025-11-09",
+      "type": "Admin Fee",
+      "method": "Cheque",
+      "amount_aed": 4200,
+      "reference": "REF-389467"
+    },
+    "bank_details": {
+      "bank_name": "First Abu Dhabi Bank",
+      "cheque_number": "556782"
+    },
+    "escrow_account": "RERA-ESC-49173",
+    "status": "bounced"
+  },
+  {
+    "receipt_id": "RCP-D5979B1C",
+    "transaction_id": "TXN-80C8C01DEA",
+    "customer": {
+      "customer_id": "CUST-523D4ABD",
+      "name": "Andrea Wilson"
+    },
+    "property": {
+      "unit_id": "DAMAC-TRU-A332",
+      "project_name": "Trump DAMAC Golf"
+    },
+    "payment": {
+      "date": "2025-09-10",
+      "type": "DLD Fee",
+      "method": "Credit Card",
+      "amount_aed": 482240.0,
+      "reference": "REF-260734"
+    },
+    "bank_details": {
+      "bank_name": "Dubai Islamic Bank",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-15540",
+    "status": "bounced"
+  },
+  {
+    "receipt_id": "RCP-0885EDAD",
+    "transaction_id": "TXN-0B6BAC126D",
+    "customer": {
+      "customer_id": "CUST-04870A14",
+      "name": "Katelyn Kelly"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-609",
+      "project_name": "DAMAC Bay"
+    },
+    "payment": {
+      "date": "2025-02-16",
+      "type": "Handover Payment",
+      "method": "Credit Card",
+      "amount_aed": 1709200.0,
+      "reference": "REF-921523"
+    },
+    "bank_details": {
+      "bank_name": "First Abu Dhabi Bank",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-84139",
+    "status": "pending_clearance"
+  },
+  {
+    "receipt_id": "RCP-F54F32E5",
+    "transaction_id": "TXN-7E5930735B",
+    "customer": {
+      "customer_id": "CUST-B74BA855",
+      "name": "Anne Goodwin"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-D421",
+      "project_name": "DAMAC Hills 2"
+    },
+    "payment": {
+      "date": "2025-02-08",
+      "type": "DLD Fee",
+      "method": "Bank Transfer",
+      "amount_aed": 477040.0,
+      "reference": "REF-407973"
+    },
+    "bank_details": {
+      "bank_name": "Dubai Islamic Bank",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-19607",
+    "status": "pending_clearance"
+  },
+  {
+    "receipt_id": "RCP-F658060F",
+    "transaction_id": "TXN-4F5DDE057A",
+    "customer": {
+      "customer_id": "CUST-64A22B89",
+      "name": "Andrew Grant"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-D330",
+      "project_name": "DAMAC Islands"
+    },
+    "payment": {
+      "date": "2025-12-30",
+      "type": "DLD Fee",
+      "method": "Cheque",
+      "amount_aed": 261880.0,
+      "reference": "REF-552321"
+    },
+    "bank_details": {
+      "bank_name": "RAKBANK",
+      "cheque_number": "232962"
+    },
+    "escrow_account": "RERA-ESC-37939",
+    "status": "cleared"
+  },
+  {
+    "receipt_id": "RCP-B4ADE234",
+    "transaction_id": "TXN-A9D7BB91A7",
+    "customer": {
+      "customer_id": "CUST-9F38DD9B",
+      "name": "Kara Murphy"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-D447",
+      "project_name": "DAMAC Hills"
+    },
+    "payment": {
+      "date": "2025-06-23",
+      "type": "Monthly Installment",
+      "method": "Credit Card",
+      "amount_aed": 139640.0,
+      "reference": "REF-881227"
+    },
+    "bank_details": {
+      "bank_name": "Emirates NBD",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-87333",
+    "status": "cleared"
+  },
+  {
+    "receipt_id": "RCP-A1BE2491",
+    "transaction_id": "TXN-5353455857",
+    "customer": {
+      "customer_id": "CUST-6676E83E",
+      "name": "Caitlyn Bullock"
+    },
+    "property": {
+      "unit_id": "DAMAC-AYK-4301",
+      "project_name": "AYKON City"
+    },
+    "payment": {
+      "date": "2025-02-08",
+      "type": "DLD Fee",
+      "method": "Bank Transfer",
+      "amount_aed": 135120.0,
+      "reference": "REF-521793"
+    },
+    "bank_details": {
+      "bank_name": "First Abu Dhabi Bank",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-90015",
+    "status": "pending_clearance"
+  },
+  {
+    "receipt_id": "RCP-B9584002",
+    "transaction_id": "TXN-4BD6A70BFC",
+    "customer": {
+      "customer_id": "CUST-8767B963",
+      "name": "Danielle Kelly"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-D25",
+      "project_name": "DAMAC Hills"
+    },
+    "payment": {
+      "date": "2025-02-13",
+      "type": "Admin Fee",
+      "method": "Bank Transfer",
+      "amount_aed": 4200,
+      "reference": "REF-153953"
+    },
+    "bank_details": {
+      "bank_name": "Emirates NBD",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-57134",
+    "status": "pending_clearance"
+  },
+  {
+    "receipt_id": "RCP-CABF0FBB",
+    "transaction_id": "TXN-C7DFCFF550",
+    "customer": {
+      "customer_id": "CUST-0EC31A2C",
+      "name": "Kathleen Rivera"
+    },
+    "property": {
+      "unit_id": "DAMAC-TRU-B209",
+      "project_name": "Trump DAMAC Golf"
+    },
+    "payment": {
+      "date": "2026-01-06",
+      "type": "DLD Fee",
+      "method": "Manager's Cheque",
+      "amount_aed": 197520.0,
+      "reference": "REF-393181"
+    },
+    "bank_details": {
+      "bank_name": "Dubai Islamic Bank",
+      "cheque_number": "545499"
+    },
+    "escrow_account": "RERA-ESC-41834",
+    "status": "bounced"
+  },
+  {
+    "receipt_id": "RCP-1751E932",
+    "transaction_id": "TXN-81633E7A35",
+    "customer": {
+      "customer_id": "CUST-85AC1DC8",
+      "name": "Jessica Macias"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-2603",
+      "project_name": "DAMAC Bay"
+    },
+    "payment": {
+      "date": "2025-06-21",
+      "type": "Admin Fee",
+      "method": "Bank Transfer",
+      "amount_aed": 4200,
+      "reference": "REF-316641"
+    },
+    "bank_details": {
+      "bank_name": "RAKBANK",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-21597",
+    "status": "pending_clearance"
+  },
+  {
+    "receipt_id": "RCP-BFE109C6",
+    "transaction_id": "TXN-8EBF5CE96C",
+    "customer": {
+      "customer_id": "CUST-C5252720",
+      "name": "John Anderson"
+    },
+    "property": {
+      "unit_id": "DAMAC-SAF-4509",
+      "project_name": "Safa One"
+    },
+    "payment": {
+      "date": "2025-05-19",
+      "type": "Construction Milestone",
+      "method": "Bank Transfer",
+      "amount_aed": 860918.42,
+      "reference": "REF-324179"
+    },
+    "bank_details": {
+      "bank_name": "Emirates NBD",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-48502",
+    "status": "pending_clearance"
+  },
+  {
+    "receipt_id": "RCP-3877D8DE",
+    "transaction_id": "TXN-8E81558E7B",
+    "customer": {
+      "customer_id": "CUST-4CB23EDA",
+      "name": "Cheryl Drake"
+    },
+    "property": {
+      "unit_id": "DAMAC-SAF-4309",
+      "project_name": "Safa One"
+    },
+    "payment": {
+      "date": "2026-01-03",
+      "type": "Construction Milestone",
+      "method": "Manager's Cheque",
+      "amount_aed": 2314195.85,
+      "reference": "REF-329293"
+    },
+    "bank_details": {
+      "bank_name": "Mashreq Bank",
+      "cheque_number": "221090"
+    },
+    "escrow_account": "RERA-ESC-16566",
+    "status": "cleared"
+  },
+  {
+    "receipt_id": "RCP-4CF04847",
+    "transaction_id": "TXN-95846AC98F",
+    "customer": {
+      "customer_id": "CUST-6BDD848C",
+      "name": "Maria Miles"
+    },
+    "property": {
+      "unit_id": "DAMAC-SAF-811",
+      "project_name": "Safa Two"
+    },
+    "payment": {
+      "date": "2025-03-12",
+      "type": "Handover Payment",
+      "method": "Cheque",
+      "amount_aed": 878400.0,
+      "reference": "REF-678987"
+    },
+    "bank_details": {
+      "bank_name": "Dubai Islamic Bank",
+      "cheque_number": "207368"
+    },
+    "escrow_account": "RERA-ESC-55858",
+    "status": "bounced"
+  },
+  {
+    "receipt_id": "RCP-E590BF1F",
+    "transaction_id": "TXN-DF78112B85",
+    "customer": {
+      "customer_id": "CUST-6F002806",
+      "name": "Debbie Foster"
+    },
+    "property": {
+      "unit_id": "DAMAC-SAF-2905",
+      "project_name": "Safa Two"
+    },
+    "payment": {
+      "date": "2025-08-29",
+      "type": "Monthly Installment",
+      "method": "Bank Transfer",
+      "amount_aed": 25270.0,
+      "reference": "REF-506446"
+    },
+    "bank_details": {
+      "bank_name": "Emirates NBD",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-82078",
+    "status": "bounced"
+  },
+  {
+    "receipt_id": "RCP-00F23A3D",
+    "transaction_id": "TXN-5B0D11F54B",
+    "customer": {
+      "customer_id": "CUST-2C8067E9",
+      "name": "Michael Horne"
+    },
+    "property": {
+      "unit_id": "DAMAC-TRU-A405",
+      "project_name": "Trump DAMAC Golf"
+    },
+    "payment": {
+      "date": "2025-04-29",
+      "type": "DLD Fee",
+      "method": "Cheque",
+      "amount_aed": 378040.0,
+      "reference": "REF-266928"
+    },
+    "bank_details": {
+      "bank_name": "Emirates NBD",
+      "cheque_number": "161747"
+    },
+    "escrow_account": "RERA-ESC-30684",
+    "status": "bounced"
+  },
+  {
+    "receipt_id": "RCP-4D97D408",
+    "transaction_id": "TXN-FC7E44169C",
+    "customer": {
+      "customer_id": "CUST-FF97AC84",
+      "name": "Emily Cohen"
+    },
+    "property": {
+      "unit_id": "DAMAC-SAF-1310",
+      "project_name": "Safa One"
+    },
+    "payment": {
+      "date": "2025-03-28",
+      "type": "Monthly Installment",
+      "method": "Bank Transfer",
+      "amount_aed": 124350.0,
+      "reference": "REF-743612"
+    },
+    "bank_details": {
+      "bank_name": "Emirates NBD",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-65275",
+    "status": "bounced"
+  },
+  {
+    "receipt_id": "RCP-36FC560D",
+    "transaction_id": "TXN-435649D702",
+    "customer": {
+      "customer_id": "CUST-9CB2AE3D",
+      "name": "Nancy Baldwin"
+    },
+    "property": {
+      "unit_id": "DAMAC-SAF-2309",
+      "project_name": "Safa Two"
+    },
+    "payment": {
+      "date": "2025-06-15",
+      "type": "Admin Fee",
+      "method": "Bank Transfer",
+      "amount_aed": 4200,
+      "reference": "REF-186886"
+    },
+    "bank_details": {
+      "bank_name": "RAKBANK",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-74037",
+    "status": "cleared"
+  },
+  {
+    "receipt_id": "RCP-03489332",
+    "transaction_id": "TXN-44100BC4B2",
+    "customer": {
+      "customer_id": "CUST-DE33710E",
+      "name": "Shane Ellis"
+    },
+    "property": {
+      "unit_id": "DAMAC-AYK-3311",
+      "project_name": "AYKON City"
+    },
+    "payment": {
+      "date": "2025-05-31",
+      "type": "Booking Amount",
+      "method": "Bank Transfer",
+      "amount_aed": 2258700.0,
+      "reference": "REF-101013"
+    },
+    "bank_details": {
+      "bank_name": "RAKBANK",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-74839",
+    "status": "pending_clearance"
+  },
+  {
+    "receipt_id": "RCP-FA26188F",
+    "transaction_id": "TXN-BC52C27A65",
+    "customer": {
+      "customer_id": "CUST-DBE7EBC2",
+      "name": "Kenneth Williams"
+    },
+    "property": {
+      "unit_id": "DAMAC-ZAD-4505",
+      "project_name": "Zada Tower"
+    },
+    "payment": {
+      "date": "2025-05-16",
+      "type": "Construction Milestone",
+      "method": "Bank Transfer",
+      "amount_aed": 188625.39,
+      "reference": "REF-932294"
+    },
+    "bank_details": {
+      "bank_name": "First Abu Dhabi Bank",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-42135",
+    "status": "pending_clearance"
+  },
+  {
+    "receipt_id": "RCP-2F915A5C",
+    "transaction_id": "TXN-1626C5CD52",
+    "customer": {
+      "customer_id": "CUST-1A3D7057",
+      "name": "Nicole Miller"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-E211",
+      "project_name": "DAMAC Hills"
+    },
+    "payment": {
+      "date": "2025-03-24",
+      "type": "Construction Milestone",
+      "method": "Cheque",
+      "amount_aed": 563519.68,
+      "reference": "REF-121858"
+    },
+    "bank_details": {
+      "bank_name": "First Abu Dhabi Bank",
+      "cheque_number": "157011"
+    },
+    "escrow_account": "RERA-ESC-66717",
+    "status": "cleared"
+  },
+  {
+    "receipt_id": "RCP-F04A8AE5",
+    "transaction_id": "TXN-B83B3BE460",
+    "customer": {
+      "customer_id": "CUST-463333C9",
+      "name": "Kayla Holloway"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-1006",
+      "project_name": "DAMAC Bay"
+    },
+    "payment": {
+      "date": "2025-05-04",
+      "type": "Booking Amount",
+      "method": "Bank Transfer",
+      "amount_aed": 343000.0,
+      "reference": "REF-775345"
+    },
+    "bank_details": {
+      "bank_name": "Emirates NBD",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-80029",
+    "status": "pending_clearance"
+  },
+  {
+    "receipt_id": "RCP-68E4E9A3",
+    "transaction_id": "TXN-ECD52CF430",
+    "customer": {
+      "customer_id": "CUST-C1063875",
+      "name": "Patricia Gonzalez"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-B8",
+      "project_name": "DAMAC Islands"
+    },
+    "payment": {
+      "date": "2025-03-20",
+      "type": "Construction Milestone",
+      "method": "Bank Transfer",
+      "amount_aed": 3626763.98,
+      "reference": "REF-887822"
+    },
+    "bank_details": {
+      "bank_name": "Mashreq Bank",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-21673",
+    "status": "cleared"
+  },
+  {
+    "receipt_id": "RCP-B9AC9032",
+    "transaction_id": "TXN-CFDA5C1992",
+    "customer": {
+      "customer_id": "CUST-31F13883",
+      "name": "Melissa Wolfe"
+    },
+    "property": {
+      "unit_id": "DAMAC-SAF-1811",
+      "project_name": "Safa Two"
+    },
+    "payment": {
+      "date": "2025-09-19",
+      "type": "Booking Amount",
+      "method": "Bank Transfer",
+      "amount_aed": 202400.0,
+      "reference": "REF-321508"
+    },
+    "bank_details": {
+      "bank_name": "RAKBANK",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-19294",
+    "status": "bounced"
+  },
+  {
+    "receipt_id": "RCP-D075C395",
+    "transaction_id": "TXN-DDDE30BAC2",
+    "customer": {
+      "customer_id": "CUST-7CA9BEE4",
+      "name": "Anthony Simmons"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-3102",
+      "project_name": "DAMAC Bay 2"
+    },
+    "payment": {
+      "date": "2025-03-22",
+      "type": "Construction Milestone",
+      "method": "Cheque",
+      "amount_aed": 973428.69,
+      "reference": "REF-261606"
+    },
+    "bank_details": {
+      "bank_name": "First Abu Dhabi Bank",
+      "cheque_number": "569985"
+    },
+    "escrow_account": "RERA-ESC-91599",
+    "status": "pending_clearance"
+  },
+  {
+    "receipt_id": "RCP-20D16C63",
+    "transaction_id": "TXN-B52E01614F",
+    "customer": {
+      "customer_id": "CUST-BA3B0A37",
+      "name": "Steven Dickerson"
+    },
+    "property": {
+      "unit_id": "DAMAC-CAV-2806",
+      "project_name": "Cavalli Tower"
+    },
+    "payment": {
+      "date": "2025-11-26",
+      "type": "Booking Amount",
+      "method": "Bank Transfer",
+      "amount_aed": 367700.0,
+      "reference": "REF-542753"
+    },
+    "bank_details": {
+      "bank_name": "Emirates NBD",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-67790",
+    "status": "cleared"
+  },
+  {
+    "receipt_id": "RCP-155D2270",
+    "transaction_id": "TXN-AF9A000CC9",
+    "customer": {
+      "customer_id": "CUST-11962966",
+      "name": "Megan Owens"
+    },
+    "property": {
+      "unit_id": "DAMAC-ZAD-506",
+      "project_name": "Zada Tower"
+    },
+    "payment": {
+      "date": "2025-05-18",
+      "type": "Admin Fee",
+      "method": "Credit Card",
+      "amount_aed": 4200,
+      "reference": "REF-582379"
+    },
+    "bank_details": {
+      "bank_name": "RAKBANK",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-77605",
+    "status": "cleared"
+  },
+  {
+    "receipt_id": "RCP-02E09BB2",
+    "transaction_id": "TXN-D29D7CB676",
+    "customer": {
+      "customer_id": "CUST-0F634548",
+      "name": "Corey Watson MD"
+    },
+    "property": {
+      "unit_id": "DAMAC-AYK-4908",
+      "project_name": "AYKON City"
+    },
+    "payment": {
+      "date": "2025-09-16",
+      "type": "Construction Milestone",
+      "method": "Credit Card",
+      "amount_aed": 3508835.25,
+      "reference": "REF-368173"
+    },
+    "bank_details": {
+      "bank_name": "RAKBANK",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-57886",
+    "status": "pending_clearance"
+  },
+  {
+    "receipt_id": "RCP-D10C4B1D",
+    "transaction_id": "TXN-21780D6FCD",
+    "customer": {
+      "customer_id": "CUST-97B0D900",
+      "name": "Zachary Collins"
+    },
+    "property": {
+      "unit_id": "DAMAC-AYK-3211",
+      "project_name": "AYKON City"
+    },
+    "payment": {
+      "date": "2025-05-26",
+      "type": "Handover Payment",
+      "method": "Credit Card",
+      "amount_aed": 1087000.0,
+      "reference": "REF-387535"
+    },
+    "bank_details": {
+      "bank_name": "Commercial Bank of Dubai",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-75715",
+    "status": "pending_clearance"
+  },
+  {
+    "receipt_id": "RCP-F2898DE7",
+    "transaction_id": "TXN-FEC2B54484",
+    "customer": {
+      "customer_id": "CUST-206D8EAC",
+      "name": "Hunter Harrison"
+    },
+    "property": {
+      "unit_id": "DAMAC-ZAD-3708",
+      "project_name": "Zada Tower"
+    },
+    "payment": {
+      "date": "2025-12-06",
+      "type": "Admin Fee",
+      "method": "Credit Card",
+      "amount_aed": 4200,
+      "reference": "REF-132173"
+    },
+    "bank_details": {
+      "bank_name": "Emirates NBD",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-65454",
+    "status": "pending_clearance"
+  },
+  {
+    "receipt_id": "RCP-AB0395D0",
+    "transaction_id": "TXN-C0159B186F",
+    "customer": {
+      "customer_id": "CUST-10C553A8",
+      "name": "Eddie Rogers"
+    },
+    "property": {
+      "unit_id": "DAMAC-AYK-502",
+      "project_name": "AYKON City"
+    },
+    "payment": {
+      "date": "2025-03-31",
+      "type": "Construction Milestone",
+      "method": "Manager's Cheque",
+      "amount_aed": 192750.07,
+      "reference": "REF-679556"
+    },
+    "bank_details": {
+      "bank_name": "Dubai Islamic Bank",
+      "cheque_number": "130476"
+    },
+    "escrow_account": "RERA-ESC-18211",
+    "status": "bounced"
+  },
+  {
+    "receipt_id": "RCP-12903F0B",
+    "transaction_id": "TXN-7C682C3C66",
+    "customer": {
+      "customer_id": "CUST-743C3397",
+      "name": "Rebecca Hudson"
+    },
+    "property": {
+      "unit_id": "DAMAC-SAF-1608",
+      "project_name": "Safa One"
+    },
+    "payment": {
+      "date": "2025-11-30",
+      "type": "Monthly Installment",
+      "method": "Cheque",
+      "amount_aed": 10990.0,
+      "reference": "REF-361419"
+    },
+    "bank_details": {
+      "bank_name": "First Abu Dhabi Bank",
+      "cheque_number": "123299"
+    },
+    "escrow_account": "RERA-ESC-39141",
+    "status": "pending_clearance"
+  },
+  {
+    "receipt_id": "RCP-5AAEC54B",
+    "transaction_id": "TXN-D4A65E7456",
+    "customer": {
+      "customer_id": "CUST-FA70B5E9",
+      "name": "Brian Thomas"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-E408",
+      "project_name": "DAMAC Islands"
+    },
+    "payment": {
+      "date": "2025-04-08",
+      "type": "Handover Payment",
+      "method": "Cheque",
+      "amount_aed": 4346800.0,
+      "reference": "REF-509556"
+    },
+    "bank_details": {
+      "bank_name": "Commercial Bank of Dubai",
+      "cheque_number": "101991"
+    },
+    "escrow_account": "RERA-ESC-66787",
+    "status": "cleared"
+  },
+  {
+    "receipt_id": "RCP-BFC10F92",
+    "transaction_id": "TXN-5D60B78A33",
+    "customer": {
+      "customer_id": "CUST-422918C3",
+      "name": "Steve Holmes"
+    },
+    "property": {
+      "unit_id": "DAMAC-AYK-1908",
+      "project_name": "AYKON City"
+    },
+    "payment": {
+      "date": "2025-12-17",
+      "type": "Booking Amount",
+      "method": "Credit Card",
+      "amount_aed": 251200.0,
+      "reference": "REF-597874"
+    },
+    "bank_details": {
+      "bank_name": "Emirates NBD",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-35085",
+    "status": "bounced"
+  },
+  {
+    "receipt_id": "RCP-BD3D4DFA",
+    "transaction_id": "TXN-1FFE20F861",
+    "customer": {
+      "customer_id": "CUST-D8A4155E",
+      "name": "Douglas Kelly"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-A442",
+      "project_name": "DAMAC Lagoons"
+    },
+    "payment": {
+      "date": "2025-07-13",
+      "type": "Construction Milestone",
+      "method": "Bank Transfer",
+      "amount_aed": 1203851.8,
+      "reference": "REF-250623"
+    },
+    "bank_details": {
+      "bank_name": "Dubai Islamic Bank",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-96816",
+    "status": "bounced"
+  },
+  {
+    "receipt_id": "RCP-5AF5E499",
+    "transaction_id": "TXN-B5C28D7E89",
+    "customer": {
+      "customer_id": "CUST-0B0E1947",
+      "name": "Larry Daniels"
+    },
+    "property": {
+      "unit_id": "DAMAC-SAF-4311",
+      "project_name": "Safa Two"
+    },
+    "payment": {
+      "date": "2025-07-20",
+      "type": "Monthly Installment",
+      "method": "Bank Transfer",
+      "amount_aed": 98500.0,
+      "reference": "REF-106654"
+    },
+    "bank_details": {
+      "bank_name": "Commercial Bank of Dubai",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-22233",
+    "status": "pending_clearance"
+  },
+  {
+    "receipt_id": "RCP-BAF35F20",
+    "transaction_id": "TXN-CCD6C5452F",
+    "customer": {
+      "customer_id": "CUST-05337253",
+      "name": "Miss Christina Brown"
+    },
+    "property": {
+      "unit_id": "DAMAC-CAV-901",
+      "project_name": "Cavalli Tower"
+    },
+    "payment": {
+      "date": "2025-09-30",
+      "type": "DLD Fee",
+      "method": "Bank Transfer",
+      "amount_aed": 84600.0,
+      "reference": "REF-507691"
+    },
+    "bank_details": {
+      "bank_name": "Abu Dhabi Commercial Bank",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-16136",
+    "status": "bounced"
+  },
+  {
+    "receipt_id": "RCP-E2A7B662",
+    "transaction_id": "TXN-B56F8AEB8A",
+    "customer": {
+      "customer_id": "CUST-3B4ADD88",
+      "name": "Angela Becker"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-C97",
+      "project_name": "DAMAC Hills"
+    },
+    "payment": {
+      "date": "2025-10-03",
+      "type": "DLD Fee",
+      "method": "Bank Transfer",
+      "amount_aed": 504160.0,
+      "reference": "REF-521614"
+    },
+    "bank_details": {
+      "bank_name": "First Abu Dhabi Bank",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-13289",
+    "status": "pending_clearance"
+  },
+  {
+    "receipt_id": "RCP-24200E47",
+    "transaction_id": "TXN-3C095178F9",
+    "customer": {
+      "customer_id": "CUST-D2A6BB83",
+      "name": "Jeremiah Bailey"
+    },
+    "property": {
+      "unit_id": "DAMAC-SAF-3608",
+      "project_name": "Safa One"
+    },
+    "payment": {
+      "date": "2025-11-18",
+      "type": "Handover Payment",
+      "method": "Bank Transfer",
+      "amount_aed": 1710400.0,
+      "reference": "REF-646033"
+    },
+    "bank_details": {
+      "bank_name": "Abu Dhabi Commercial Bank",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-73012",
+    "status": "cleared"
+  },
+  {
+    "receipt_id": "RCP-03D568CB",
+    "transaction_id": "TXN-2B0BB5C95B",
+    "customer": {
+      "customer_id": "CUST-9EB2B814",
+      "name": "Janice Guzman"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-E498",
+      "project_name": "DAMAC Lagoons"
+    },
+    "payment": {
+      "date": "2025-11-18",
+      "type": "Handover Payment",
+      "method": "Cheque",
+      "amount_aed": 4756400.0,
+      "reference": "REF-491931"
+    },
+    "bank_details": {
+      "bank_name": "Dubai Islamic Bank",
+      "cheque_number": "311030"
+    },
+    "escrow_account": "RERA-ESC-51478",
+    "status": "cleared"
+  },
+  {
+    "receipt_id": "RCP-93132E7A",
+    "transaction_id": "TXN-917F3441EF",
+    "customer": {
+      "customer_id": "CUST-959652A7",
+      "name": "David Benjamin"
+    },
+    "property": {
+      "unit_id": "DAMAC-SAF-4807",
+      "project_name": "Safa One"
+    },
+    "payment": {
+      "date": "2025-09-11",
+      "type": "Handover Payment",
+      "method": "Credit Card",
+      "amount_aed": 833200.0,
+      "reference": "REF-165759"
+    },
+    "bank_details": {
+      "bank_name": "RAKBANK",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-75285",
+    "status": "bounced"
+  },
+  {
+    "receipt_id": "RCP-107C6265",
+    "transaction_id": "TXN-8523741832",
+    "customer": {
+      "customer_id": "CUST-F57B5626",
+      "name": "Sabrina Tran"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-C32",
+      "project_name": "DAMAC Lagoons"
+    },
+    "payment": {
+      "date": "2025-01-27",
+      "type": "Construction Milestone",
+      "method": "Cheque",
+      "amount_aed": 1281141.1,
+      "reference": "REF-702084"
+    },
+    "bank_details": {
+      "bank_name": "Dubai Islamic Bank",
+      "cheque_number": "772936"
+    },
+    "escrow_account": "RERA-ESC-95859",
+    "status": "cleared"
+  },
+  {
+    "receipt_id": "RCP-44E4D56D",
+    "transaction_id": "TXN-20631B8A69",
+    "customer": {
+      "customer_id": "CUST-5251B410",
+      "name": "Dawn Bailey"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-E83",
+      "project_name": "DAMAC Lagoons"
+    },
+    "payment": {
+      "date": "2025-08-03",
+      "type": "Admin Fee",
+      "method": "Bank Transfer",
+      "amount_aed": 4200,
+      "reference": "REF-358385"
+    },
+    "bank_details": {
+      "bank_name": "First Abu Dhabi Bank",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-43622",
+    "status": "pending_clearance"
+  },
+  {
+    "receipt_id": "RCP-2282FB54",
+    "transaction_id": "TXN-659999F129",
+    "customer": {
+      "customer_id": "CUST-F56DDD54",
+      "name": "Jordan Powell"
+    },
+    "property": {
+      "unit_id": "DAMAC-CAV-1707",
+      "project_name": "Cavalli Tower"
+    },
+    "payment": {
+      "date": "2025-08-19",
+      "type": "Handover Payment",
+      "method": "Bank Transfer",
+      "amount_aed": 746000.0,
+      "reference": "REF-723076"
+    },
+    "bank_details": {
+      "bank_name": "Dubai Islamic Bank",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-28303",
+    "status": "cleared"
+  },
+  {
+    "receipt_id": "RCP-01442E57",
+    "transaction_id": "TXN-40B3A558E5",
+    "customer": {
+      "customer_id": "CUST-18F208E5",
+      "name": "Cody Williams"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-A376",
+      "project_name": "DAMAC Islands"
+    },
+    "payment": {
+      "date": "2025-10-28",
+      "type": "Monthly Installment",
+      "method": "Bank Transfer",
+      "amount_aed": 156090.0,
+      "reference": "REF-583895"
+    },
+    "bank_details": {
+      "bank_name": "First Abu Dhabi Bank",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-41431",
+    "status": "pending_clearance"
+  },
+  {
+    "receipt_id": "RCP-67ABDD01",
+    "transaction_id": "TXN-0C2FC6CA77",
+    "customer": {
+      "customer_id": "CUST-A8875A19",
+      "name": "Pedro Bernard"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-A355",
+      "project_name": "DAMAC Hills"
+    },
+    "payment": {
+      "date": "2025-09-23",
+      "type": "Handover Payment",
+      "method": "Bank Transfer",
+      "amount_aed": 3458600.0,
+      "reference": "REF-650775"
+    },
+    "bank_details": {
+      "bank_name": "Dubai Islamic Bank",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-98118",
+    "status": "bounced"
+  },
+  {
+    "receipt_id": "RCP-82F4D851",
+    "transaction_id": "TXN-B1E8937824",
+    "customer": {
+      "customer_id": "CUST-B30268E0",
+      "name": "Kyle Leblanc"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-602",
+      "project_name": "DAMAC Bay"
+    },
+    "payment": {
+      "date": "2025-05-25",
+      "type": "Handover Payment",
+      "method": "Bank Transfer",
+      "amount_aed": 1599500.0,
+      "reference": "REF-692089"
+    },
+    "bank_details": {
+      "bank_name": "First Abu Dhabi Bank",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-42717",
+    "status": "pending_clearance"
+  },
+  {
+    "receipt_id": "RCP-3774B784",
+    "transaction_id": "TXN-B522F7B71D",
+    "customer": {
+      "customer_id": "CUST-012EB20B",
+      "name": "Karen Gonzales"
+    },
+    "property": {
+      "unit_id": "DAMAC-ZAD-3005",
+      "project_name": "Zada Tower"
+    },
+    "payment": {
+      "date": "2025-12-20",
+      "type": "Booking Amount",
+      "method": "Bank Transfer",
+      "amount_aed": 647100.0,
+      "reference": "REF-381727"
+    },
+    "bank_details": {
+      "bank_name": "RAKBANK",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-58006",
+    "status": "pending_clearance"
+  },
+  {
+    "receipt_id": "RCP-8DF3A197",
+    "transaction_id": "TXN-70803BFD4D",
+    "customer": {
+      "customer_id": "CUST-770B1DA0",
+      "name": "Sarah Arroyo"
+    },
+    "property": {
+      "unit_id": "DAMAC-CAV-2908",
+      "project_name": "Cavalli Tower"
+    },
+    "payment": {
+      "date": "2025-09-09",
+      "type": "DLD Fee",
+      "method": "Credit Card",
+      "amount_aed": 90320.0,
+      "reference": "REF-304990"
+    },
+    "bank_details": {
+      "bank_name": "First Abu Dhabi Bank",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-71699",
+    "status": "cleared"
+  },
+  {
+    "receipt_id": "RCP-CCF18CD8",
+    "transaction_id": "TXN-73498EBB33",
+    "customer": {
+      "customer_id": "CUST-DA167181",
+      "name": "Calvin Adams"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-1912",
+      "project_name": "DAMAC Bay 2"
+    },
+    "payment": {
+      "date": "2025-04-29",
+      "type": "Admin Fee",
+      "method": "Cheque",
+      "amount_aed": 4200,
+      "reference": "REF-781174"
+    },
+    "bank_details": {
+      "bank_name": "Commercial Bank of Dubai",
+      "cheque_number": "104985"
+    },
+    "escrow_account": "RERA-ESC-81603",
+    "status": "cleared"
+  },
+  {
+    "receipt_id": "RCP-93893BDD",
+    "transaction_id": "TXN-B2FA696980",
+    "customer": {
+      "customer_id": "CUST-F9F3D691",
+      "name": "Pamela Mclean"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-4206",
+      "project_name": "DAMAC Bay"
+    },
+    "payment": {
+      "date": "2025-07-30",
+      "type": "Booking Amount",
+      "method": "Bank Transfer",
+      "amount_aed": 1745500.0,
+      "reference": "REF-335493"
+    },
+    "bank_details": {
+      "bank_name": "Emirates NBD",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-97420",
+    "status": "bounced"
+  },
+  {
+    "receipt_id": "RCP-BE8F9DF2",
+    "transaction_id": "TXN-0B5E566B0C",
+    "customer": {
+      "customer_id": "CUST-598B99B3",
+      "name": "Daniel Dawson"
+    },
+    "property": {
+      "unit_id": "DAMAC-ZAD-2004",
+      "project_name": "Zada Tower"
+    },
+    "payment": {
+      "date": "2025-02-03",
+      "type": "Booking Amount",
+      "method": "Credit Card",
+      "amount_aed": 221100.0,
+      "reference": "REF-854398"
+    },
+    "bank_details": {
+      "bank_name": "Emirates NBD",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-11448",
+    "status": "cleared"
+  },
+  {
+    "receipt_id": "RCP-B02362B5",
+    "transaction_id": "TXN-FE8A485AFE",
+    "customer": {
+      "customer_id": "CUST-B0560628",
+      "name": "Michael Hawkins"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-3007",
+      "project_name": "DAMAC Bay 2"
+    },
+    "payment": {
+      "date": "2025-12-21",
+      "type": "Construction Milestone",
+      "method": "Bank Transfer",
+      "amount_aed": 263790.71,
+      "reference": "REF-378275"
+    },
+    "bank_details": {
+      "bank_name": "RAKBANK",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-77701",
+    "status": "bounced"
+  },
+  {
+    "receipt_id": "RCP-8F2208CE",
+    "transaction_id": "TXN-7DEF47F04C",
+    "customer": {
+      "customer_id": "CUST-B5575253",
+      "name": "Kathryn Olsen"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-A259",
+      "project_name": "DAMAC Islands"
+    },
+    "payment": {
+      "date": "2025-11-07",
+      "type": "Booking Amount",
+      "method": "Bank Transfer",
+      "amount_aed": 821700.0,
+      "reference": "REF-459493"
+    },
+    "bank_details": {
+      "bank_name": "RAKBANK",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-44207",
+    "status": "pending_clearance"
+  },
+  {
+    "receipt_id": "RCP-7036E4A1",
+    "transaction_id": "TXN-9C6BDE743B",
+    "customer": {
+      "customer_id": "CUST-8E6E623F",
+      "name": "Scott Chavez DDS"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-5006",
+      "project_name": "DAMAC Bay 2"
+    },
+    "payment": {
+      "date": "2025-05-02",
+      "type": "DLD Fee",
+      "method": "Cheque",
+      "amount_aed": 40320.0,
+      "reference": "REF-758789"
+    },
+    "bank_details": {
+      "bank_name": "Commercial Bank of Dubai",
+      "cheque_number": "981429"
+    },
+    "escrow_account": "RERA-ESC-13168",
+    "status": "pending_clearance"
+  },
+  {
+    "receipt_id": "RCP-15594336",
+    "transaction_id": "TXN-C98226F81C",
+    "customer": {
+      "customer_id": "CUST-EBEC019B",
+      "name": "Kelsey Le"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-E202",
+      "project_name": "DAMAC Hills"
+    },
+    "payment": {
+      "date": "2025-04-21",
+      "type": "DLD Fee",
+      "method": "Bank Transfer",
+      "amount_aed": 831040.0,
+      "reference": "REF-429450"
+    },
+    "bank_details": {
+      "bank_name": "Abu Dhabi Commercial Bank",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-28534",
+    "status": "bounced"
+  },
+  {
+    "receipt_id": "RCP-75392A5F",
+    "transaction_id": "TXN-A088F5F853",
+    "customer": {
+      "customer_id": "CUST-6CDD555E",
+      "name": "Amanda Nguyen"
+    },
+    "property": {
+      "unit_id": "DAMAC-ZAD-3105",
+      "project_name": "Zada Tower"
+    },
+    "payment": {
+      "date": "2025-04-25",
+      "type": "Construction Milestone",
+      "method": "Cheque",
+      "amount_aed": 97525.57,
+      "reference": "REF-403855"
+    },
+    "bank_details": {
+      "bank_name": "Commercial Bank of Dubai",
+      "cheque_number": "277015"
+    },
+    "escrow_account": "RERA-ESC-26506",
+    "status": "cleared"
+  },
+  {
+    "receipt_id": "RCP-FC7307B7",
+    "transaction_id": "TXN-09264C2C87",
+    "customer": {
+      "customer_id": "CUST-B886FB00",
+      "name": "Christopher Miranda"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-A362",
+      "project_name": "DAMAC Islands"
+    },
+    "payment": {
+      "date": "2025-06-17",
+      "type": "Handover Payment",
+      "method": "Bank Transfer",
+      "amount_aed": 1984000.0,
+      "reference": "REF-221446"
+    },
+    "bank_details": {
+      "bank_name": "First Abu Dhabi Bank",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-47417",
+    "status": "bounced"
+  },
+  {
+    "receipt_id": "RCP-6CA83AD2",
+    "transaction_id": "TXN-81B707C583",
+    "customer": {
+      "customer_id": "CUST-F572CC72",
+      "name": "Richard Mendoza"
+    },
+    "property": {
+      "unit_id": "DAMAC-ZAD-212",
+      "project_name": "Zada Tower"
+    },
+    "payment": {
+      "date": "2025-02-19",
+      "type": "Handover Payment",
+      "method": "Bank Transfer",
+      "amount_aed": 1397600.0,
+      "reference": "REF-810781"
+    },
+    "bank_details": {
+      "bank_name": "RAKBANK",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-16976",
+    "status": "pending_clearance"
+  },
+  {
+    "receipt_id": "RCP-28275214",
+    "transaction_id": "TXN-128931A81F",
+    "customer": {
+      "customer_id": "CUST-1327C628",
+      "name": "Anne Preston"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-A109",
+      "project_name": "DAMAC Lagoons"
+    },
+    "payment": {
+      "date": "2025-09-26",
+      "type": "Monthly Installment",
+      "method": "Bank Transfer",
+      "amount_aed": 209940.0,
+      "reference": "REF-522141"
+    },
+    "bank_details": {
+      "bank_name": "Commercial Bank of Dubai",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-46423",
+    "status": "pending_clearance"
+  },
+  {
+    "receipt_id": "RCP-35ABDF64",
+    "transaction_id": "TXN-03BEC4F63B",
+    "customer": {
+      "customer_id": "CUST-6928721D",
+      "name": "Amber Morales"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-D328",
+      "project_name": "DAMAC Hills"
+    },
+    "payment": {
+      "date": "2025-08-04",
+      "type": "Admin Fee",
+      "method": "Bank Transfer",
+      "amount_aed": 4200,
+      "reference": "REF-132869"
+    },
+    "bank_details": {
+      "bank_name": "Commercial Bank of Dubai",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-64695",
+    "status": "pending_clearance"
+  },
+  {
+    "receipt_id": "RCP-B9F79709",
+    "transaction_id": "TXN-6866356EF3",
+    "customer": {
+      "customer_id": "CUST-204EAB7A",
+      "name": "Andrew Santana"
+    },
+    "property": {
+      "unit_id": "DAMAC-AYK-4701",
+      "project_name": "AYKON City"
+    },
+    "payment": {
+      "date": "2026-01-16",
+      "type": "Monthly Installment",
+      "method": "Bank Transfer",
+      "amount_aed": 34650.0,
+      "reference": "REF-464074"
+    },
+    "bank_details": {
+      "bank_name": "Abu Dhabi Commercial Bank",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-32358",
+    "status": "cleared"
+  },
+  {
+    "receipt_id": "RCP-4B93E42E",
+    "transaction_id": "TXN-7B43EA1BA1",
+    "customer": {
+      "customer_id": "CUST-CE282EC2",
+      "name": "Matthew Watkins"
+    },
+    "property": {
+      "unit_id": "DAMAC-CAV-1609",
+      "project_name": "Cavalli Tower"
+    },
+    "payment": {
+      "date": "2025-10-03",
+      "type": "Handover Payment",
+      "method": "Bank Transfer",
+      "amount_aed": 2105000.0,
+      "reference": "REF-648937"
+    },
+    "bank_details": {
+      "bank_name": "Abu Dhabi Commercial Bank",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-46122",
+    "status": "pending_clearance"
+  },
+  {
+    "receipt_id": "RCP-AB5FC622",
+    "transaction_id": "TXN-F95998474B",
+    "customer": {
+      "customer_id": "CUST-47267291",
+      "name": "Patricia Rogers"
+    },
+    "property": {
+      "unit_id": "DAMAC-CAV-5004",
+      "project_name": "Cavalli Tower"
+    },
+    "payment": {
+      "date": "2025-12-03",
+      "type": "Construction Milestone",
+      "method": "Bank Transfer",
+      "amount_aed": 105440.72,
+      "reference": "REF-840119"
+    },
+    "bank_details": {
+      "bank_name": "Abu Dhabi Commercial Bank",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-85182",
+    "status": "pending_clearance"
+  },
+  {
+    "receipt_id": "RCP-8BEBCE49",
+    "transaction_id": "TXN-FCC58D161E",
+    "customer": {
+      "customer_id": "CUST-6D902299",
+      "name": "Renee Peterson"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-D271",
+      "project_name": "DAMAC Lagoons"
+    },
+    "payment": {
+      "date": "2025-11-25",
+      "type": "DLD Fee",
+      "method": "Manager's Cheque",
+      "amount_aed": 261880.0,
+      "reference": "REF-821456"
+    },
+    "bank_details": {
+      "bank_name": "Dubai Islamic Bank",
+      "cheque_number": "249903"
+    },
+    "escrow_account": "RERA-ESC-49158",
+    "status": "pending_clearance"
+  },
+  {
+    "receipt_id": "RCP-EBA18867",
+    "transaction_id": "TXN-480DD95631",
+    "customer": {
+      "customer_id": "CUST-1038CDCC",
+      "name": "Patrick Webb III"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-E406",
+      "project_name": "DAMAC Islands"
+    },
+    "payment": {
+      "date": "2025-11-15",
+      "type": "Admin Fee",
+      "method": "Cheque",
+      "amount_aed": 4200,
+      "reference": "REF-399360"
+    },
+    "bank_details": {
+      "bank_name": "Emirates NBD",
+      "cheque_number": "751686"
+    },
+    "escrow_account": "RERA-ESC-88767",
+    "status": "cleared"
+  },
+  {
+    "receipt_id": "RCP-D410AED0",
+    "transaction_id": "TXN-0C71E37762",
+    "customer": {
+      "customer_id": "CUST-094CF2A0",
+      "name": "Kathryn Porter DVM"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-110",
+      "project_name": "DAMAC Bay 2"
+    },
+    "payment": {
+      "date": "2025-03-11",
+      "type": "Construction Milestone",
+      "method": "Bank Transfer",
+      "amount_aed": 1023366.41,
+      "reference": "REF-442855"
+    },
+    "bank_details": {
+      "bank_name": "Commercial Bank of Dubai",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-59512",
+    "status": "cleared"
+  },
+  {
+    "receipt_id": "RCP-779AED57",
+    "transaction_id": "TXN-80A3B1950A",
+    "customer": {
+      "customer_id": "CUST-37C5E081",
+      "name": "Tara Sharp"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-4204",
+      "project_name": "DAMAC Bay"
+    },
+    "payment": {
+      "date": "2025-07-12",
+      "type": "Monthly Installment",
+      "method": "Bank Transfer",
+      "amount_aed": 154460.0,
+      "reference": "REF-975857"
+    },
+    "bank_details": {
+      "bank_name": "First Abu Dhabi Bank",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-92935",
+    "status": "bounced"
+  },
+  {
+    "receipt_id": "RCP-603E486B",
+    "transaction_id": "TXN-B103D5263E",
+    "customer": {
+      "customer_id": "CUST-BF6A6D00",
+      "name": "Michael Cooper"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-5001",
+      "project_name": "DAMAC Bay 2"
+    },
+    "payment": {
+      "date": "2025-01-21",
+      "type": "Booking Amount",
+      "method": "Cheque",
+      "amount_aed": 85200.0,
+      "reference": "REF-217510"
+    },
+    "bank_details": {
+      "bank_name": "First Abu Dhabi Bank",
+      "cheque_number": "469488"
+    },
+    "escrow_account": "RERA-ESC-59548",
+    "status": "pending_clearance"
+  },
+  {
+    "receipt_id": "RCP-873D6FBD",
+    "transaction_id": "TXN-6F5216F0FA",
+    "customer": {
+      "customer_id": "CUST-977DE902",
+      "name": "Michael Monroe"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-C143",
+      "project_name": "DAMAC Lagoons"
+    },
+    "payment": {
+      "date": "2025-10-24",
+      "type": "Booking Amount",
+      "method": "Cheque",
+      "amount_aed": 2444800.0,
+      "reference": "REF-626860"
+    },
+    "bank_details": {
+      "bank_name": "Dubai Islamic Bank",
+      "cheque_number": "748108"
+    },
+    "escrow_account": "RERA-ESC-31382",
+    "status": "bounced"
+  },
+  {
+    "receipt_id": "RCP-331CBC44",
+    "transaction_id": "TXN-351BBE6C8F",
+    "customer": {
+      "customer_id": "CUST-D82A3CC1",
+      "name": "Amy Guzman"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-2201",
+      "project_name": "DAMAC Bay 2"
+    },
+    "payment": {
+      "date": "2025-11-29",
+      "type": "Booking Amount",
+      "method": "Bank Transfer",
+      "amount_aed": 258300.0,
+      "reference": "REF-945802"
+    },
+    "bank_details": {
+      "bank_name": "Dubai Islamic Bank",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-99233",
+    "status": "cleared"
+  },
+  {
+    "receipt_id": "RCP-A268B437",
+    "transaction_id": "TXN-294FF24D32",
+    "customer": {
+      "customer_id": "CUST-32177D31",
+      "name": "Felicia Thomas"
+    },
+    "property": {
+      "unit_id": "DAMAC-SAF-2303",
+      "project_name": "Safa One"
+    },
+    "payment": {
+      "date": "2025-08-09",
+      "type": "DLD Fee",
+      "method": "Bank Transfer",
+      "amount_aed": 978680.0,
+      "reference": "REF-817595"
+    },
+    "bank_details": {
+      "bank_name": "Mashreq Bank",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-50901",
+    "status": "cleared"
+  },
+  {
+    "receipt_id": "RCP-AEB0776D",
+    "transaction_id": "TXN-795EB819B5",
+    "customer": {
+      "customer_id": "CUST-29C34A20",
+      "name": "Stacey Hood"
+    },
+    "property": {
+      "unit_id": "DAMAC-SAF-305",
+      "project_name": "Safa Two"
+    },
+    "payment": {
+      "date": "2025-06-06",
+      "type": "Admin Fee",
+      "method": "Bank Transfer",
+      "amount_aed": 4200,
+      "reference": "REF-310681"
+    },
+    "bank_details": {
+      "bank_name": "Abu Dhabi Commercial Bank",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-40505",
+    "status": "bounced"
+  },
+  {
+    "receipt_id": "RCP-87D180BF",
+    "transaction_id": "TXN-91FE070861",
+    "customer": {
+      "customer_id": "CUST-5F6FE4F2",
+      "name": "Steven Kim"
+    },
+    "property": {
+      "unit_id": "DAMAC-AYK-4307",
+      "project_name": "AYKON City"
+    },
+    "payment": {
+      "date": "2025-12-27",
+      "type": "Construction Milestone",
+      "method": "Manager's Cheque",
+      "amount_aed": 1108755.61,
+      "reference": "REF-192940"
+    },
+    "bank_details": {
+      "bank_name": "Mashreq Bank",
+      "cheque_number": "917031"
+    },
+    "escrow_account": "RERA-ESC-35281",
+    "status": "pending_clearance"
+  },
+  {
+    "receipt_id": "RCP-15488624",
+    "transaction_id": "TXN-11BCF00F42",
+    "customer": {
+      "customer_id": "CUST-44D704D4",
+      "name": "Madison Johns"
+    },
+    "property": {
+      "unit_id": "DAMAC-ZAD-3202",
+      "project_name": "Zada Tower"
+    },
+    "payment": {
+      "date": "2025-11-27",
+      "type": "Handover Payment",
+      "method": "Manager's Cheque",
+      "amount_aed": 551500.0,
+      "reference": "REF-891861"
+    },
+    "bank_details": {
+      "bank_name": "First Abu Dhabi Bank",
+      "cheque_number": "361337"
+    },
+    "escrow_account": "RERA-ESC-64023",
+    "status": "pending_clearance"
+  },
+  {
+    "receipt_id": "RCP-843E1427",
+    "transaction_id": "TXN-9EEB82F196",
+    "customer": {
+      "customer_id": "CUST-3AFCF4B2",
+      "name": "Gregory King"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-2302",
+      "project_name": "DAMAC Bay 2"
+    },
+    "payment": {
+      "date": "2025-12-03",
+      "type": "Monthly Installment",
+      "method": "Bank Transfer",
+      "amount_aed": 19320.0,
+      "reference": "REF-650848"
+    },
+    "bank_details": {
+      "bank_name": "Commercial Bank of Dubai",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-17682",
+    "status": "pending_clearance"
+  },
+  {
+    "receipt_id": "RCP-5E76858A",
+    "transaction_id": "TXN-C5DB3072C6",
+    "customer": {
+      "customer_id": "CUST-B12D05EE",
+      "name": "Richard Dodson"
+    },
+    "property": {
+      "unit_id": "DAMAC-ZAD-2809",
+      "project_name": "Zada Tower"
+    },
+    "payment": {
+      "date": "2025-11-13",
+      "type": "Handover Payment",
+      "method": "Credit Card",
+      "amount_aed": 4361600.0,
+      "reference": "REF-963814"
+    },
+    "bank_details": {
+      "bank_name": "Commercial Bank of Dubai",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-31071",
+    "status": "cleared"
+  },
+  {
+    "receipt_id": "RCP-682DF732",
+    "transaction_id": "TXN-F900EF5AEA",
+    "customer": {
+      "customer_id": "CUST-B881014A",
+      "name": "Hayley Everett MD"
+    },
+    "property": {
+      "unit_id": "DAMAC-TRU-B297",
+      "project_name": "Trump DAMAC Golf"
+    },
+    "payment": {
+      "date": "2025-06-30",
+      "type": "Construction Milestone",
+      "method": "Cheque",
+      "amount_aed": 469323.69,
+      "reference": "REF-679340"
+    },
+    "bank_details": {
+      "bank_name": "Emirates NBD",
+      "cheque_number": "840370"
+    },
+    "escrow_account": "RERA-ESC-22626",
+    "status": "bounced"
+  },
+  {
+    "receipt_id": "RCP-E148BA79",
+    "transaction_id": "TXN-CC3CC427AE",
+    "customer": {
+      "customer_id": "CUST-540DE50B",
+      "name": "Cesar Garcia"
+    },
+    "property": {
+      "unit_id": "DAMAC-SAF-512",
+      "project_name": "Safa One"
+    },
+    "payment": {
+      "date": "2025-07-17",
+      "type": "Construction Milestone",
+      "method": "Credit Card",
+      "amount_aed": 677585.78,
+      "reference": "REF-627786"
+    },
+    "bank_details": {
+      "bank_name": "RAKBANK",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-26332",
+    "status": "pending_clearance"
+  },
+  {
+    "receipt_id": "RCP-18AEFF85",
+    "transaction_id": "TXN-5F1601DDFB",
+    "customer": {
+      "customer_id": "CUST-88E1206F",
+      "name": "Jamie Smith DDS"
+    },
+    "property": {
+      "unit_id": "DAMAC-SAF-3612",
+      "project_name": "Safa One"
+    },
+    "payment": {
+      "date": "2025-04-14",
+      "type": "Construction Milestone",
+      "method": "Cheque",
+      "amount_aed": 992630.89,
+      "reference": "REF-754981"
+    },
+    "bank_details": {
+      "bank_name": "First Abu Dhabi Bank",
+      "cheque_number": "661274"
+    },
+    "escrow_account": "RERA-ESC-33473",
+    "status": "cleared"
+  },
+  {
+    "receipt_id": "RCP-B2F032F5",
+    "transaction_id": "TXN-2620571CB9",
+    "customer": {
+      "customer_id": "CUST-B69EEFAB",
+      "name": "Meagan Marshall"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-4111",
+      "project_name": "DAMAC Bay"
+    },
+    "payment": {
+      "date": "2025-02-05",
+      "type": "Handover Payment",
+      "method": "Cheque",
+      "amount_aed": 820400.0,
+      "reference": "REF-872524"
+    },
+    "bank_details": {
+      "bank_name": "Dubai Islamic Bank",
+      "cheque_number": "819386"
+    },
+    "escrow_account": "RERA-ESC-42449",
+    "status": "pending_clearance"
+  },
+  {
+    "receipt_id": "RCP-5983CB51",
+    "transaction_id": "TXN-205BB6F875",
+    "customer": {
+      "customer_id": "CUST-1059712A",
+      "name": "Tammy Medina"
+    },
+    "property": {
+      "unit_id": "DAMAC-ZAD-1907",
+      "project_name": "Zada Tower"
+    },
+    "payment": {
+      "date": "2025-08-11",
+      "type": "Monthly Installment",
+      "method": "Bank Transfer",
+      "amount_aed": 29970.0,
+      "reference": "REF-408365"
+    },
+    "bank_details": {
+      "bank_name": "Abu Dhabi Commercial Bank",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-55658",
+    "status": "bounced"
+  },
+  {
+    "receipt_id": "RCP-DAB08E01",
+    "transaction_id": "TXN-6B8B16CA1B",
+    "customer": {
+      "customer_id": "CUST-2385D76E",
+      "name": "Meghan Kennedy"
+    },
+    "property": {
+      "unit_id": "DAMAC-SAF-3611",
+      "project_name": "Safa One"
+    },
+    "payment": {
+      "date": "2025-02-15",
+      "type": "Construction Milestone",
+      "method": "Bank Transfer",
+      "amount_aed": 265892.56,
+      "reference": "REF-477805"
+    },
+    "bank_details": {
+      "bank_name": "RAKBANK",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-55429",
+    "status": "bounced"
+  },
+  {
+    "receipt_id": "RCP-80028C93",
+    "transaction_id": "TXN-6ADF28B17A",
+    "customer": {
+      "customer_id": "CUST-40BC335B",
+      "name": "Carl Armstrong"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-1511",
+      "project_name": "DAMAC Bay 2"
+    },
+    "payment": {
+      "date": "2025-08-31",
+      "type": "DLD Fee",
+      "method": "Cheque",
+      "amount_aed": 303200.0,
+      "reference": "REF-411333"
+    },
+    "bank_details": {
+      "bank_name": "Mashreq Bank",
+      "cheque_number": "713987"
+    },
+    "escrow_account": "RERA-ESC-44506",
+    "status": "cleared"
+  },
+  {
+    "receipt_id": "RCP-106B3CD5",
+    "transaction_id": "TXN-E356458504",
+    "customer": {
+      "customer_id": "CUST-05323262",
+      "name": "Brian Allen"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-1208",
+      "project_name": "DAMAC Bay"
+    },
+    "payment": {
+      "date": "2025-03-19",
+      "type": "Construction Milestone",
+      "method": "Bank Transfer",
+      "amount_aed": 853210.52,
+      "reference": "REF-557126"
+    },
+    "bank_details": {
+      "bank_name": "Abu Dhabi Commercial Bank",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-49870",
+    "status": "pending_clearance"
+  },
+  {
+    "receipt_id": "RCP-41CCC4CA",
+    "transaction_id": "TXN-C74CC8C2F3",
+    "customer": {
+      "customer_id": "CUST-79F452F2",
+      "name": "Cassandra Coffey"
+    },
+    "property": {
+      "unit_id": "DAMAC-SAF-1311",
+      "project_name": "Safa Two"
+    },
+    "payment": {
+      "date": "2025-11-02",
+      "type": "Booking Amount",
+      "method": "Manager's Cheque",
+      "amount_aed": 755200.0,
+      "reference": "REF-211171"
+    },
+    "bank_details": {
+      "bank_name": "RAKBANK",
+      "cheque_number": "817496"
+    },
+    "escrow_account": "RERA-ESC-63857",
+    "status": "pending_clearance"
+  },
+  {
+    "receipt_id": "RCP-923DB16A",
+    "transaction_id": "TXN-280E23D448",
+    "customer": {
+      "customer_id": "CUST-6989042E",
+      "name": "Lori Gonzalez"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-E465",
+      "project_name": "DAMAC Hills 2"
+    },
+    "payment": {
+      "date": "2025-08-06",
+      "type": "Booking Amount",
+      "method": "Bank Transfer",
+      "amount_aed": 314300.0,
+      "reference": "REF-888300"
+    },
+    "bank_details": {
+      "bank_name": "Commercial Bank of Dubai",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-18528",
+    "status": "cleared"
+  },
+  {
+    "receipt_id": "RCP-E112AA88",
+    "transaction_id": "TXN-99E13490E3",
+    "customer": {
+      "customer_id": "CUST-3029C898",
+      "name": "Courtney Lee"
+    },
+    "property": {
+      "unit_id": "DAMAC-CAV-202",
+      "project_name": "Cavalli Tower"
+    },
+    "payment": {
+      "date": "2025-11-26",
+      "type": "DLD Fee",
+      "method": "Bank Transfer",
+      "amount_aed": 174320.0,
+      "reference": "REF-622752"
+    },
+    "bank_details": {
+      "bank_name": "Commercial Bank of Dubai",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-72715",
+    "status": "pending_clearance"
+  },
+  {
+    "receipt_id": "RCP-369572B8",
+    "transaction_id": "TXN-FC72DCCF06",
+    "customer": {
+      "customer_id": "CUST-0AF92464",
+      "name": "Edward Mccoy"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-B328",
+      "project_name": "DAMAC Hills 2"
+    },
+    "payment": {
+      "date": "2025-11-25",
+      "type": "Booking Amount",
+      "method": "Bank Transfer",
+      "amount_aed": 1456500.0,
+      "reference": "REF-443311"
+    },
+    "bank_details": {
+      "bank_name": "Emirates NBD",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-98137",
+    "status": "pending_clearance"
+  },
+  {
+    "receipt_id": "RCP-D2C9BE29",
+    "transaction_id": "TXN-4683FBB7AC",
+    "customer": {
+      "customer_id": "CUST-06D60C85",
+      "name": "Louis Simon"
+    },
+    "property": {
+      "unit_id": "DAMAC-DAM-3009",
+      "project_name": "DAMAC Bay 2"
+    },
+    "payment": {
+      "date": "2025-06-02",
+      "type": "Monthly Installment",
+      "method": "Bank Transfer",
+      "amount_aed": 32390.0,
+      "reference": "REF-218454"
+    },
+    "bank_details": {
+      "bank_name": "Mashreq Bank",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-97018",
+    "status": "cleared"
+  },
+  {
+    "receipt_id": "RCP-C104D2D2",
+    "transaction_id": "TXN-390BD7838B",
+    "customer": {
+      "customer_id": "CUST-46CE2326",
+      "name": "Chelsea Hill"
+    },
+    "property": {
+      "unit_id": "DAMAC-TRU-C387",
+      "project_name": "Trump DAMAC Golf"
+    },
+    "payment": {
+      "date": "2025-05-11",
+      "type": "DLD Fee",
+      "method": "Bank Transfer",
+      "amount_aed": 560400.0,
+      "reference": "REF-277140"
+    },
+    "bank_details": {
+      "bank_name": "Emirates NBD",
+      "cheque_number": null
+    },
+    "escrow_account": "RERA-ESC-54791",
+    "status": "pending_clearance"
+  }
+]
