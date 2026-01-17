@@ -31,10 +31,25 @@ import asyncio
 import json
 import os
 import sys
+import logging
 from typing import Optional
 
 # Add project root to path
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+
+# Configure logging to stderr (MCP uses stdout for JSON communication)
+logging.basicConfig(
+    level=logging.WARNING,
+    format='%(message)s',
+    stream=sys.stderr
+)
+
+# Configure structlog to use stderr
+import structlog
+structlog.configure(
+    wrapper_class=structlog.make_filtering_bound_logger(logging.WARNING),
+    logger_factory=structlog.PrintLoggerFactory(file=sys.stderr),
+)
 
 from dotenv import load_dotenv
 load_dotenv()
